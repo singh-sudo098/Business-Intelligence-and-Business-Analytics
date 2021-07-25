@@ -1,0 +1,1001 @@
+,Lead_ID,Opportunity_ID,Product_Name,Product_ID,Email_address,Created_on,Close_Date,Estimated_Revenue,Actual_Revenue,Description,Rating,Probability,Last_Modified_By
+0,LI-5995-48,OPP-4691-16,Proxima-C,HC-6902967,dbabbage0@state.gov,2020-10-19 19:57:30,2020-10-28 04:45:47,665,811,Lost,Cold,0.05,Belal Farooqui
+1,LI-5127-86,OPP-2731-23,Kits Dragon,HC-8802520,dmcmorran1@msu.edu,2020-06-04 00:46:26,2020-06-11 07:46:33,1098,1275,Open,Warm,0.35,Ruchita Patil
+2,LI-3012-05,OPP-7145-55,Proxima-C,RP-5470743,sisherwood2@springer.com,2020-01-19 00:25:06,2020-01-28 05:41:52,788,949,Open,Warm,0.3,Jaswinder Singh
+3,LI-7562-77,OPP-5728-87,Kits Dragon,HC-8405964,jjuett3@pcworld.com,2020-04-29 04:32:10,2020-05-08 05:24:34,599,502,Lost,Cold,0.0,Ruchita Patil
+4,LI-9767-35,OPP-3606-21,Phoenix,RP-0261911,csellars4@yellowbook.com,2020-09-13 16:13:15,2020-09-20 01:03:25,1509,1077,Lost,Cold,0.0,Belal Farooqui
+5,LI-9085-17,OPP-7561-40,Proxima-C,HC-1587366,egates5@addtoany.com,2020-03-27 22:19:17,2020-04-04 05:10:59,955,1039,Won,Hot,0.95,Ruchita Patil
+6,LI-5335-42,OPP-0218-55,Kits Dragon,HC-5292413,rwerendell6@washington.edu,2020-02-24 23:46:56,2020-03-04 07:02:33,1828,1362,Won,Hot,0.9,Belal Farooqui
+7,LI-4258-95,OPP-1978-47,Kits Dragon,RP-6184768,sgautrey7@irs.gov,2019-12-29 19:03:16,2020-01-04 21:19:41,1817,1355,Won,Hot,0.8,Belal Farooqui
+8,LI-0927-66,OPP-2295-91,Sirius,HC-0560552,cdevereux8@aboutads.info,2020-08-08 04:46:36,2020-08-17 10:19:22,904,1025,Lost,Cold,0.05,Heena Chopra
+9,LI-7869-76,OPP-5377-45,Phoenix,BM-4074604,ktallis9@slashdot.org,2020-01-15 06:33:51,2020-01-24 13:12:46,517,630,Won,Hot,0.95,Belal Farooqui
+10,LI-3084-53,OPP-8211-47,Proxima-C,RP-1868074,kseggea@behance.net,2019-11-28 11:04:21,2019-12-07 18:38:26,2048,1532,Won,Hot,0.85,Belal Farooqui
+11,LI-6390-61,OPP-5891-52,Kits Dragon,RP-2775663,mdrinkhallb@qq.com,2020-04-14 03:56:07,2020-04-21 14:00:57,1216,1220,Lost,Cold,0.05,Jaswinder Singh
+12,LI-3042-40,OPP-4168-27,Kits Dragon,RP-4423612,cmcgauganc@reverbnation.com,2020-09-30 06:16:57,2020-10-10 18:58:18,1070,937,Lost,Cold,0.05,Ruchita Patil
+13,LI-6988-68,OPP-7567-29,Kits Dragon,HC-1927117,krourked@w3.org,2020-06-13 22:47:27,2020-06-18 23:16:18,1186,846,Open,Warm,0.3,Ruchita Patil
+14,LI-5393-37,OPP-8439-46,Kits Dragon,RP-9334960,cgummorye@accuweather.com,2020-04-15 10:56:18,2020-04-22 21:46:04,1483,1045,Open,Warm,0.45,Jaswinder Singh
+15,LI-0480-01,OPP-4560-91,Proxima-C,RP-8824365,twalchf@walmart.com,2020-11-07 05:24:08,2020-11-16 11:05:49,967,1161,Lost,Cold,0.0,Heena Chopra
+16,LI-1409-14,OPP-2273-56,Kits Dragon,HC-1487998,asavaryg@home.pl,2020-10-10 16:23:47,2020-10-19 16:26:38,783,575,Lost,Cold,0.05,Ruchita Patil
+17,LI-9058-24,OPP-6126-33,Kits Dragon,HC-4410475,ewudelandh@phoca.cz,2020-01-23 10:45:10,2020-01-31 11:19:57,862,665,Won,Hot,0.85,Ruchita Patil
+18,LI-4330-76,OPP-5765-14,Sirius,RP-8395979,rhadleyi@nymag.com,2020-01-27 07:18:39,2020-02-02 10:19:19,957,886,Won,Hot,0.9,Ruchita Patil
+19,LI-6025-43,OPP-0509-33,Kits Dragon,BM-2184161,vpurseyj@oracle.com,2020-09-21 21:25:28,2020-10-01 05:42:02,1299,952,Open,Warm,0.3,Belal Farooqui
+20,LI-8668-39,OPP-0374-37,Kits Dragon,HC-9515095,ldavidovitchk@dagondesign.com,2020-04-08 08:06:17,2020-04-17 11:42:07,1406,1161,Won,Hot,0.95,Heena Chopra
+21,LI-2539-30,OPP-5248-54,Proxima-C,HC-1375656,msteinhaml@artisteer.com,2020-08-27 22:32:22,2020-09-02 06:52:12,917,923,Open,Warm,0.45,Heena Chopra
+22,LI-0200-40,OPP-1003-76,Proxima-C,RP-3912688,rtregunnam@omniture.com,2020-07-31 21:43:07,2020-08-11 05:34:50,1051,705,Lost,Cold,0.05,Ruchita Patil
+23,LI-9995-83,OPP-4269-08,Sirius,HC-0790963,bbrotherickn@weebly.com,2020-08-15 10:06:48,2020-08-23 12:28:36,474,530,Won,Hot,0.8,Jaswinder Singh
+24,LI-8622-94,OPP-6130-63,Sirius,JS-5963300,mbagoto@nytimes.com,2020-04-05 15:18:19,2020-04-12 01:31:23,903,749,Lost,Cold,0.0,Jaswinder Singh
+25,LI-2244-81,OPP-8506-38,Proxima-C,RP-9282777,pclyantp@twitter.com,2020-03-27 13:10:18,2020-04-03 20:10:47,1270,1132,Won,Hot,0.95,Ruchita Patil
+26,LI-9060-38,OPP-7464-06,Aurora,BM-4869258,gjuddq@washingtonpost.com,2020-04-03 05:11:04,2020-04-09 12:41:10,1074,857,Open,Warm,0.4,Heena Chopra
+27,LI-6482-59,OPP-9249-64,Aurora,RP-0845828,lstoltzr@google.com,2020-03-04 01:55:09,2020-03-12 08:50:29,1127,836,Open,Warm,0.4,Ruchita Patil
+28,LI-7278-16,OPP-5741-85,Apollo,HC-6363723,hgonnellys@si.edu,2020-06-20 16:46:27,2020-06-27 18:52:27,1233,984,Won,Hot,0.8,Jaswinder Singh
+29,LI-9545-30,OPP-6892-05,Kits Dragon,JS-1442466,tlexat@surveymonkey.com,2020-11-12 15:01:59,2020-11-22 17:01:35,1099,797,Lost,Cold,0.05,Heena Chopra
+30,LI-0847-05,OPP-0737-40,Aurora,HC-4365286,scaskieu@pagesperso-orange.fr,2020-03-20 21:07:07,2020-03-26 02:13:38,1276,871,Lost,Cold,0.0,Belal Farooqui
+31,LI-3729-38,OPP-4142-75,Kits Dragon,RP-1907196,kdreschlerv@t.co,2020-01-28 23:56:57,2020-02-04 04:30:04,798,772,Open,Warm,0.4,Heena Chopra
+32,LI-8709-86,OPP-4884-20,Kits Dragon,JS-6076187,chasneyw@altervista.org,2019-12-29 05:43:06,2020-01-08 16:58:50,850,760,Won,Hot,0.85,Jaswinder Singh
+33,LI-2228-67,OPP-7726-75,Apollo,RP-7462821,arochesx@wordpress.com,2020-05-19 17:15:02,2020-05-26 06:13:05,767,1014,Open,Warm,0.35,Ruchita Patil
+34,LI-9404-84,OPP-0761-35,Kits Dragon,BM-6531206,gjanowskiy@fda.gov,2020-06-22 18:44:27,2020-07-01 22:00:16,1011,1030,Lost,Cold,0.05,Belal Farooqui
+35,LI-1952-97,OPP-7901-02,Proxima-C,JS-4728839,kbonaviaz@51.la,2020-09-10 00:17:26,2020-09-18 04:33:11,829,760,Won,Hot,0.95,Heena Chopra
+36,LI-1062-67,OPP-7036-89,Kits Dragon,RP-7532188,bsherburn10@disqus.com,2020-07-30 04:13:28,2020-08-04 13:59:11,1213,1174,Lost,Cold,0.0,Heena Chopra
+37,LI-8895-54,OPP-5091-77,Sirius,BM-2022175,splante11@imageshack.us,2020-07-08 07:09:03,2020-07-17 15:48:06,822,794,Open,Warm,0.4,Belal Farooqui
+38,LI-2899-58,OPP-2727-35,Kits Dragon,BM-7061920,zpetche12@csmonitor.com,2020-08-01 01:43:29,2020-08-11 06:42:49,817,785,Open,Warm,0.35,Ruchita Patil
+39,LI-5685-69,OPP-6637-94,Sirius,HC-4630400,echristofol13@ucla.edu,2019-12-17 12:14:56,2019-12-25 14:36:04,1144,955,Open,Warm,0.45,Heena Chopra
+40,LI-7457-05,OPP-7838-90,Sirius,RP-8298918,tflieger14@reference.com,2019-12-13 03:30:04,2019-12-21 11:12:58,970,1036,Won,Hot,0.95,Ruchita Patil
+41,LI-3669-92,OPP-7921-69,Proxima-C,JS-4724724,lcannaway15@jugem.jp,2019-11-28 18:13:24,2019-12-05 03:58:13,877,805,Won,Hot,0.85,Jaswinder Singh
+42,LI-5210-95,OPP-2780-91,Proxima-C,HC-2357481,sheaviside16@netlog.com,2020-04-05 21:26:38,2020-04-11 22:24:43,1470,1395,Open,Warm,0.4,Ruchita Patil
+43,LI-8595-61,OPP-7282-74,Kits Dragon,JS-7099104,cwolland17@hostgator.com,2020-02-09 14:03:12,2020-02-19 20:46:59,311,278,Open,Warm,0.4,Jaswinder Singh
+44,LI-3524-71,OPP-1706-89,Proxima-C,RP-1419605,ghackelton18@mozilla.com,2019-12-18 09:06:03,2019-12-27 21:46:58,927,1060,Won,Hot,0.85,Ruchita Patil
+45,LI-8108-53,OPP-6017-26,Kits Dragon,RP-7864922,bseary19@epa.gov,2020-09-17 22:59:21,2020-09-23 04:26:15,863,1135,Won,Hot,0.85,Ruchita Patil
+46,LI-7481-97,OPP-9796-99,Sirius,HC-9701521,rscrane1a@google.com.br,2020-11-07 10:55:54,2020-11-15 23:03:38,1538,1083,Open,Warm,0.45,Ruchita Patil
+47,LI-3399-16,OPP-1056-76,Kits Dragon,JS-7327845,lmayho1b@ifeng.com,2020-01-05 06:46:07,2020-01-10 17:12:37,1150,1101,Won,Hot,0.9,Ruchita Patil
+48,LI-7845-08,OPP-3321-77,Kits Dragon,RP-0391334,bschurcke1c@prnewswire.com,2020-03-18 19:06:18,2020-03-26 05:24:18,759,740,Lost,Cold,0.0,Belal Farooqui
+49,LI-5004-75,OPP-4105-18,Kits Dragon,RP-4883100,dbaldry1d@bloglines.com,2020-08-27 19:59:02,2020-09-03 22:36:55,1204,1077,Won,Hot,0.9,Ruchita Patil
+50,LI-4668-37,OPP-4989-23,Proxima-C,JS-7555772,rpieter1e@theguardian.com,2020-06-15 05:32:42,2020-06-25 16:32:50,881,1115,Won,Hot,0.85,Ruchita Patil
+51,LI-8439-65,OPP-6900-91,Kits Dragon,RP-1016588,rdungay1f@msu.edu,2020-03-12 00:57:17,2020-03-17 04:34:41,1186,1028,Lost,Cold,0.05,Ruchita Patil
+52,LI-8580-29,OPP-2498-54,Kits Dragon,BM-9606169,hasson1g@google.cn,2020-10-16 18:54:17,2020-10-26 21:24:17,666,816,Lost,Cold,0.0,Heena Chopra
+53,LI-3967-74,OPP-3608-71,Proxima-C,RP-5834428,cmammatt1h@umn.edu,2020-11-02 10:22:06,2020-11-11 11:22:04,1507,1044,Won,Hot,0.9,Belal Farooqui
+54,LI-7768-46,OPP-8524-15,Kits Dragon,RP-3173854,jsaunders1i@ning.com,2020-01-05 08:24:59,2020-01-14 09:57:46,1292,975,Won,Hot,0.9,Ruchita Patil
+55,LI-4344-71,OPP-8082-11,Proxima-C,HC-4618879,cjeannet1j@about.com,2020-03-29 15:57:05,2020-04-03 22:20:14,1236,1357,Won,Hot,0.95,Heena Chopra
+56,LI-6368-93,OPP-0624-70,Proxima-C,BM-6081734,gasipenko1k@friendfeed.com,2020-09-15 13:36:48,2020-09-21 20:05:42,677,687,Won,Hot,0.95,Belal Farooqui
+57,LI-1509-79,OPP-7039-97,Kits Dragon,HC-9614954,osansum1l@phpbb.com,2020-08-30 03:55:50,2020-09-06 09:51:36,995,1150,Won,Hot,0.8,Heena Chopra
+58,LI-8063-03,OPP-8412-67,Kits Dragon,HC-3164248,clehrmann1m@cornell.edu,2019-11-30 08:42:10,2019-12-08 12:53:06,1683,1170,Won,Hot,0.85,Belal Farooqui
+59,LI-7933-96,OPP-9517-99,Proxima-C,RP-8637900,pjanos1n@bandcamp.com,2019-11-10 17:03:29,2019-11-21 02:14:46,1331,888,Won,Hot,0.95,Ruchita Patil
+60,LI-2014-75,OPP-5399-27,Sirius,RP-4184009,measey1o@networksolutions.com,2020-09-16 04:36:13,2020-09-26 10:36:18,979,1112,Open,Warm,0.35,Belal Farooqui
+61,LI-3504-25,OPP-1825-83,Sirius,BM-0339815,kcardoe1p@facebook.com,2019-11-13 23:39:59,2019-11-21 02:05:19,814,1031,Won,Hot,0.85,Jaswinder Singh
+62,LI-2941-83,OPP-1942-89,Kits Dragon,RP-9861640,cbover1q@phoca.cz,2020-11-15 17:19:49,2020-11-25 01:07:47,733,675,Lost,Cold,0.0,Belal Farooqui
+63,LI-7084-02,OPP-8598-13,Kits Dragon,RP-0461189,rdalmon1r@ibm.com,2020-05-08 22:52:44,2020-05-19 08:16:15,1201,1263,Won,Hot,0.95,Ruchita Patil
+64,LI-1196-14,OPP-0571-06,Proxima-C,RP-8696270,bfearnley1s@bbb.org,2019-11-28 15:01:34,2019-12-05 00:26:46,899,1022,Won,Hot,0.95,Ruchita Patil
+65,LI-8479-38,OPP-8234-19,Kits Dragon,RP-3543018,bbrogan1t@vk.com,2020-10-02 19:16:18,2020-10-10 02:28:17,2018,1370,Lost,Cold,0.0,Ruchita Patil
+66,LI-2743-99,OPP-8766-88,Proxima-C,RP-5982654,svenners1u@ca.gov,2020-01-05 14:08:10,2020-01-15 16:39:53,895,850,Open,Warm,0.3,Belal Farooqui
+67,LI-5770-11,OPP-9839-74,Agyrap-S,RP-5282503,rtorre1v@opensource.org,2020-09-11 03:48:14,2020-09-21 11:29:02,1744,1174,Lost,Cold,0.0,Belal Farooqui
+68,LI-8148-25,OPP-0531-31,Kits Dragon,RP-0318590,rthuillier1w@tumblr.com,2020-05-04 09:13:22,2020-05-11 12:46:42,408,515,Lost,Cold,0.05,Ruchita Patil
+69,LI-7074-70,OPP-8130-35,Kits Dragon,BM-2716083,iduffitt1x@ocn.ne.jp,2019-12-14 14:46:56,2019-12-24 22:34:09,975,817,Won,Hot,0.8,Heena Chopra
+70,LI-4951-99,OPP-8504-64,Kits Dragon,HC-0902094,mopfer1y@edublogs.org,2020-06-01 22:34:19,2020-06-10 23:19:11,1174,997,Won,Hot,0.9,Ruchita Patil
+71,LI-6804-51,OPP-4872-66,Proxima-C,HC-1275620,cbrandenburg1z@squidoo.com,2020-07-27 10:42:57,2020-08-02 10:51:57,956,1026,Lost,Cold,0.05,Heena Chopra
+72,LI-3582-78,OPP-9414-69,Kits Dragon,RP-8318524,mwellesley20@pen.io,2020-09-03 20:59:42,2020-09-11 04:45:28,1017,1111,Won,Hot,0.95,Jaswinder Singh
+73,LI-6353-45,OPP-9293-96,Proxima-C,RP-0883155,cgudgen21@paginegialle.it,2020-04-22 13:22:41,2020-04-27 17:31:57,709,490,Won,Hot,0.9,Ruchita Patil
+74,LI-8110-97,OPP-8654-46,Kits Dragon,RP-3543039,esealove22@shutterfly.com,2020-08-17 08:02:40,2020-08-25 15:11:46,2147,1581,Lost,Cold,0.05,Belal Farooqui
+75,LI-1179-91,OPP-0834-49,Proxima-C,HC-6565457,equarrie23@list-manage.com,2020-03-12 07:38:52,2020-03-17 10:31:05,1849,1248,Open,Warm,0.45,Ruchita Patil
+76,LI-1476-34,OPP-0516-78,Aurora,HC-8326751,lantuoni24@livejournal.com,2020-01-18 20:15:45,2020-01-25 05:15:11,1610,1327,Lost,Cold,0.0,Ruchita Patil
+77,LI-9871-44,OPP-7260-02,Kits Dragon,RP-5704063,cformie25@angelfire.com,2020-09-18 10:49:12,2020-09-23 23:45:24,731,815,Open,Warm,0.4,Belal Farooqui
+78,LI-2566-80,OPP-1818-18,Kits Dragon,JS-1836112,dhabble26@globo.com,2020-10-24 16:58:21,2020-11-03 20:56:05,1436,1155,Open,Warm,0.45,Belal Farooqui
+79,LI-0215-68,OPP-9996-70,Proxima-C,JS-9769732,eclougher27@printfriendly.com,2020-09-20 08:17:15,2020-09-28 17:19:48,794,967,Won,Hot,0.8,Heena Chopra
+80,LI-7102-81,OPP-5539-57,Proxima-C,RP-2543196,mshillabear28@vistaprint.com,2020-09-27 14:02:33,2020-10-05 21:48:35,1679,1315,Open,Warm,0.4,Ruchita Patil
+81,LI-7011-51,OPP-1391-54,Kits Dragon,HC-4574438,sdriver29@topsy.com,2020-05-24 17:59:55,2020-05-29 21:21:14,856,745,Open,Warm,0.45,Ruchita Patil
+82,LI-2868-29,OPP-9955-19,Proxima-C,RP-1248750,jmasser2a@merriam-webster.com,2020-09-18 05:49:15,2020-09-27 14:05:33,1018,903,Won,Hot,0.8,Ruchita Patil
+83,LI-1756-44,OPP-0920-83,Proxima-C,RP-7176564,scorballis2b@g.co,2020-06-06 15:04:01,2020-06-14 18:59:44,1139,844,Won,Hot,0.95,Ruchita Patil
+84,LI-1008-69,OPP-3622-83,Aurora,RP-5252947,tsearle2c@eventbrite.com,2020-10-11 09:28:02,2020-10-21 19:46:53,189,168,Won,Hot,0.85,Ruchita Patil
+85,LI-5150-39,OPP-4266-95,Kits Dragon,BM-4893980,kkirtland2d@behance.net,2020-08-28 18:07:05,2020-09-04 07:06:51,953,1028,Lost,Cold,0.0,Ruchita Patil
+86,LI-1389-22,OPP-8055-69,Proxima-C,RP-0628335,eessex2e@merriam-webster.com,2020-07-24 16:00:16,2020-07-31 23:16:53,1476,1150,Open,Warm,0.35,Ruchita Patil
+87,LI-6066-27,OPP-6068-68,Apollo,HC-0594091,cdiaper2f@nature.com,2019-12-20 18:01:29,2019-12-28 05:47:55,1526,1136,Won,Hot,0.8,Jaswinder Singh
+88,LI-1661-62,OPP-1392-25,Proxima-C,BM-3101743,ahorley2g@ovh.net,2020-06-16 08:00:33,2020-06-22 16:17:29,473,561,Won,Hot,0.9,Heena Chopra
+89,LI-6248-32,OPP-2238-32,Aurora,JS-7853746,mepgrave2h@addtoany.com,2020-03-17 04:04:09,2020-03-24 13:52:23,1125,860,Lost,Cold,0.0,Heena Chopra
+90,LI-6071-91,OPP-6606-43,Anhee-C,HC-5739050,vhulkes2i@creativecommons.org,2020-03-04 02:57:42,2020-03-14 04:15:35,1245,1067,Won,Hot,0.8,Belal Farooqui
+91,LI-4158-79,OPP-7297-27,Sirius,HC-4544027,gseago2j@reddit.com,2019-12-30 09:20:33,2020-01-08 16:38:57,1250,1224,Open,Warm,0.4,Ruchita Patil
+92,LI-1338-30,OPP-9522-30,Proxima-C,HC-8372599,atredwell2k@huffingtonpost.com,2020-02-19 01:15:05,2020-02-28 08:14:45,1790,1450,Won,Hot,0.9,Ruchita Patil
+93,LI-0359-86,OPP-2298-97,Kits Dragon,HC-7338673,gjacobsz2l@netlog.com,2020-04-15 18:40:47,2020-04-24 01:55:27,834,933,Open,Warm,0.45,Ruchita Patil
+94,LI-0206-87,OPP-7739-91,Kits Dragon,RP-7881310,nmorris2m@ehow.com,2020-05-22 11:11:18,2020-05-30 15:11:48,439,573,Won,Hot,0.95,Heena Chopra
+95,LI-8987-63,OPP-0992-77,Proxima-C,RP-0493886,dweare2n@wikia.com,2020-07-20 18:21:03,2020-07-26 19:32:36,1297,1109,Lost,Cold,0.0,Ruchita Patil
+96,LI-8330-86,OPP-9505-20,Apollo,HC-9005951,mjoul2o@w3.org,2020-07-02 12:06:21,2020-07-08 22:00:30,939,1155,Open,Warm,0.4,Ruchita Patil
+97,LI-1191-42,OPP-3630-12,Kits Dragon,HC-9551195,rdonhardt2p@smugmug.com,2020-06-14 05:49:45,2020-06-21 10:42:01,1303,1196,Won,Hot,0.8,Ruchita Patil
+98,LI-0703-81,OPP-4005-09,Proxima-C,BM-4976990,cpenhalurick2q@paypal.com,2019-12-27 08:23:21,2020-01-04 20:04:09,684,660,Open,Warm,0.45,Belal Farooqui
+99,LI-8086-22,OPP-5440-44,Sirius,HC-6561811,geminson2r@wsj.com,2019-12-13 09:10:32,2019-12-21 13:41:26,1510,1079,Open,Warm,0.35,Belal Farooqui
+100,LI-5420-54,OPP-4656-50,Aurora,HC-5654788,dduval2s@odnoklassniki.ru,2020-08-27 23:41:34,2020-09-03 03:30:14,1244,985,Won,Hot,0.85,Belal Farooqui
+101,LI-7314-16,OPP-6466-50,Apollo,HC-5153062,atowse2t@sourceforge.net,2019-12-11 18:30:08,2019-12-18 07:13:18,690,488,Won,Hot,0.9,Jaswinder Singh
+102,LI-2800-54,OPP-6359-88,Kits Dragon,RP-8080515,cwackly2u@apple.com,2020-10-09 13:24:47,2020-10-14 15:30:28,1078,1157,Open,Warm,0.4,Ruchita Patil
+103,LI-4802-28,OPP-5715-85,Kits Dragon,RP-0319851,ohultberg2v@ted.com,2020-10-05 23:50:45,2020-10-11 12:35:09,932,1183,Open,Warm,0.35,Jaswinder Singh
+104,LI-1756-08,OPP-2313-17,Aurora,RP-8175995,ewilbud2w@ft.com,2020-07-16 01:22:37,2020-07-24 01:58:58,912,721,Won,Hot,0.9,Ruchita Patil
+105,LI-1204-14,OPP-1192-95,Sirius,RP-0127648,dtodman2x@fema.gov,2020-05-11 01:56:19,2020-05-16 04:50:41,1433,1690,Won,Hot,0.85,Jaswinder Singh
+106,LI-9059-04,OPP-8906-20,Kits Dragon,JS-1618320,jwhitney2y@comsenz.com,2020-05-18 09:33:27,2020-05-28 11:12:35,1072,1287,Won,Hot,0.95,Belal Farooqui
+107,LI-6866-55,OPP-7323-57,Kits Dragon,JS-7843540,emeader2z@vinaora.com,2020-10-14 16:18:50,2020-10-24 21:47:42,894,658,Won,Hot,0.85,Ruchita Patil
+108,LI-8505-14,OPP-0600-39,Kits Dragon,HC-3815782,cbeccero30@google.pl,2019-11-28 06:57:09,2019-12-07 09:52:30,1538,1163,Lost,Cold,0.0,Ruchita Patil
+109,LI-4330-33,OPP-0461-34,Proxima-C,JS-5209308,ekilborn31@ted.com,2020-02-23 22:29:11,2020-03-02 01:28:06,815,798,Open,Warm,0.4,Ruchita Patil
+110,LI-1238-12,OPP-4580-47,Proxima-C,BM-6681648,kprudence32@livejournal.com,2020-09-10 13:46:58,2020-09-17 00:47:11,732,570,Open,Warm,0.35,Ruchita Patil
+111,LI-1638-43,OPP-1080-80,Kits Dragon,BM-2309821,hspaight33@people.com.cn,2020-09-14 20:17:19,2020-09-22 20:30:28,1191,967,Open,Warm,0.4,Belal Farooqui
+112,LI-4026-34,OPP-4596-89,Kits Dragon,BM-9300753,lsimione34@accuweather.com,2020-09-09 22:27:28,2020-09-16 08:57:41,1059,733,Lost,Cold,0.05,Heena Chopra
+113,LI-9376-24,OPP-5804-32,Proxima-C,RP-0227356,jgratland35@trellian.com,2020-10-12 15:46:16,2020-10-18 21:40:32,1004,902,Open,Warm,0.3,Belal Farooqui
+114,LI-3824-85,OPP-5701-28,Kits Dragon,BM-7510659,ssempill36@dion.ne.jp,2020-10-06 07:35:49,2020-10-13 19:07:15,869,851,Lost,Cold,0.05,Ruchita Patil
+115,LI-2964-97,OPP-4684-80,Kits Dragon,RP-0704485,rbrydson37@biblegateway.com,2020-10-13 15:19:50,2020-10-22 18:15:43,1063,1150,Won,Hot,0.85,Ruchita Patil
+116,LI-1464-31,OPP-2487-23,Kits Dragon,RP-6998531,lparmby38@soundcloud.com,2020-07-03 21:52:03,2020-07-11 07:47:23,709,776,Open,Warm,0.45,Heena Chopra
+117,LI-2512-08,OPP-1828-38,Proxima-C,RP-3254752,dbetton39@tamu.edu,2020-03-20 04:26:05,2020-03-28 14:08:12,885,927,Open,Warm,0.4,Ruchita Patil
+118,LI-8885-98,OPP-3174-76,Proxima-C,RP-6012296,pstayte3a@prlog.org,2019-11-19 02:55:02,2019-11-24 03:08:22,799,996,Open,Warm,0.3,Ruchita Patil
+119,LI-8315-22,OPP-5246-34,Kits Dragon,RP-1346992,vofeeny3b@guardian.co.uk,2020-09-19 09:21:36,2020-09-28 18:18:30,1551,1500,Open,Warm,0.45,Belal Farooqui
+120,LI-9242-87,OPP-4744-44,Kits Dragon,RP-8076183,rbarents3c@hc360.com,2020-05-11 19:42:10,2020-05-22 01:42:30,1046,1034,Open,Warm,0.45,Ruchita Patil
+121,LI-4707-60,OPP-5451-91,Proxima-C,BM-8871008,tgantzer3d@reddit.com,2020-06-26 07:41:30,2020-07-05 09:54:30,1388,1211,Lost,Cold,0.05,Belal Farooqui
+122,LI-0127-64,OPP-5899-96,Kits Dragon,HC-7136640,mduckit3e@buzzfeed.com,2019-12-31 21:22:27,2020-01-11 01:09:26,1018,1285,Open,Warm,0.4,Ruchita Patil
+123,LI-1442-15,OPP-2723-63,Aurora,RP-1609285,gprevett3f@jiathis.com,2020-07-02 07:13:37,2020-07-12 10:02:46,1042,905,Won,Hot,0.95,Ruchita Patil
+124,LI-5480-58,OPP-0424-29,Kits Dragon,RP-6426346,lkliemann3g@businessinsider.com,2020-02-28 12:54:59,2020-03-08 15:57:32,306,316,Open,Warm,0.35,Ruchita Patil
+125,LI-2899-49,OPP-8956-28,Proxima-C,RP-9798138,hkingsmill3h@go.com,2019-12-25 07:27:28,2019-12-30 17:33:28,767,881,Won,Hot,0.95,Ruchita Patil
+126,LI-7377-44,OPP-1169-66,Kits Dragon,JS-8599497,stommasuzzi3i@feedburner.com,2020-01-06 17:41:06,2020-01-13 04:02:58,1717,1421,Open,Warm,0.45,Ruchita Patil
+127,LI-5300-27,OPP-3874-28,Kits Dragon,BM-2711678,mbastock3j@mysql.com,2020-08-03 04:44:56,2020-08-11 16:06:17,784,596,Won,Hot,0.95,Belal Farooqui
+128,LI-8412-57,OPP-6461-96,Sirius,HC-0452786,bwoodyear3k@google.it,2020-07-14 11:48:48,2020-07-22 14:39:58,1492,1098,Won,Hot,0.85,Ruchita Patil
+129,LI-8853-23,OPP-8069-63,Aurora,HC-7192449,hbiaggioli3l@a8.net,2020-05-21 00:37:45,2020-05-27 03:45:39,946,675,Won,Hot,0.85,Heena Chopra
+130,LI-4156-27,OPP-0440-17,Proxima-C,RP-3829336,krajchert3m@com.com,2020-07-26 04:24:11,2020-07-31 17:10:02,517,578,Lost,Cold,0.0,Ruchita Patil
+131,LI-8197-92,OPP-3504-51,Aurora,RP-9406568,vspafford3n@github.com,2019-12-21 16:44:23,2019-12-26 17:08:10,1246,1315,Lost,Cold,0.0,Ruchita Patil
+132,LI-9130-34,OPP-2250-10,Anhee-C,BM-9452627,mbearne3o@cisco.com,2020-09-22 20:00:19,2020-09-29 21:36:09,605,558,Won,Hot,0.8,Belal Farooqui
+133,LI-6756-10,OPP-2304-32,Proxima-C,HC-6912434,acrucetti3p@so-net.ne.jp,2020-02-03 04:56:05,2020-02-10 13:52:46,755,720,Lost,Cold,0.0,Ruchita Patil
+134,LI-9497-11,OPP-8901-02,Kits Dragon,HC-2088379,doldnall3q@reddit.com,2020-04-09 18:40:21,2020-04-18 05:56:13,879,876,Lost,Cold,0.05,Belal Farooqui
+135,LI-1861-95,OPP-1173-94,Agyrap-S,JS-3726881,jgrosvener3r@wp.com,2020-08-24 15:55:00,2020-09-03 21:11:51,684,767,Open,Warm,0.45,Ruchita Patil
+136,LI-7423-64,OPP-7669-77,Aurora,HC-5256475,sgorstidge3s@yolasite.com,2020-09-24 17:33:32,2020-10-01 23:56:44,1574,1352,Open,Warm,0.45,Ruchita Patil
+137,LI-6271-71,OPP-8251-89,Kits Dragon,RP-8775323,eoreilly3t@mozilla.org,2020-06-17 16:55:45,2020-06-23 18:56:19,1266,873,Open,Warm,0.4,Ruchita Patil
+138,LI-7967-32,OPP-9634-66,Kits Dragon,HC-0042971,jdyer3u@ovh.net,2020-04-05 02:26:42,2020-04-12 06:07:06,762,984,Open,Warm,0.35,Heena Chopra
+139,LI-3369-83,OPP-5397-83,Proxima-C,RP-8160880,pwattins3v@un.org,2020-03-02 15:23:33,2020-03-09 23:28:15,1897,1270,Won,Hot,0.9,Ruchita Patil
+140,LI-8840-89,OPP-8728-87,Kits Dragon,BM-4436292,esmurfitt3w@odnoklassniki.ru,2020-11-05 23:47:49,2020-11-15 07:26:51,1143,1464,Open,Warm,0.35,Jaswinder Singh
+141,LI-5697-56,OPP-5084-61,Sirius,RP-0185834,hsuatt3x@pbs.org,2020-03-04 01:20:48,2020-03-13 12:14:02,818,1067,Won,Hot,0.9,Ruchita Patil
+142,LI-5518-80,OPP-9559-06,Phoenix,RP-9629822,rbenezet3y@moonfruit.com,2020-08-12 01:34:51,2020-08-22 11:31:53,1573,1401,Won,Hot,0.85,Jaswinder Singh
+143,LI-8161-82,OPP-4584-00,Kits Dragon,HC-8801624,kfrugier3z@histats.com,2020-10-13 07:06:42,2020-10-23 17:54:39,902,956,Lost,Cold,0.0,Jaswinder Singh
+144,LI-3635-32,OPP-8865-10,Sirius,RP-3481055,mchessman40@dailymotion.com,2020-09-21 18:33:47,2020-09-27 06:30:47,1139,985,Open,Warm,0.45,Ruchita Patil
+145,LI-0955-99,OPP-2108-20,Aurora,HC-5982893,jmcclurg41@disqus.com,2020-01-08 21:04:06,2020-01-14 07:53:06,1627,1244,Open,Warm,0.35,Ruchita Patil
+146,LI-1370-72,OPP-6432-75,Kits Dragon,HC-7997058,fcurme42@vk.com,2020-01-30 00:30:19,2020-02-07 09:59:02,1420,1060,Lost,Cold,0.05,Belal Farooqui
+147,LI-2441-96,OPP-3059-38,Kits Dragon,RP-4314223,edonaldson43@jimdo.com,2019-11-23 02:09:25,2019-11-29 05:17:22,1384,1013,Won,Hot,0.8,Belal Farooqui
+148,LI-3152-80,OPP-4242-50,Kits Dragon,HC-3031979,sweare44@wufoo.com,2020-09-13 08:40:12,2020-09-20 14:41:09,919,1002,Won,Hot,0.85,Ruchita Patil
+149,LI-6029-64,OPP-8586-35,Kits Dragon,JS-7939674,sclorley45@cdbaby.com,2020-01-10 02:52:10,2020-01-17 10:10:49,1365,1229,Won,Hot,0.85,Ruchita Patil
+150,LI-5298-55,OPP-6765-00,Sirius,RP-6329202,bskeels46@auda.org.au,2020-10-16 01:37:01,2020-10-23 06:17:01,841,881,Open,Warm,0.3,Ruchita Patil
+151,LI-3571-28,OPP-1967-44,Aurora,RP-9652053,amc47@quantcast.com,2019-12-10 17:14:31,2019-12-16 21:13:15,992,1139,Open,Warm,0.4,Belal Farooqui
+152,LI-9562-71,OPP-4929-54,Kits Dragon,HC-8691983,wmcfaul48@umn.edu,2019-12-19 11:13:05,2019-12-26 12:59:41,805,893,Open,Warm,0.35,Ruchita Patil
+153,LI-5884-80,OPP-2917-63,Kits Dragon,RP-2169325,ilepper49@pagesperso-orange.fr,2019-12-08 14:15:00,2019-12-17 16:02:25,1006,679,Won,Hot,0.8,Jaswinder Singh
+154,LI-9468-92,OPP-2409-42,Kits Dragon,RP-9718819,hdax4a@163.com,2020-06-07 21:36:52,2020-06-15 22:22:37,1034,1257,Won,Hot,0.85,Belal Farooqui
+155,LI-8133-01,OPP-9283-37,Proxima-C,RP-8884846,aworthy4b@economist.com,2020-04-11 20:48:15,2020-04-22 07:51:27,1677,1502,Lost,Cold,0.0,Jaswinder Singh
+156,LI-0793-09,OPP-4343-32,Proxima-C,BM-2006802,wpray4c@kickstarter.com,2020-04-19 01:55:46,2020-04-24 02:30:55,1181,1105,Lost,Cold,0.05,Ruchita Patil
+157,LI-4922-38,OPP-5577-09,Proxima-C,RP-7306975,wde4d@blogs.com,2020-09-29 17:29:11,2020-10-05 04:31:03,713,498,Won,Hot,0.9,Ruchita Patil
+158,LI-1536-31,OPP-9447-71,Proxima-C,RP-3568547,cbrahan4e@alexa.com,2020-04-23 13:03:31,2020-05-04 00:33:50,1166,887,Won,Hot,0.95,Belal Farooqui
+159,LI-2133-03,OPP-8352-31,Kits Dragon,RP-9706144,scham4f@tumblr.com,2020-04-09 01:28:40,2020-04-14 10:01:31,685,740,Won,Hot,0.8,Ruchita Patil
+160,LI-6802-89,OPP-9503-95,Phoenix,HC-2325982,ycrampsey4g@pcworld.com,2020-09-18 13:12:35,2020-09-28 01:05:41,1643,1281,Lost,Cold,0.05,Heena Chopra
+161,LI-0929-27,OPP-8788-24,Proxima-C,HC-6814303,athaxter4h@bbb.org,2020-09-17 03:29:13,2020-09-23 15:44:04,949,646,Won,Hot,0.8,Ruchita Patil
+162,LI-4440-89,OPP-1366-29,Apollo,BM-2209201,cdawtrey4i@weather.com,2020-10-27 01:46:24,2020-11-03 09:40:31,613,739,Won,Hot,0.85,Ruchita Patil
+163,LI-3001-60,OPP-4853-78,Kits Dragon,BM-7061408,rbaggott4j@yandex.ru,2020-09-07 21:01:26,2020-09-13 00:21:12,1560,1512,Lost,Cold,0.0,Ruchita Patil
+164,LI-9716-00,OPP-8105-50,Apollo,RP-0427034,tbragginton4k@mashable.com,2019-12-08 22:04:15,2019-12-19 10:21:07,1225,900,Won,Hot,0.95,Heena Chopra
+165,LI-6905-32,OPP-9751-46,Kits Dragon,RP-6969327,abedbrough4l@comcast.net,2020-05-01 20:39:20,2020-05-10 05:25:25,1790,1405,Lost,Cold,0.05,Heena Chopra
+166,LI-7242-70,OPP-2657-87,Kits Dragon,JS-0532933,vfoggarty4m@ucoz.com,2020-06-02 20:05:31,2020-06-09 23:50:48,1570,1054,Lost,Cold,0.0,Ruchita Patil
+167,LI-8839-90,OPP-5150-05,Sirius,BM-2705133,jbellord4n@blogger.com,2020-09-21 10:13:27,2020-09-26 12:46:48,1456,1015,Won,Hot,0.95,Heena Chopra
+168,LI-2223-78,OPP-9688-67,Kits Dragon,RP-4810187,bstirman4o@nbcnews.com,2020-03-18 08:52:56,2020-03-27 14:17:05,845,766,Open,Warm,0.4,Belal Farooqui
+169,LI-4398-05,OPP-5128-89,Sirius,HC-0528012,bgolley4p@odnoklassniki.ru,2020-05-21 02:00:04,2020-05-28 04:54:57,938,1007,Open,Warm,0.45,Jaswinder Singh
+170,LI-9421-27,OPP-1924-84,Sirius,RP-8439947,klandor4q@amazon.com,2020-07-01 20:50:58,2020-07-08 22:54:00,1367,1222,Open,Warm,0.3,Ruchita Patil
+171,LI-2507-27,OPP-9344-37,Kits Dragon,HC-6208102,sshave4r@businessweek.com,2019-12-01 17:58:16,2019-12-09 03:10:41,1121,1175,Won,Hot,0.95,Jaswinder Singh
+172,LI-9899-08,OPP-6747-86,Proxima-C,RP-3084238,jde4s@addtoany.com,2020-06-13 23:36:38,2020-06-22 02:15:30,1027,1067,Won,Hot,0.9,Ruchita Patil
+173,LI-4380-05,OPP-8024-50,Kits Dragon,HC-5746409,wspawell4t@php.net,2020-02-29 12:36:24,2020-03-08 00:00:22,1081,899,Won,Hot,0.95,Heena Chopra
+174,LI-9568-98,OPP-8957-84,Kits Dragon,RP-4018019,fhardman4u@uiuc.edu,2020-01-31 18:52:39,2020-02-08 22:40:26,784,833,Open,Warm,0.45,Belal Farooqui
+175,LI-6590-31,OPP-7565-74,Proxima-C,HC-6078818,epetrolli4v@amazon.de,2020-06-08 03:19:19,2020-06-18 12:19:46,1387,1119,Won,Hot,0.85,Jaswinder Singh
+176,LI-7371-24,OPP-4550-29,Proxima-C,RP-4122860,meastway4w@bloomberg.com,2020-06-06 15:39:24,2020-06-16 23:07:36,1034,1242,Won,Hot,0.85,Ruchita Patil
+177,LI-1521-18,OPP-1111-14,Sirius,RP-3994390,wkynder4x@xing.com,2019-12-11 12:08:07,2019-12-18 19:59:43,1194,1214,Open,Warm,0.3,Ruchita Patil
+178,LI-4130-66,OPP-6895-78,Kits Dragon,BM-8191477,rghiotto4y@whitehouse.gov,2019-11-15 15:33:36,2019-11-23 22:27:49,833,880,Won,Hot,0.8,Ruchita Patil
+179,LI-5681-21,OPP-2392-06,Kits Dragon,RP-5719836,ddehn4z@friendfeed.com,2020-08-28 21:54:16,2020-09-05 02:21:20,608,740,Lost,Cold,0.0,Ruchita Patil
+180,LI-2299-12,OPP-2066-99,Proxima-C,HC-3649075,rcarmichael50@boston.com,2019-12-29 13:32:47,2020-01-04 21:13:36,343,356,Open,Warm,0.3,Belal Farooqui
+181,LI-4329-28,OPP-4421-05,Kits Dragon,JS-6634260,aarnaut51@google.fr,2020-08-16 02:15:17,2020-08-25 02:40:28,2131,1514,Won,Hot,0.9,Belal Farooqui
+182,LI-3893-57,OPP-7084-10,Sirius,HC-3659767,cchamley52@cornell.edu,2020-03-07 12:12:40,2020-03-12 18:46:04,717,869,Won,Hot,0.9,Ruchita Patil
+183,LI-9052-79,OPP-8406-88,Kits Dragon,BM-4556644,abackhouse53@artisteer.com,2020-03-23 03:53:30,2020-04-01 08:11:05,948,875,Won,Hot,0.9,Ruchita Patil
+184,LI-9563-15,OPP-3504-56,Kits Dragon,RP-5261930,wdouce54@bigcartel.com,2020-10-24 11:01:23,2020-11-03 15:27:27,1098,1360,Won,Hot,0.9,Ruchita Patil
+185,LI-2868-63,OPP-1990-62,Kits Dragon,HC-3660053,evakhlov55@berkeley.edu,2020-05-26 15:58:23,2020-06-06 00:22:21,1505,1077,Lost,Cold,0.0,Ruchita Patil
+186,LI-4527-34,OPP-0549-63,Kits Dragon,RP-0929632,tpochon56@nba.com,2019-12-11 10:19:21,2019-12-20 19:45:32,693,886,Open,Warm,0.4,Heena Chopra
+187,LI-1911-59,OPP-4571-05,Kits Dragon,BM-4349677,ibever57@bbc.co.uk,2020-07-06 22:42:40,2020-07-16 23:45:48,1025,870,Won,Hot,0.85,Ruchita Patil
+188,LI-2156-20,OPP-6264-44,Kits Dragon,BM-0067829,tvenediktov58@hhs.gov,2020-08-31 23:03:21,2020-09-09 00:38:31,1335,918,Open,Warm,0.3,Heena Chopra
+189,LI-0244-22,OPP-9567-83,Sirius,BM-5708025,rbevans59@va.gov,2020-04-20 12:35:35,2020-04-25 22:00:18,1411,1365,Won,Hot,0.9,Ruchita Patil
+190,LI-0540-62,OPP-7172-65,Proxima-C,RP-3145037,lmclaggan5a@timesonline.co.uk,2019-11-16 22:31:19,2019-11-25 09:07:14,815,600,Won,Hot,0.8,Ruchita Patil
+191,LI-5951-67,OPP-5924-81,Kits Dragon,RP-8338553,fgamlen5b@apache.org,2020-02-15 14:47:37,2020-02-23 02:21:37,1074,1000,Open,Warm,0.4,Ruchita Patil
+192,LI-1363-89,OPP-0911-98,Kits Dragon,JS-9334042,agwyneth5c@imageshack.us,2020-08-22 11:02:27,2020-08-30 16:39:54,879,972,Lost,Cold,0.0,Ruchita Patil
+193,LI-5843-05,OPP-7665-78,Kits Dragon,RP-8999635,rloft5d@wikispaces.com,2020-09-08 13:15:49,2020-09-18 19:42:12,1134,1278,Won,Hot,0.85,Ruchita Patil
+194,LI-4202-17,OPP-2449-47,Proxima-C,RP-2151367,rhansana5e@google.com.hk,2020-08-26 15:20:18,2020-09-01 22:24:32,2205,1566,Won,Hot,0.9,Ruchita Patil
+195,LI-7429-63,OPP-3588-79,Sirius,BM-5289559,darmell5f@bbc.co.uk,2020-04-28 23:03:46,2020-05-07 08:25:10,491,605,Won,Hot,0.85,Jaswinder Singh
+196,LI-4596-68,OPP-4144-95,Phoenix,RP-8314711,dizakoff5g@list-manage.com,2020-08-15 15:37:58,2020-08-21 01:48:24,724,899,Won,Hot,0.85,Ruchita Patil
+197,LI-3938-75,OPP-0369-83,Kits Dragon,RP-0543794,llegan5h@apache.org,2020-03-17 00:07:20,2020-03-27 11:16:20,1047,1178,Open,Warm,0.4,Belal Farooqui
+198,LI-0722-74,OPP-2216-92,Kits Dragon,BM-2898225,lcoffin5i@ftc.gov,2020-10-04 22:56:55,2020-10-11 02:52:12,1212,960,Open,Warm,0.45,Belal Farooqui
+199,LI-2870-03,OPP-7274-52,Kits Dragon,BM-7928290,shatje5j@youtube.com,2020-05-04 04:15:04,2020-05-12 07:32:51,740,879,Open,Warm,0.3,Jaswinder Singh
+200,LI-4714-16,OPP-5361-10,Apollo,HC-3012271,tboswood5k@kickstarter.com,2020-07-04 20:10:38,2020-07-13 23:00:49,889,744,Won,Hot,0.8,Belal Farooqui
+201,LI-3880-50,OPP-4137-91,Kits Dragon,RP-9453047,egedney5l@stumbleupon.com,2020-01-20 03:40:58,2020-01-29 16:24:06,1330,1186,Open,Warm,0.3,Jaswinder Singh
+202,LI-5305-64,OPP-4155-91,Proxima-C,RP-4992848,ljanko5m@meetup.com,2020-04-15 09:15:19,2020-04-24 20:05:34,1123,1306,Won,Hot,0.95,Belal Farooqui
+203,LI-5954-73,OPP-0370-53,Kits Dragon,JS-3588985,thamprecht5n@soundcloud.com,2020-02-08 20:56:47,2020-02-15 08:00:12,1002,1329,Open,Warm,0.35,Heena Chopra
+204,LI-1930-06,OPP-4834-31,Kits Dragon,HC-0133345,spettet5o@spotify.com,2020-03-12 13:23:56,2020-03-21 23:29:23,314,365,Lost,Cold,0.0,Ruchita Patil
+205,LI-5175-17,OPP-1369-00,Kits Dragon,JS-1201328,aramel5p@php.net,2020-05-06 09:41:06,2020-05-11 10:25:20,1774,1275,Won,Hot,0.9,Ruchita Patil
+206,LI-5968-20,OPP-6186-47,Kits Dragon,RP-3069458,bscothern5q@w3.org,2019-11-16 01:21:42,2019-11-24 07:36:09,1548,1138,Won,Hot,0.8,Jaswinder Singh
+207,LI-6745-75,OPP-7609-89,Proxima-C,RP-9425866,drebert5r@opera.com,2020-06-25 00:26:06,2020-07-01 05:13:29,831,960,Won,Hot,0.95,Ruchita Patil
+208,LI-3607-17,OPP-4163-92,Proxima-C,RP-9090136,hgain5s@tiny.cc,2020-07-18 12:10:00,2020-07-25 19:48:33,998,892,Open,Warm,0.35,Ruchita Patil
+209,LI-7079-48,OPP-0505-05,Kits Dragon,JS-9333256,laikin5t@edublogs.org,2020-06-12 09:34:10,2020-06-20 13:33:10,1205,1086,Open,Warm,0.3,Ruchita Patil
+210,LI-4737-82,OPP-3578-66,Proxima-C,HC-2006028,fpetrecz5u@berkeley.edu,2020-02-14 12:14:25,2020-02-19 13:12:45,1281,1078,Open,Warm,0.45,Heena Chopra
+211,LI-7472-60,OPP-0490-39,Apollo,HC-5350368,mkasting5v@slashdot.org,2019-11-17 02:18:08,2019-11-24 13:59:51,1363,1398,Won,Hot,0.9,Ruchita Patil
+212,LI-7678-35,OPP-9868-98,Kits Dragon,JS-4385408,aclemetts5w@comcast.net,2020-10-08 04:02:10,2020-10-16 13:02:29,804,723,Won,Hot,0.8,Heena Chopra
+213,LI-2536-14,OPP-2730-74,Kits Dragon,RP-1272075,tkneaphsey5x@cloudflare.com,2020-06-02 19:42:40,2020-06-09 21:46:49,1405,1410,Lost,Cold,0.05,Ruchita Patil
+214,LI-9612-21,OPP-1573-04,Kits Dragon,RP-1223220,abolesma5y@a8.net,2020-01-25 23:34:04,2020-02-01 11:34:28,368,353,Won,Hot,0.9,Ruchita Patil
+215,LI-7921-12,OPP-0184-15,Kits Dragon,RP-8237212,ecorhard5z@cocolog-nifty.com,2020-01-06 19:09:43,2020-01-13 02:24:51,1090,995,Lost,Cold,0.0,Heena Chopra
+216,LI-0499-60,OPP-6536-13,Aurora,HC-0436475,dcarefull60@dailymail.co.uk,2020-06-13 21:03:22,2020-06-21 00:44:07,825,789,Lost,Cold,0.05,Ruchita Patil
+217,LI-6632-36,OPP-7538-58,Kits Dragon,RP-6846009,dvasilechko61@blogspot.com,2020-07-16 09:13:11,2020-07-21 20:59:51,1139,803,Lost,Cold,0.0,Ruchita Patil
+218,LI-0376-48,OPP-4939-43,Phoenix,RP-6361240,fbuddington62@sina.com.cn,2020-09-03 21:26:45,2020-09-12 00:57:00,504,495,Won,Hot,0.9,Ruchita Patil
+219,LI-4509-34,OPP-0562-28,Proxima-C,RP-0747714,msummons63@theguardian.com,2020-03-01 08:16:18,2020-03-08 18:03:55,1075,1120,Open,Warm,0.3,Belal Farooqui
+220,LI-4655-63,OPP-5969-07,Proxima-C,HC-4480007,lkasper64@ted.com,2020-05-25 23:12:18,2020-06-02 05:59:02,955,1001,Won,Hot,0.85,Belal Farooqui
+221,LI-4663-79,OPP-2966-90,Sirius,RP-3809258,awelford65@t.co,2019-11-22 08:24:52,2019-11-29 15:52:02,1326,890,Lost,Cold,0.0,Ruchita Patil
+222,LI-3841-04,OPP-5473-55,Kits Dragon,JS-7388166,ffane66@noaa.gov,2020-07-14 08:42:56,2020-07-24 20:06:36,1542,1029,Open,Warm,0.3,Ruchita Patil
+223,LI-5420-97,OPP-0042-70,Kits Dragon,RP-3406609,lsandison67@nydailynews.com,2020-02-11 01:46:50,2020-02-16 04:10:17,1530,1148,Lost,Cold,0.05,Heena Chopra
+224,LI-5840-85,OPP-3065-21,Kits Dragon,RP-6216008,ctonner68@slideshare.net,2020-05-20 15:30:41,2020-05-26 21:31:55,1621,1121,Won,Hot,0.8,Belal Farooqui
+225,LI-4535-94,OPP-5757-18,Kits Dragon,RP-7698579,gflement69@wikipedia.org,2020-09-06 10:59:09,2020-09-12 12:58:36,918,1172,Won,Hot,0.9,Ruchita Patil
+226,LI-7340-55,OPP-4510-08,Kits Dragon,JS-5305023,rhuguet6a@blinklist.com,2019-11-16 14:42:24,2019-11-22 16:49:17,790,697,Lost,Cold,0.0,Ruchita Patil
+227,LI-3897-11,OPP-8061-40,Kits Dragon,RP-8666044,aphilot6b@redcross.org,2020-07-09 02:18:01,2020-07-18 10:29:57,536,651,Lost,Cold,0.05,Ruchita Patil
+228,LI-4036-24,OPP-9328-27,Aurora,HC-1300444,fpover6c@mapquest.com,2020-03-10 23:32:29,2020-03-19 07:35:59,1253,992,Lost,Cold,0.05,Ruchita Patil
+229,LI-8982-27,OPP-4007-36,Proxima-C,JS-8996173,idaviot6d@businessweek.com,2020-09-19 12:20:18,2020-09-25 01:09:47,1907,1388,Won,Hot,0.9,Belal Farooqui
+230,LI-7131-89,OPP-7715-83,Proxima-C,HC-3538452,zbasham6e@ucoz.ru,2020-08-22 17:49:13,2020-09-01 03:25:57,1192,1205,Lost,Cold,0.0,Heena Chopra
+231,LI-3394-00,OPP-8199-40,Kits Dragon,BM-1720799,akhoter6f@xinhuanet.com,2020-03-22 00:18:43,2020-03-28 06:52:37,1537,1617,Open,Warm,0.3,Belal Farooqui
+232,LI-9497-11,OPP-4591-77,Proxima-C,RP-2427177,tdriscoll6g@fema.gov,2020-04-12 12:03:43,2020-04-17 15:29:47,1381,998,Open,Warm,0.4,Belal Farooqui
+233,LI-2558-92,OPP-3874-87,Aurora,RP-2655467,tswepson6h@vimeo.com,2020-07-11 16:12:06,2020-07-20 18:06:15,745,754,Open,Warm,0.3,Ruchita Patil
+234,LI-0129-36,OPP-2134-47,Kits Dragon,RP-8506788,lmurkitt6i@vkontakte.ru,2019-12-16 07:45:40,2019-12-26 08:27:39,807,821,Open,Warm,0.45,Ruchita Patil
+235,LI-5123-40,OPP-1691-14,Proxima-C,RP-4316708,mflockhart6j@dropbox.com,2020-08-15 14:31:31,2020-08-25 21:00:48,745,889,Lost,Cold,0.0,Belal Farooqui
+236,LI-9203-21,OPP-9071-95,Anhee-C,RP-6635878,gspeariett6k@cam.ac.uk,2020-09-12 15:48:51,2020-09-21 15:56:14,1372,945,Won,Hot,0.9,Ruchita Patil
+237,LI-2432-70,OPP-2165-61,Kits Dragon,HC-3177287,kstean6l@indiatimes.com,2020-07-21 02:39:28,2020-07-30 02:52:48,1569,1222,Won,Hot,0.8,Belal Farooqui
+238,LI-0123-47,OPP-0825-05,Kits Dragon,RP-5000153,hpinchin6m@dailymail.co.uk,2019-11-26 20:42:46,2019-12-02 07:31:12,1413,1109,Lost,Cold,0.05,Ruchita Patil
+239,LI-9701-11,OPP-4053-82,Kits Dragon,RP-8678252,bitzcovichch6n@state.gov,2020-07-21 01:37:23,2020-07-31 09:17:23,1396,1101,Lost,Cold,0.0,Ruchita Patil
+240,LI-1819-06,OPP-8039-44,Proxima-C,BM-6289005,hingray6o@cnn.com,2020-06-12 11:11:31,2020-06-20 16:48:19,435,493,Won,Hot,0.95,Ruchita Patil
+241,LI-2553-96,OPP-4548-57,Kits Dragon,JS-5152674,pchristensen6p@github.io,2020-10-30 10:05:41,2020-11-09 18:29:03,1139,825,Won,Hot,0.85,Ruchita Patil
+242,LI-2414-61,OPP-8500-00,Kits Dragon,JS-9667010,eblomefield6q@naver.com,2020-09-24 04:19:13,2020-10-01 10:54:15,1535,1120,Won,Hot,0.8,Jaswinder Singh
+243,LI-8499-35,OPP-3929-93,Sirius,RP-7735509,njantel6r@weather.com,2020-05-18 15:32:44,2020-05-25 22:14:12,1214,1135,Lost,Cold,0.0,Jaswinder Singh
+244,LI-0150-71,OPP-2542-54,Proxima-C,RP-7826865,dfripps6s@sfgate.com,2020-08-28 21:58:50,2020-09-06 22:55:16,1016,897,Won,Hot,0.8,Ruchita Patil
+245,LI-7491-91,OPP-9071-35,Proxima-C,BM-9419631,gjenne6t@pcworld.com,2020-03-01 07:44:14,2020-03-08 12:38:10,1066,1010,Won,Hot,0.9,Ruchita Patil
+246,LI-2936-04,OPP-6773-81,Proxima-C,RP-8881489,rskin6u@engadget.com,2020-09-16 18:59:15,2020-09-26 20:13:31,1301,953,Won,Hot,0.9,Ruchita Patil
+247,LI-6576-71,OPP-0839-51,Kits Dragon,HC-0706129,wstreater6v@sohu.com,2020-08-01 17:43:48,2020-08-08 03:01:44,706,893,Lost,Cold,0.0,Belal Farooqui
+248,LI-3390-07,OPP-4187-14,Kits Dragon,BM-3491602,vellacombe6w@ovh.net,2020-01-29 10:14:02,2020-02-08 10:31:40,1325,1280,Won,Hot,0.9,Heena Chopra
+249,LI-4852-19,OPP-6508-62,Kits Dragon,BM-9236304,sclorley6x@harvard.edu,2020-05-07 17:31:29,2020-05-16 01:40:24,692,713,Won,Hot,0.95,Jaswinder Singh
+250,LI-8090-48,OPP-7411-73,Kits Dragon,HC-1450780,gravenhill6y@home.pl,2020-01-17 14:22:53,2020-01-24 00:38:39,666,678,Lost,Cold,0.05,Ruchita Patil
+251,LI-9671-50,OPP-4634-66,Kits Dragon,HC-7845905,htimlin6z@ted.com,2020-03-18 06:37:49,2020-03-24 09:37:55,1292,900,Lost,Cold,0.05,Belal Farooqui
+252,LI-5363-52,OPP-0769-67,Proxima-C,HC-1367948,tgusney70@rambler.ru,2020-11-21 00:08:59,2020-11-28 06:04:14,928,1193,Won,Hot,0.8,Belal Farooqui
+253,LI-2817-91,OPP-7440-46,Proxima-C,RP-8367946,cdamrell71@clickbank.net,2020-04-05 10:17:46,2020-04-11 16:19:54,972,977,Won,Hot,0.85,Jaswinder Singh
+254,LI-3105-76,OPP-6681-63,Kits Dragon,RP-3793708,gjewis72@engadget.com,2020-06-03 09:47:02,2020-06-09 13:28:37,1163,1149,Lost,Cold,0.05,Ruchita Patil
+255,LI-7243-38,OPP-5097-41,Sirius,RP-5829301,pedowes73@hostgator.com,2020-02-01 07:12:55,2020-02-07 08:46:19,991,940,Won,Hot,0.9,Ruchita Patil
+256,LI-5920-38,OPP-7360-39,Proxima-C,RP-3555820,jmccord74@princeton.edu,2020-07-07 03:10:40,2020-07-13 05:42:31,1294,1206,Won,Hot,0.8,Heena Chopra
+257,LI-0148-58,OPP-5749-45,Kits Dragon,RP-8223447,dedlyn75@tiny.cc,2020-04-14 02:09:20,2020-04-21 06:31:26,1494,1115,Open,Warm,0.45,Belal Farooqui
+258,LI-8663-44,OPP-1498-99,Sirius,RP-8668261,sgoodger76@wsj.com,2020-06-18 05:45:08,2020-06-25 16:33:34,842,997,Open,Warm,0.4,Belal Farooqui
+259,LI-0588-01,OPP-7987-48,Kits Dragon,HC-0759164,locoskerry77@japanpost.jp,2020-09-19 15:57:13,2020-09-30 02:24:57,1094,749,Open,Warm,0.4,Ruchita Patil
+260,LI-8798-81,OPP-7066-32,Kits Dragon,HC-0022161,afenge78@dmoz.org,2020-08-26 23:30:52,2020-09-04 02:19:52,605,634,Open,Warm,0.45,Heena Chopra
+261,LI-0514-26,OPP-2471-30,Kits Dragon,RP-9324927,oniese79@unc.edu,2020-08-16 04:25:14,2020-08-22 08:53:26,1714,1340,Won,Hot,0.8,Jaswinder Singh
+262,LI-3090-68,OPP-6308-83,Kits Dragon,JS-1216563,vmatherson7a@mac.com,2020-07-04 11:25:28,2020-07-11 16:19:26,1392,1145,Won,Hot,0.85,Belal Farooqui
+263,LI-9194-88,OPP-6025-62,Proxima-C,RP-3470810,amartins7b@oaic.gov.au,2020-07-14 07:54:13,2020-07-20 14:11:25,811,875,Lost,Cold,0.05,Belal Farooqui
+264,LI-1282-27,OPP-6927-94,Proxima-C,JS-0285567,mspaingower7c@fastcompany.com,2020-09-29 06:35:16,2020-10-07 09:54:04,1407,1400,Won,Hot,0.9,Belal Farooqui
+265,LI-5431-54,OPP-7816-64,Kits Dragon,RP-3721978,glopez7d@4shared.com,2020-07-12 15:51:09,2020-07-18 22:01:27,772,668,Lost,Cold,0.05,Jaswinder Singh
+266,LI-3858-01,OPP-8445-07,Kits Dragon,RP-0320326,lvella7e@whitehouse.gov,2020-09-30 07:41:32,2020-10-07 12:30:28,988,815,Won,Hot,0.8,Belal Farooqui
+267,LI-8457-40,OPP-4118-82,Sirius,RP-2862920,kconigsby7f@wikipedia.org,2020-11-06 04:09:06,2020-11-13 05:45:31,836,689,Won,Hot,0.95,Ruchita Patil
+268,LI-6825-11,OPP-3889-87,Kits Dragon,RP-8502573,vcowx7g@hp.com,2020-02-20 08:12:25,2020-02-29 20:18:15,1671,1227,Open,Warm,0.35,Belal Farooqui
+269,LI-1793-80,OPP-4190-58,Kits Dragon,HC-9173985,mtattersall7h@businessinsider.com,2020-03-18 18:54:58,2020-03-29 01:42:59,1531,1285,Won,Hot,0.9,Jaswinder Singh
+270,LI-2972-06,OPP-9769-78,Kits Dragon,BM-8936299,hbragger7i@sciencedirect.com,2020-07-12 18:06:22,2020-07-22 07:04:39,1202,1325,Won,Hot,0.9,Belal Farooqui
+271,LI-1885-00,OPP-7938-98,Kits Dragon,RP-0372388,kbehning7j@discuz.net,2020-09-29 22:58:32,2020-10-08 04:13:43,1074,1060,Lost,Cold,0.0,Ruchita Patil
+272,LI-8171-11,OPP-0350-98,Kits Dragon,HC-7826447,ahemphall7k@nydailynews.com,2020-05-12 06:29:05,2020-05-22 16:34:29,930,895,Won,Hot,0.9,Ruchita Patil
+273,LI-3497-98,OPP-2399-01,Kits Dragon,BM-3093799,jbuckleigh7l@ning.com,2020-08-09 20:29:58,2020-08-19 20:56:52,1936,1295,Won,Hot,0.95,Belal Farooqui
+274,LI-2144-37,OPP-3847-72,Proxima-C,BM-4924560,tvannet7m@pbs.org,2020-02-09 02:10:00,2020-02-15 03:28:55,680,865,Won,Hot,0.85,Heena Chopra
+275,LI-1048-85,OPP-7748-82,Kits Dragon,RP-4179306,ljentzsch7n@state.gov,2020-10-25 07:18:59,2020-11-01 19:24:49,815,1061,Open,Warm,0.45,Belal Farooqui
+276,LI-2858-71,OPP-7493-54,Kits Dragon,HC-2374683,jscardifield7o@google.it,2020-09-10 08:37:26,2020-09-16 10:09:06,872,1143,Open,Warm,0.3,Belal Farooqui
+277,LI-3756-50,OPP-5637-86,Aurora,RP-8781521,cvedikhov7p@cloudflare.com,2020-05-03 23:01:32,2020-05-14 05:53:35,1272,910,Won,Hot,0.95,Ruchita Patil
+278,LI-2191-82,OPP-8778-93,Proxima-C,RP-0973084,kelbourne7q@mapquest.com,2019-12-27 06:24:16,2020-01-03 12:07:52,820,997,Won,Hot,0.8,Heena Chopra
+279,LI-7090-31,OPP-9247-41,Kits Dragon,RP-9357564,rharrold7r@nydailynews.com,2020-11-08 10:53:50,2020-11-15 15:13:07,1532,1310,Won,Hot,0.95,Belal Farooqui
+280,LI-4394-44,OPP-8459-08,Kits Dragon,RP-6942879,nmousley7s@nationalgeographic.com,2020-09-15 17:10:55,2020-09-23 06:10:56,825,923,Lost,Cold,0.05,Jaswinder Singh
+281,LI-5973-99,OPP-6354-59,Kits Dragon,RP-6236905,zskilbeck7t@wufoo.com,2020-07-10 23:28:48,2020-07-20 09:35:57,1351,1458,Open,Warm,0.4,Ruchita Patil
+282,LI-8316-44,OPP-5362-34,Sirius,RP-6783731,ymourant7u@spotify.com,2020-04-26 07:53:13,2020-05-02 15:05:43,1116,1374,Won,Hot,0.85,Belal Farooqui
+283,LI-3005-52,OPP-7261-98,Proxima-C,RP-1675852,tcockrill7v@wufoo.com,2020-09-11 18:53:46,2020-09-16 22:51:48,1179,1132,Won,Hot,0.85,Belal Farooqui
+284,LI-1168-88,OPP-4483-18,Kits Dragon,RP-6366825,amurrhardt7w@dyndns.org,2020-09-22 18:39:45,2020-10-03 03:08:06,1358,1195,Won,Hot,0.95,Belal Farooqui
+285,LI-0934-01,OPP-1537-14,Proxima-C,BM-3871422,rmaddy7x@goodreads.com,2019-12-27 22:39:01,2020-01-07 07:54:53,938,1200,Won,Hot,0.9,Belal Farooqui
+286,LI-4795-38,OPP-7239-13,Kits Dragon,RP-0857530,akeysel7y@naver.com,2020-04-30 19:24:46,2020-05-11 02:28:01,1043,836,Won,Hot,0.9,Ruchita Patil
+287,LI-2089-35,OPP-7973-68,Proxima-C,RP-8494103,emathevet7z@chicagotribune.com,2019-12-01 14:32:15,2019-12-08 22:43:40,1010,1202,Won,Hot,0.85,Ruchita Patil
+288,LI-5327-40,OPP-2852-35,Kits Dragon,RP-0250346,askerritt80@rambler.ru,2020-10-28 05:15:03,2020-11-02 08:22:49,1135,969,Lost,Cold,0.0,Ruchita Patil
+289,LI-4961-70,OPP-7992-36,Kits Dragon,BM-2938420,amaccartair81@linkedin.com,2020-04-23 22:16:33,2020-05-02 08:27:52,868,941,Won,Hot,0.85,Belal Farooqui
+290,LI-7784-78,OPP-7357-54,Kits Dragon,RP-5947610,hricks82@paginegialle.it,2020-04-05 13:46:27,2020-04-12 18:37:13,764,571,Lost,Cold,0.05,Ruchita Patil
+291,LI-4152-51,OPP-7474-42,Kits Dragon,RP-0884464,zrawe83@yale.edu,2020-04-23 17:37:50,2020-04-29 23:24:53,862,893,Won,Hot,0.95,Ruchita Patil
+292,LI-4349-38,OPP-8765-21,Proxima-C,RP-0795046,omuggleston84@last.fm,2020-09-24 13:50:57,2020-10-01 14:56:16,905,834,Open,Warm,0.45,Belal Farooqui
+293,LI-2466-49,OPP-1327-13,Kits Dragon,RP-5650462,mgovett85@ehow.com,2020-08-01 08:13:46,2020-08-09 19:04:28,1288,896,Won,Hot,0.8,Ruchita Patil
+294,LI-2465-29,OPP-5333-17,Kits Dragon,BM-8960386,cpatterfield86@jigsy.com,2020-08-02 04:41:39,2020-08-09 16:59:31,245,168,Won,Hot,0.8,Ruchita Patil
+295,LI-6167-60,OPP-7678-76,Kits Dragon,RP-5727161,nshutte87@wordpress.com,2020-03-02 02:45:53,2020-03-08 04:11:45,728,761,Lost,Cold,0.05,Ruchita Patil
+296,LI-5848-78,OPP-9457-67,Kits Dragon,RP-1328339,lbracer88@deliciousdays.com,2019-12-07 09:10:20,2019-12-13 16:45:34,705,475,Won,Hot,0.9,Belal Farooqui
+297,LI-4173-36,OPP-9355-81,Sirius,RP-6596376,jfleet89@homestead.com,2020-04-23 09:09:45,2020-05-01 13:35:05,819,903,Open,Warm,0.4,Ruchita Patil
+298,LI-6953-06,OPP-0070-34,Kits Dragon,RP-0224000,mslatford8a@yale.edu,2020-03-27 02:23:59,2020-04-03 04:59:57,932,687,Won,Hot,0.85,Ruchita Patil
+299,LI-8225-45,OPP-8261-95,Anhee-C,RP-5364549,ewarratt8b@omniture.com,2020-10-22 03:52:39,2020-10-30 04:39:03,649,675,Won,Hot,0.85,Ruchita Patil
+300,LI-5389-92,OPP-5628-56,Proxima-C,RP-8059630,cgrier8c@booking.com,2019-12-09 04:40:16,2019-12-19 14:14:01,958,984,Won,Hot,0.85,Ruchita Patil
+301,LI-6439-78,OPP-0564-77,Proxima-C,JS-4829303,fsuddock8d@gravatar.com,2019-11-24 20:49:11,2019-12-05 07:58:23,1005,711,Won,Hot,0.85,Ruchita Patil
+302,LI-9863-14,OPP-9584-24,Kits Dragon,BM-2880852,gwederell8e@psu.edu,2019-11-16 23:50:35,2019-11-25 11:01:03,564,630,Lost,Cold,0.0,Ruchita Patil
+303,LI-8882-01,OPP-2043-27,Aurora,RP-4894607,rkidby8f@artisteer.com,2020-01-28 19:31:37,2020-02-04 21:38:03,673,450,Lost,Cold,0.0,Ruchita Patil
+304,LI-5841-09,OPP-3052-94,Proxima-C,JS-6182947,vties8g@instagram.com,2020-02-11 13:44:06,2020-02-21 15:36:23,1216,1118,Open,Warm,0.35,Belal Farooqui
+305,LI-6835-06,OPP-4236-74,Kits Dragon,JS-1636450,kcartmel8h@imgur.com,2020-01-16 06:57:52,2020-01-22 14:36:59,471,521,Won,Hot,0.9,Heena Chopra
+306,LI-9096-40,OPP-0090-80,Kits Dragon,RP-7801248,cpau8i@instagram.com,2019-12-31 23:34:06,2020-01-10 01:44:02,1075,722,Lost,Cold,0.05,Belal Farooqui
+307,LI-6143-48,OPP-6266-81,Kits Dragon,HC-9171282,bstitcher8j@msu.edu,2020-03-21 18:56:00,2020-03-27 01:07:18,1752,1405,Won,Hot,0.95,Ruchita Patil
+308,LI-1161-83,OPP-2980-78,Proxima-C,JS-3073213,rcall8k@berkeley.edu,2020-11-06 23:04:19,2020-11-15 11:30:53,1648,1539,Lost,Cold,0.0,Heena Chopra
+309,LI-0749-12,OPP-8356-90,Aurora,RP-9799541,asarath8l@mayoclinic.com,2020-05-13 04:08:04,2020-05-21 10:29:38,1181,975,Won,Hot,0.85,Ruchita Patil
+310,LI-1658-49,OPP-6101-75,Kits Dragon,RP-2226069,crickcord8m@ocn.ne.jp,2020-10-31 22:31:55,2020-11-07 01:54:20,1126,921,Won,Hot,0.8,Ruchita Patil
+311,LI-8752-74,OPP-2152-99,Aurora,RP-3197053,ohaydock8n@odnoklassniki.ru,2019-12-02 11:09:31,2019-12-07 12:47:23,910,828,Open,Warm,0.4,Ruchita Patil
+312,LI-9501-98,OPP-3678-31,Sirius,RP-6519109,bcatherick8o@lycos.com,2020-03-27 10:58:18,2020-04-02 17:11:43,1228,1485,Open,Warm,0.4,Heena Chopra
+313,LI-9239-59,OPP-9994-36,Kits Dragon,RP-2414741,fcranmore8p@ucoz.ru,2020-10-31 00:10:26,2020-11-06 06:08:25,1429,983,Won,Hot,0.8,Jaswinder Singh
+314,LI-2796-44,OPP-7825-54,Kits Dragon,JS-4760586,ahubach8q@sogou.com,2020-10-01 04:05:09,2020-10-07 10:21:04,1074,824,Won,Hot,0.8,Ruchita Patil
+315,LI-8909-82,OPP-1969-99,Aurora,JS-5962543,rbattrum8r@last.fm,2020-11-11 00:29:11,2020-11-18 05:38:35,811,708,Won,Hot,0.85,Heena Chopra
+316,LI-8151-02,OPP-9983-86,Proxima-C,HC-0417588,ddentith8s@apache.org,2020-06-30 06:22:41,2020-07-07 16:48:15,343,423,Lost,Cold,0.05,Belal Farooqui
+317,LI-1217-85,OPP-8769-37,Proxima-C,HC-0132595,ckegley8t@wordpress.com,2020-06-24 06:24:59,2020-07-02 10:39:38,1391,960,Open,Warm,0.3,Belal Farooqui
+318,LI-6842-40,OPP-2866-72,Proxima-C,RP-8785817,atallant8u@census.gov,2020-07-24 01:43:33,2020-08-03 03:27:38,1664,1203,Won,Hot,0.9,Ruchita Patil
+319,LI-0136-24,OPP-6623-61,Proxima-C,RP-0893153,mandreini8v@aboutads.info,2020-02-19 19:50:16,2020-02-28 06:38:20,724,696,Open,Warm,0.35,Ruchita Patil
+320,LI-1213-82,OPP-6784-27,Proxima-C,HC-0843312,brodman8w@bbc.co.uk,2020-02-26 13:58:57,2020-03-06 14:45:43,1226,1158,Lost,Cold,0.05,Ruchita Patil
+321,LI-5946-07,OPP-4166-10,Kits Dragon,HC-1461913,cwhiffen8x@friendfeed.com,2020-07-03 02:22:56,2020-07-09 07:12:33,1174,1063,Won,Hot,0.95,Ruchita Patil
+322,LI-0699-99,OPP-6081-03,Proxima-C,RP-0812745,jschule8y@hostgator.com,2019-11-29 17:03:21,2019-12-06 04:42:42,868,1097,Won,Hot,0.8,Ruchita Patil
+323,LI-1332-55,OPP-1125-18,Kits Dragon,HC-7717974,dkenson8z@csmonitor.com,2019-11-22 17:12:37,2019-11-30 01:56:28,802,540,Won,Hot,0.95,Ruchita Patil
+324,LI-6085-10,OPP-4274-85,Kits Dragon,RP-4426831,lcestard90@amazonaws.com,2020-09-21 12:52:51,2020-09-28 16:33:39,704,831,Won,Hot,0.85,Jaswinder Singh
+325,LI-0976-29,OPP-6333-57,Aurora,HC-1016258,hchisholm91@omniture.com,2020-03-30 05:06:58,2020-04-09 11:02:39,788,686,Open,Warm,0.45,Ruchita Patil
+326,LI-2115-95,OPP-6236-62,Proxima-C,RP-9201351,dgrishakov92@loc.gov,2020-08-12 05:40:01,2020-08-20 11:36:56,727,820,Won,Hot,0.9,Belal Farooqui
+327,LI-6456-14,OPP-9141-17,Kits Dragon,RP-1325002,vgoroni93@bravesites.com,2020-11-10 02:18:34,2020-11-18 08:52:40,867,870,Lost,Cold,0.05,Ruchita Patil
+328,LI-6504-88,OPP-8627-46,Proxima-C,BM-9903016,bbiddy94@abc.net.au,2020-03-27 18:18:08,2020-04-02 03:22:19,1300,1363,Won,Hot,0.95,Ruchita Patil
+329,LI-7137-00,OPP-3129-14,Kits Dragon,BM-9941399,dkearton95@prweb.com,2020-02-20 18:34:15,2020-02-26 04:22:24,618,780,Won,Hot,0.8,Belal Farooqui
+330,LI-8160-08,OPP-3508-24,Proxima-C,RP-6857136,jlacroix96@adobe.com,2020-09-14 05:51:09,2020-09-19 14:29:27,1213,930,Lost,Cold,0.0,Belal Farooqui
+331,LI-5933-21,OPP-3335-59,Sirius,JS-4428644,fwilcockes97@linkedin.com,2020-03-12 20:05:13,2020-03-21 08:31:26,728,619,Won,Hot,0.95,Ruchita Patil
+332,LI-5787-51,OPP-3952-44,Kits Dragon,RP-5627906,ibullock98@sciencedaily.com,2020-05-22 11:07:40,2020-05-29 17:09:59,937,703,Won,Hot,0.8,Heena Chopra
+333,LI-0205-55,OPP-9874-28,Sirius,JS-6693748,ywestmerland99@disqus.com,2020-09-29 08:05:03,2020-10-06 08:40:48,804,993,Lost,Cold,0.0,Ruchita Patil
+334,LI-3231-63,OPP-1353-56,Kits Dragon,RP-3285306,pgrigorio9a@nsw.gov.au,2020-09-27 04:20:36,2020-10-03 17:09:16,622,689,Won,Hot,0.95,Belal Farooqui
+335,LI-8406-08,OPP-2621-01,Kits Dragon,RP-9694141,mbengough9b@tmall.com,2019-11-22 08:40:46,2019-11-29 19:30:25,1060,723,Open,Warm,0.35,Ruchita Patil
+336,LI-4057-25,OPP-5314-86,Aurora,BM-9623351,cjarmyn9c@tinyurl.com,2020-01-09 02:30:08,2020-01-19 07:07:35,1136,922,Won,Hot,0.8,Ruchita Patil
+337,LI-7677-60,OPP-3604-41,Kits Dragon,RP-2439197,egoretti9d@sbwire.com,2019-11-30 06:00:16,2019-12-07 08:30:44,1426,1130,Open,Warm,0.35,Heena Chopra
+338,LI-0340-03,OPP-0039-68,Kits Dragon,HC-6234095,kgerrels9e@trellian.com,2020-05-24 03:31:54,2020-05-31 09:21:41,1287,901,Open,Warm,0.4,Jaswinder Singh
+339,LI-3649-78,OPP-9964-58,Sirius,HC-6242099,kjorg9f@parallels.com,2020-05-11 13:20:43,2020-05-18 00:03:53,2057,1444,Open,Warm,0.4,Ruchita Patil
+340,LI-6168-50,OPP-2105-73,Apollo,HC-5530639,bffrench9g@dell.com,2020-10-05 21:08:27,2020-10-12 03:31:04,645,799,Lost,Cold,0.05,Belal Farooqui
+341,LI-1895-75,OPP-5519-40,Kits Dragon,BM-4584061,jpopelay9h@jalbum.net,2020-06-09 19:41:40,2020-06-17 05:18:15,580,585,Open,Warm,0.35,Ruchita Patil
+342,LI-9340-41,OPP-7310-77,Sirius,BM-2278779,xliversidge9i@wikipedia.org,2020-04-04 09:08:49,2020-04-09 14:39:03,1243,904,Won,Hot,0.85,Jaswinder Singh
+343,LI-4405-15,OPP-3425-57,Kits Dragon,RP-3747357,sgarnam9j@youtube.com,2020-04-25 15:44:11,2020-05-01 01:51:57,1143,835,Open,Warm,0.4,Belal Farooqui
+344,LI-8052-77,OPP-8348-44,Kits Dragon,BM-3038682,rclausen9k@dmoz.org,2019-12-06 08:01:02,2019-12-14 09:48:31,603,758,Lost,Cold,0.0,Ruchita Patil
+345,LI-8329-65,OPP-3394-22,Kits Dragon,JS-6311009,zmileham9l@google.com.au,2020-08-29 22:33:19,2020-09-06 01:59:40,790,1023,Lost,Cold,0.0,Heena Chopra
+346,LI-0112-22,OPP-9351-72,Proxima-C,RP-0881559,mapplewhite9m@nydailynews.com,2020-05-24 05:03:20,2020-05-30 14:18:04,1386,1368,Won,Hot,0.8,Belal Farooqui
+347,LI-9200-16,OPP-4383-77,Kits Dragon,JS-7312286,jhalshaw9n@tiny.cc,2020-02-18 23:13:26,2020-02-28 07:17:45,386,458,Open,Warm,0.35,Jaswinder Singh
+348,LI-0567-31,OPP-1638-77,Proxima-C,JS-2543683,astoeck9o@wix.com,2020-01-24 23:29:08,2020-02-01 03:59:35,1497,1337,Open,Warm,0.35,Belal Farooqui
+349,LI-5125-83,OPP-0337-06,Kits Dragon,RP-3983830,rlenton9p@ox.ac.uk,2019-12-12 22:19:07,2019-12-21 00:04:49,1462,1040,Won,Hot,0.85,Ruchita Patil
+350,LI-7820-63,OPP-4220-34,Kits Dragon,JS-5433211,rscorer9q@cyberchimps.com,2020-08-22 18:42:42,2020-08-29 06:16:22,1308,890,Won,Hot,0.8,Heena Chopra
+351,LI-3597-77,OPP-3719-08,Proxima-C,JS-5087683,achiddy9r@rediff.com,2020-04-27 18:05:55,2020-05-04 21:47:50,1455,1389,Won,Hot,0.85,Ruchita Patil
+352,LI-9213-57,OPP-6830-69,Sirius,RP-9889238,bcaldayrou9s@acquirethisname.com,2020-10-14 06:22:21,2020-10-21 08:49:42,806,567,Open,Warm,0.4,Ruchita Patil
+353,LI-1156-69,OPP-9043-03,Proxima-C,JS-2009955,mstedson9t@admin.ch,2020-11-08 07:52:11,2020-11-16 11:17:20,214,275,Won,Hot,0.85,Ruchita Patil
+354,LI-7357-26,OPP-6711-57,Kits Dragon,HC-8282758,vhudel9u@behance.net,2020-05-22 08:55:28,2020-05-28 09:49:24,1253,1285,Won,Hot,0.9,Ruchita Patil
+355,LI-6522-98,OPP-4889-97,Aurora,BM-4841507,kmarians9v@csmonitor.com,2020-08-12 11:35:52,2020-08-19 21:42:29,1297,970,Won,Hot,0.9,Belal Farooqui
+356,LI-0808-62,OPP-8327-62,Aurora,JS-1314491,surry9w@google.com.au,2020-01-05 11:44:22,2020-01-15 00:04:46,1018,985,Lost,Cold,0.0,Ruchita Patil
+357,LI-9057-98,OPP-1817-64,Kits Dragon,HC-8990046,bricciardo9x@who.int,2020-07-22 20:01:11,2020-07-29 02:47:29,608,675,Won,Hot,0.8,Ruchita Patil
+358,LI-8775-04,OPP-1406-86,Sirius,HC-7842453,abrumfitt9y@cpanel.net,2019-12-27 16:18:40,2020-01-06 03:49:51,1067,1134,Won,Hot,0.8,Heena Chopra
+359,LI-3656-30,OPP-0717-72,Sirius,JS-0340471,apass9z@amazon.de,2020-04-10 11:02:23,2020-04-16 15:15:03,1639,1187,Won,Hot,0.85,Belal Farooqui
+360,LI-7153-85,OPP-0018-70,Proxima-C,BM-6386091,laxworthya0@mediafire.com,2020-09-09 00:37:02,2020-09-17 02:34:13,1421,1279,Won,Hot,0.95,Ruchita Patil
+361,LI-7443-07,OPP-8221-85,Kits Dragon,HC-8028587,etrucketta1@friendfeed.com,2020-02-24 06:40:55,2020-03-04 15:16:20,1524,1544,Won,Hot,0.9,Ruchita Patil
+362,LI-5193-68,OPP-3061-69,Kits Dragon,RP-1981583,acornforda2@smugmug.com,2020-07-29 02:56:08,2020-08-05 14:49:25,885,1015,Won,Hot,0.9,Ruchita Patil
+363,LI-6753-51,OPP-7020-33,Kits Dragon,BM-0037557,rredmillea3@ifeng.com,2020-02-13 04:09:38,2020-02-21 14:04:45,963,960,Open,Warm,0.45,Jaswinder Singh
+364,LI-6116-93,OPP-0904-24,Proxima-C,HC-3059608,bjanouta4@hhs.gov,2020-11-02 15:45:02,2020-11-12 21:43:36,524,640,Won,Hot,0.9,Ruchita Patil
+365,LI-2048-27,OPP-2635-95,Kits Dragon,RP-5612296,gmavinga5@slate.com,2020-03-05 09:22:08,2020-03-10 20:11:37,1133,765,Lost,Cold,0.0,Ruchita Patil
+366,LI-3377-94,OPP-5084-33,Kits Dragon,RP-5528085,dcraigiea6@nih.gov,2020-05-23 16:44:46,2020-05-28 20:31:41,647,759,Won,Hot,0.8,Jaswinder Singh
+367,LI-1468-27,OPP-9790-77,Aurora,HC-9049498,aclurowa7@google.com,2019-12-10 17:27:58,2019-12-20 23:43:21,1348,909,Open,Warm,0.35,Belal Farooqui
+368,LI-9759-98,OPP-5932-21,Proxima-C,RP-4769914,jenriquesa8@wordpress.com,2020-02-15 08:20:34,2020-02-22 10:31:55,1505,1091,Lost,Cold,0.05,Jaswinder Singh
+369,LI-7619-95,OPP-5426-49,Proxima-C,RP-4293207,mmcneilliea9@oracle.com,2020-09-02 15:54:42,2020-09-07 16:47:16,1395,1202,Won,Hot,0.85,Belal Farooqui
+370,LI-4608-04,OPP-8263-56,Proxima-C,RP-3087628,swimesaa@tinyurl.com,2020-05-22 23:45:41,2020-05-29 08:26:08,1670,1298,Lost,Cold,0.05,Belal Farooqui
+371,LI-6770-90,OPP-3523-71,Kits Dragon,RP-0873090,egennyab@bandcamp.com,2020-09-09 08:20:49,2020-09-17 19:50:35,781,890,Won,Hot,0.9,Belal Farooqui
+372,LI-4594-93,OPP-4826-03,Kits Dragon,RP-7528293,jstrakerac@creativecommons.org,2020-06-15 01:48:21,2020-06-25 14:02:33,1315,958,Lost,Cold,0.05,Ruchita Patil
+373,LI-2174-61,OPP-1669-10,Proxima-C,HC-5731263,adinnegesad@wiley.com,2020-10-13 13:26:41,2020-10-22 22:43:05,855,582,Won,Hot,0.85,Ruchita Patil
+374,LI-0583-71,OPP-0100-38,Kits Dragon,RP-5355691,jandreiniae@nih.gov,2020-09-13 16:10:11,2020-09-19 00:19:24,1386,957,Open,Warm,0.35,Ruchita Patil
+375,LI-2461-31,OPP-6129-96,Kits Dragon,JS-8096950,rbrahmaf@reuters.com,2020-07-31 02:19:35,2020-08-10 08:09:34,510,658,Open,Warm,0.3,Ruchita Patil
+376,LI-9242-67,OPP-1138-42,Sirius,RP-5072521,blaidelag@macromedia.com,2020-05-30 06:20:18,2020-06-04 18:02:20,1954,1320,Lost,Cold,0.05,Ruchita Patil
+377,LI-0568-61,OPP-7049-60,Kits Dragon,BM-0159566,jkempstoneah@weebly.com,2020-09-10 11:00:00,2020-09-20 15:57:19,785,590,Won,Hot,0.9,Ruchita Patil
+378,LI-4124-77,OPP-2323-86,Kits Dragon,RP-2725368,alaceyai@biblegateway.com,2020-08-23 05:57:54,2020-08-29 15:15:29,821,1067,Open,Warm,0.4,Ruchita Patil
+379,LI-6877-89,OPP-6938-37,Sirius,BM-3009561,dgodboltaj@google.co.uk,2020-07-22 06:41:43,2020-08-01 09:13:41,747,605,Open,Warm,0.45,Ruchita Patil
+380,LI-5537-73,OPP-5853-29,Apollo,RP-8328460,svlasenkoak@digg.com,2020-10-01 10:15:50,2020-10-06 15:42:17,926,1065,Won,Hot,0.85,Belal Farooqui
+381,LI-7296-72,OPP-6090-87,Phoenix,RP-6988000,hmcvickeral@yellowbook.com,2019-12-02 13:04:39,2019-12-09 15:57:42,1670,1147,Lost,Cold,0.0,Ruchita Patil
+382,LI-6173-77,OPP-5677-61,Kits Dragon,BM-5964393,pmandalam@jigsy.com,2020-03-07 20:17:05,2020-03-18 06:55:52,926,785,Lost,Cold,0.0,Ruchita Patil
+383,LI-4323-10,OPP-9947-00,Kits Dragon,RP-2557949,mhardistryan@mashable.com,2020-01-01 09:32:08,2020-01-11 14:51:36,273,363,Open,Warm,0.3,Ruchita Patil
+384,LI-8723-36,OPP-4050-79,Phoenix,RP-7506865,myitzhokao@cbslocal.com,2020-04-12 12:39:24,2020-04-17 19:37:53,712,691,Won,Hot,0.9,Ruchita Patil
+385,LI-7854-90,OPP-0318-27,Proxima-C,RP-4148697,kprettiap@nba.com,2020-08-22 03:55:40,2020-08-27 11:26:44,774,620,Open,Warm,0.3,Ruchita Patil
+386,LI-3721-72,OPP-2308-34,Sirius,JS-0440313,mfilyukovaq@gravatar.com,2020-02-27 13:26:11,2020-03-03 16:07:56,1452,1319,Won,Hot,0.95,Belal Farooqui
+387,LI-4249-24,OPP-5623-72,Sirius,HC-3911450,eyurygynar@tripod.com,2019-12-16 19:48:17,2019-12-22 02:54:51,1185,1400,Lost,Cold,0.0,Belal Farooqui
+388,LI-8216-50,OPP-6812-94,Apollo,RP-7537558,gsevinas@bloglines.com,2020-09-26 10:28:05,2020-10-01 11:49:31,1003,879,Won,Hot,0.85,Ruchita Patil
+389,LI-6659-53,OPP-0465-17,Kits Dragon,HC-5655752,lhartillat@biglobe.ne.jp,2020-05-31 23:38:23,2020-06-08 01:21:35,1372,1080,Won,Hot,0.85,Jaswinder Singh
+390,LI-9945-67,OPP-7753-57,Kits Dragon,JS-5616244,lhellmoreau@blog.com,2020-11-04 17:40:11,2020-11-11 02:45:38,1813,1397,Lost,Cold,0.0,Jaswinder Singh
+391,LI-8075-83,OPP-3163-27,Proxima-C,RP-7165837,kblairav@blogs.com,2020-06-01 16:01:10,2020-06-07 01:35:44,1150,1029,Won,Hot,0.9,Ruchita Patil
+392,LI-8630-36,OPP-7877-80,Kits Dragon,HC-0014636,csparrowaw@abc.net.au,2020-01-31 12:15:11,2020-02-07 23:52:37,715,910,Open,Warm,0.35,Belal Farooqui
+393,LI-4468-66,OPP-2016-98,Kits Dragon,HC-2875118,hsowersbyax@google.fr,2020-03-29 04:15:47,2020-04-07 08:17:49,2161,1497,Open,Warm,0.4,Ruchita Patil
+394,LI-4825-68,OPP-5625-71,Kits Dragon,HC-6596739,rstevensay@scientificamerican.com,2020-01-30 12:05:42,2020-02-09 00:02:30,1381,1075,Open,Warm,0.35,Ruchita Patil
+395,LI-6175-54,OPP-7473-30,Proxima-C,HC-6327194,bgreeninaz@prnewswire.com,2020-04-18 10:56:03,2020-04-23 12:41:01,602,565,Won,Hot,0.8,Heena Chopra
+396,LI-5297-97,OPP-8768-03,Aurora,HC-4145425,mphillpb0@cisco.com,2020-07-29 13:31:16,2020-08-07 19:28:21,884,1122,Lost,Cold,0.0,Ruchita Patil
+397,LI-8506-37,OPP-3046-72,Kits Dragon,RP-6007636,golivob1@state.tx.us,2020-10-15 19:01:39,2020-10-25 20:54:38,791,885,Won,Hot,0.9,Belal Farooqui
+398,LI-6367-01,OPP-0719-30,Agyrap-S,HC-9730945,scoadeb2@wiley.com,2019-12-07 05:26:47,2019-12-16 15:36:22,1198,888,Won,Hot,0.9,Ruchita Patil
+399,LI-8337-77,OPP-0226-68,Proxima-C,HC-9960002,gdivineyb3@studiopress.com,2020-09-05 07:00:41,2020-09-15 11:06:45,743,759,Won,Hot,0.9,Ruchita Patil
+400,LI-2255-82,OPP-4556-37,Kits Dragon,RP-5381883,aberesfordb4@about.me,2020-11-05 21:34:02,2020-11-13 02:32:56,962,880,Open,Warm,0.45,Ruchita Patil
+401,LI-8669-79,OPP-4896-63,Proxima-C,HC-2247640,tarmfieldb5@noaa.gov,2020-02-22 14:09:50,2020-03-02 14:18:00,922,617,Won,Hot,0.8,Ruchita Patil
+402,LI-3198-49,OPP-1046-09,Kits Dragon,HC-8605203,lvirginb6@last.fm,2020-06-22 23:15:28,2020-06-28 23:41:24,718,900,Lost,Cold,0.05,Ruchita Patil
+403,LI-4649-04,OPP-0972-45,Sirius,RP-6913856,otaffeeb7@prweb.com,2020-06-04 23:59:18,2020-06-15 06:13:07,966,1072,Open,Warm,0.4,Ruchita Patil
+404,LI-5105-57,OPP-7588-25,Proxima-C,HC-6280352,oocorraneb8@time.com,2020-09-28 07:13:09,2020-10-03 17:58:48,1241,1130,Lost,Cold,0.0,Heena Chopra
+405,LI-2153-57,OPP-5457-45,Kits Dragon,HC-0394130,sbadderb9@bloglovin.com,2019-11-26 14:31:05,2019-12-01 16:47:53,787,898,Open,Warm,0.35,Ruchita Patil
+406,LI-4651-98,OPP-8300-89,Aurora,RP-2310481,glindmanba@si.edu,2020-03-05 07:33:21,2020-03-10 13:52:08,1088,962,Won,Hot,0.85,Ruchita Patil
+407,LI-0200-12,OPP-7124-21,Kits Dragon,RP-4311257,galpinbb@acquirethisname.com,2020-06-28 20:37:20,2020-07-07 22:49:26,976,1002,Won,Hot,0.8,Jaswinder Singh
+408,LI-0778-22,OPP-4300-91,Sirius,RP-0681118,konionsbc@nsw.gov.au,2020-04-13 15:53:49,2020-04-19 21:03:52,1243,1068,Lost,Cold,0.05,Heena Chopra
+409,LI-4360-45,OPP-7879-50,Kits Dragon,RP-7106644,aboundybd@storify.com,2020-10-22 09:46:03,2020-10-28 10:29:54,1243,996,Won,Hot,0.85,Heena Chopra
+410,LI-1930-23,OPP-6244-70,Kits Dragon,RP-9991877,msandsbe@goodreads.com,2020-08-11 00:55:46,2020-08-21 05:47:54,1106,1065,Won,Hot,0.85,Belal Farooqui
+411,LI-4107-88,OPP-5677-31,Kits Dragon,HC-2098449,kdalwoodbf@yelp.com,2020-02-26 16:55:33,2020-03-08 01:32:45,1243,998,Open,Warm,0.4,Ruchita Patil
+412,LI-1983-30,OPP-2518-94,Proxima-C,JS-5528342,mcasebournebg@wikispaces.com,2019-12-22 04:39:55,2019-12-30 15:38:23,1036,952,Open,Warm,0.45,Jaswinder Singh
+413,LI-7470-55,OPP-4563-09,Sirius,RP-8823574,mminihanbh@fotki.com,2020-08-28 01:36:24,2020-09-02 07:46:22,554,390,Won,Hot,0.95,Belal Farooqui
+414,LI-2163-23,OPP-3784-58,Proxima-C,RP-3340169,riwaszkiewiczbi@techcrunch.com,2019-12-26 07:57:06,2020-01-01 13:23:04,1091,1041,Lost,Cold,0.05,Ruchita Patil
+415,LI-8987-53,OPP-3300-55,Agyrap-S,BM-9642883,sjolliffbj@hc360.com,2020-04-27 06:19:20,2020-05-02 10:06:23,791,1046,Won,Hot,0.8,Ruchita Patil
+416,LI-8742-34,OPP-4745-27,Kits Dragon,RP-9197428,drenggerbk@yolasite.com,2020-06-19 17:22:42,2020-06-29 03:18:47,1070,1375,Won,Hot,0.85,Jaswinder Singh
+417,LI-6446-43,OPP-7220-29,Kits Dragon,HC-6481506,cdibl@sourceforge.net,2020-03-30 14:29:20,2020-04-08 14:34:47,958,768,Lost,Cold,0.0,Jaswinder Singh
+418,LI-3083-62,OPP-1527-45,Apollo,BM-0636155,sstrivensbm@cbslocal.com,2020-07-26 07:52:32,2020-08-02 09:21:36,1940,1409,Open,Warm,0.4,Ruchita Patil
+419,LI-0792-92,OPP-1393-25,Kits Dragon,JS-4785183,bboldbn@ucsd.edu,2020-07-31 19:45:48,2020-08-11 04:24:14,944,647,Won,Hot,0.95,Heena Chopra
+420,LI-0144-12,OPP-0264-72,Proxima-C,BM-7098844,iheindrickbo@arstechnica.com,2019-12-30 03:43:38,2020-01-08 15:41:58,1498,1171,Won,Hot,0.9,Ruchita Patil
+421,LI-6826-34,OPP-7557-54,Sirius,BM-2037584,isteetbp@goo.ne.jp,2019-11-24 12:18:32,2019-12-03 21:10:20,1255,863,Open,Warm,0.3,Ruchita Patil
+422,LI-4115-04,OPP-9228-18,Kits Dragon,HC-0550438,mbergeonbq@ucoz.com,2020-02-16 16:02:40,2020-02-26 21:37:32,650,765,Lost,Cold,0.0,Ruchita Patil
+423,LI-4013-92,OPP-7659-35,Proxima-C,JS-7734653,zgreastybr@si.edu,2019-12-05 12:48:33,2019-12-10 20:22:03,1105,907,Won,Hot,0.8,Ruchita Patil
+424,LI-1639-35,OPP-6658-34,Kits Dragon,RP-3351415,akurtbs@xrea.com,2020-09-20 18:32:50,2020-09-26 18:46:11,603,770,Lost,Cold,0.05,Ruchita Patil
+425,LI-3376-84,OPP-0532-15,Proxima-C,HC-9671376,plinnanebt@nps.gov,2020-06-23 11:18:20,2020-06-29 17:32:31,1373,1320,Won,Hot,0.85,Ruchita Patil
+426,LI-8170-94,OPP-0718-02,Sirius,BM-3139821,ltristrambu@blogspot.com,2020-06-16 23:00:59,2020-06-22 06:59:33,1117,1364,Open,Warm,0.35,Ruchita Patil
+427,LI-1776-23,OPP-7967-86,Proxima-C,RP-2921144,hduckworthbv@sfgate.com,2020-03-25 12:11:03,2020-03-31 21:30:13,1534,1097,Lost,Cold,0.05,Ruchita Patil
+428,LI-7147-41,OPP-4934-25,Sirius,RP-2026803,sguerrinbw@apple.com,2020-11-03 13:29:59,2020-11-12 21:14:49,1665,1212,Lost,Cold,0.0,Belal Farooqui
+429,LI-9892-64,OPP-4142-45,Kits Dragon,RP-0395920,gboycottbx@seattletimes.com,2020-06-23 01:00:13,2020-06-30 11:59:58,611,790,Lost,Cold,0.05,Belal Farooqui
+430,LI-4443-70,OPP-4878-73,Kits Dragon,JS-2223427,nquareby@slate.com,2020-07-16 04:34:15,2020-07-22 16:25:09,1002,1190,Won,Hot,0.95,Ruchita Patil
+431,LI-8351-26,OPP-7329-18,Kits Dragon,RP-5634240,tmoarbz@histats.com,2020-04-22 07:25:48,2020-04-27 11:12:11,1710,1351,Won,Hot,0.8,Jaswinder Singh
+432,LI-1026-15,OPP-8766-39,Kits Dragon,RP-0241824,wspeddingc0@constantcontact.com,2019-12-07 06:23:51,2019-12-14 11:13:44,1125,1289,Won,Hot,0.85,Ruchita Patil
+433,LI-2789-43,OPP-1737-10,Sirius,RP-8641132,jhullotc1@quantcast.com,2020-08-13 21:35:44,2020-08-22 07:51:26,1828,1369,Open,Warm,0.4,Ruchita Patil
+434,LI-2929-43,OPP-0159-56,Sirius,RP-2097238,hwhyleyc2@moonfruit.com,2020-10-15 18:41:56,2020-10-24 06:13:17,969,841,Lost,Cold,0.0,Belal Farooqui
+435,LI-6469-28,OPP-7259-53,Kits Dragon,HC-4980595,vgreenawayc3@lulu.com,2020-06-17 11:24:32,2020-06-26 14:27:18,702,780,Lost,Cold,0.05,Belal Farooqui
+436,LI-2428-62,OPP-1181-06,Kits Dragon,RP-3018225,hmitchamc4@arstechnica.com,2020-02-08 15:11:39,2020-02-13 17:36:17,1086,1120,Open,Warm,0.45,Ruchita Patil
+437,LI-2335-01,OPP-0249-13,Kits Dragon,RP-5456088,vjaxonc5@gizmodo.com,2020-07-21 14:27:04,2020-07-27 21:24:19,1037,767,Won,Hot,0.9,Belal Farooqui
+438,LI-0340-23,OPP-2882-65,Kits Dragon,HC-6554406,cofenc6@tuttocitta.it,2020-01-13 03:44:14,2020-01-21 13:44:52,728,930,Lost,Cold,0.0,Belal Farooqui
+439,LI-8010-24,OPP-3552-15,Proxima-C,HC-9797459,hcroadc7@sbwire.com,2020-04-17 22:02:38,2020-04-23 06:32:36,817,910,Open,Warm,0.4,Ruchita Patil
+440,LI-2914-57,OPP-4892-60,Kits Dragon,RP-6921283,hbuddc8@sciencedaily.com,2020-08-11 09:40:33,2020-08-20 10:25:00,656,860,Won,Hot,0.95,Ruchita Patil
+441,LI-0272-80,OPP-7233-81,Kits Dragon,HC-2951685,lcamidgec9@webnode.com,2020-04-20 10:53:50,2020-04-30 11:05:04,1485,1123,Lost,Cold,0.05,Jaswinder Singh
+442,LI-1232-54,OPP-9145-95,Sirius,BM-6978659,fsinsonca@fc2.com,2020-06-19 11:54:30,2020-06-25 15:03:43,1387,1013,Open,Warm,0.45,Ruchita Patil
+443,LI-4237-10,OPP-5572-50,Kits Dragon,BM-8484653,gbuntoncb@toplist.cz,2020-06-02 17:38:57,2020-06-10 00:10:56,1283,1045,Won,Hot,0.9,Jaswinder Singh
+444,LI-1295-70,OPP-5371-86,Anhee-C,HC-5947301,crichingscc@desdev.cn,2020-07-13 01:04:21,2020-07-23 11:14:49,1130,1032,Won,Hot,0.9,Belal Farooqui
+445,LI-4049-95,OPP-6478-96,Kits Dragon,BM-3451481,lfranceschinocd@istockphoto.com,2020-05-25 14:04:08,2020-06-01 14:28:30,578,553,Won,Hot,0.8,Belal Farooqui
+446,LI-2375-76,OPP-0079-82,Kits Dragon,RP-0431232,goce@studiopress.com,2020-03-29 03:13:06,2020-04-05 04:17:10,522,611,Open,Warm,0.35,Jaswinder Singh
+447,LI-0840-03,OPP-1172-36,Kits Dragon,BM-6505427,dschneidercf@usa.gov,2020-03-09 22:05:56,2020-03-20 03:23:32,840,696,Won,Hot,0.8,Ruchita Patil
+448,LI-3002-60,OPP-8871-86,Kits Dragon,BM-6103060,ehambatchcg@rakuten.co.jp,2020-10-17 12:24:41,2020-10-27 15:39:58,784,975,Won,Hot,0.9,Belal Farooqui
+449,LI-0928-46,OPP-7453-11,Kits Dragon,HC-8443210,mcloustonch@chron.com,2019-12-30 07:47:12,2020-01-07 10:43:11,555,708,Won,Hot,0.95,Heena Chopra
+450,LI-5623-00,OPP-2068-63,Proxima-C,RP-6727145,akleinstubci@nature.com,2020-06-06 04:36:03,2020-06-15 12:32:54,694,818,Lost,Cold,0.0,Ruchita Patil
+451,LI-2037-82,OPP-9638-75,Sirius,JS-8792037,klaintoncj@163.com,2020-02-04 15:46:50,2020-02-12 16:49:12,587,533,Won,Hot,0.8,Heena Chopra
+452,LI-5193-96,OPP-8786-35,Kits Dragon,HC-5956827,awillcoxck@bloglovin.com,2020-09-24 05:07:19,2020-10-01 15:57:20,950,885,Open,Warm,0.4,Ruchita Patil
+453,LI-4544-29,OPP-4822-00,Kits Dragon,RP-3205584,acastlecl@wiley.com,2020-03-17 15:04:58,2020-03-26 15:05:53,771,930,Open,Warm,0.35,Ruchita Patil
+454,LI-9842-74,OPP-6266-18,Kits Dragon,RP-9711563,dlaxsoncm@washingtonpost.com,2020-02-09 21:54:57,2020-02-16 10:22:34,1161,1154,Open,Warm,0.35,Ruchita Patil
+455,LI-3245-22,OPP-6625-86,Apollo,RP-8102513,edelagnescn@usatoday.com,2020-03-28 15:06:39,2020-04-07 23:45:52,1307,876,Won,Hot,0.8,Belal Farooqui
+456,LI-3265-41,OPP-7342-29,Kits Dragon,RP-8502188,msattefordco@addthis.com,2020-01-16 22:13:07,2020-01-26 09:23:51,1105,1115,Open,Warm,0.4,Belal Farooqui
+457,LI-0438-25,OPP-6595-18,Proxima-C,BM-0763966,callcottcp@mapy.cz,2020-07-26 03:02:33,2020-07-31 06:30:08,627,795,Won,Hot,0.8,Jaswinder Singh
+458,LI-8461-23,OPP-6113-22,Apollo,JS-6035444,kferschkecq@yahoo.com,2020-01-22 19:03:34,2020-01-28 01:27:08,619,821,Won,Hot,0.85,Jaswinder Singh
+459,LI-3829-09,OPP-9120-13,Kits Dragon,BM-1696630,gsturtcr@omniture.com,2020-11-07 02:28:00,2020-11-12 07:35:37,1542,1256,Lost,Cold,0.05,Ruchita Patil
+460,LI-2375-63,OPP-0684-84,Kits Dragon,BM-1899961,tboccs@accuweather.com,2019-12-25 14:39:33,2020-01-01 00:37:55,1316,1191,Won,Hot,0.9,Belal Farooqui
+461,LI-6207-58,OPP-2379-41,Proxima-C,HC-8825853,kkeherct@angelfire.com,2020-07-31 04:11:00,2020-08-10 13:40:02,675,828,Won,Hot,0.8,Ruchita Patil
+462,LI-7621-71,OPP-7814-84,Proxima-C,RP-3599751,kmaidstonecu@gmpg.org,2020-07-26 03:47:37,2020-08-01 15:25:11,983,1090,Open,Warm,0.35,Ruchita Patil
+463,LI-1906-85,OPP-4618-63,Kits Dragon,RP-0872970,vsiemianowiczcv@opensource.org,2020-05-25 06:35:51,2020-05-30 13:14:25,586,470,Lost,Cold,0.0,Ruchita Patil
+464,LI-3056-87,OPP-0093-16,Kits Dragon,JS-6031789,fbrocketcw@soup.io,2020-02-06 23:22:06,2020-02-14 23:29:57,580,685,Won,Hot,0.8,Ruchita Patil
+465,LI-8974-04,OPP-5953-93,Sirius,HC-2226503,lbaigentcx@cbslocal.com,2020-05-23 03:10:06,2020-05-29 11:49:23,869,709,Lost,Cold,0.05,Belal Farooqui
+466,LI-3276-53,OPP-2457-83,Proxima-C,RP-8437928,vboschmanncy@apple.com,2020-07-16 00:48:06,2020-07-25 13:44:54,1027,1010,Lost,Cold,0.05,Belal Farooqui
+467,LI-0772-96,OPP-7956-48,Kits Dragon,JS-8329746,kmatteaccicz@lulu.com,2020-03-16 01:21:59,2020-03-22 04:56:57,986,905,Open,Warm,0.45,Jaswinder Singh
+468,LI-1341-38,OPP-8387-68,Kits Dragon,RP-5665331,rbernierd0@fastcompany.com,2020-04-11 16:35:08,2020-04-18 04:12:13,390,481,Lost,Cold,0.0,Ruchita Patil
+469,LI-1023-85,OPP-7817-57,Proxima-C,HC-8693306,rrebbeckd1@kickstarter.com,2020-01-26 14:58:56,2020-02-03 00:52:24,965,1257,Won,Hot,0.9,Heena Chopra
+470,LI-8397-07,OPP-9804-61,Proxima-C,BM-2584239,gfrantzd2@wordpress.org,2020-05-02 12:51:21,2020-05-07 19:14:17,1372,1168,Open,Warm,0.35,Belal Farooqui
+471,LI-7706-91,OPP-4666-42,Proxima-C,HC-1345028,ukortd3@sphinn.com,2020-08-04 23:32:55,2020-08-13 02:07:21,1990,1336,Won,Hot,0.85,Ruchita Patil
+472,LI-1720-92,OPP-6035-81,Kits Dragon,RP-1222899,amuddimerd4@acquirethisname.com,2020-06-10 02:20:10,2020-06-15 09:49:01,1683,1158,Won,Hot,0.85,Ruchita Patil
+473,LI-5407-32,OPP-6654-85,Proxima-C,BM-4169986,kgeldardd5@forbes.com,2020-10-04 21:44:22,2020-10-13 10:15:39,1762,1220,Lost,Cold,0.05,Ruchita Patil
+474,LI-7716-70,OPP-2912-39,Kits Dragon,JS-1526135,dwittd6@addthis.com,2020-10-03 08:50:35,2020-10-12 13:17:45,1299,1314,Won,Hot,0.8,Belal Farooqui
+475,LI-1903-40,OPP-1020-27,Kits Dragon,HC-1607272,efenlond7@globo.com,2020-04-23 20:58:52,2020-05-03 21:07:04,520,365,Won,Hot,0.95,Belal Farooqui
+476,LI-0622-20,OPP-2706-09,Kits Dragon,HC-1586020,skingsleyd8@deliciousdays.com,2020-03-19 07:47:47,2020-03-24 16:53:01,735,607,Open,Warm,0.4,Ruchita Patil
+477,LI-5016-43,OPP-2095-85,Proxima-C,RP-0468557,hcoileyd9@berkeley.edu,2020-04-07 05:31:28,2020-04-15 14:30:28,760,711,Won,Hot,0.95,Heena Chopra
+478,LI-5644-32,OPP-3777-19,Aurora,BM-2175344,mtedderda@photobucket.com,2020-06-26 01:17:41,2020-07-01 09:09:53,656,736,Won,Hot,0.85,Heena Chopra
+479,LI-9401-46,OPP-1907-47,Kits Dragon,RP-6961438,gferiadb@opera.com,2019-12-08 18:06:08,2019-12-18 22:28:50,2025,1415,Won,Hot,0.9,Belal Farooqui
+480,LI-4737-16,OPP-7450-12,Kits Dragon,BM-3832509,lgildingdc@woothemes.com,2020-10-10 14:46:33,2020-10-16 21:26:30,636,591,Won,Hot,0.8,Belal Farooqui
+481,LI-5605-84,OPP-4994-88,Kits Dragon,RP-3725572,wcowtondd@cargocollective.com,2020-09-13 08:19:03,2020-09-23 18:53:06,1151,1260,Won,Hot,0.95,Ruchita Patil
+482,LI-8530-48,OPP-5900-53,Kits Dragon,HC-1268803,brimingtonde@google.nl,2020-08-04 11:27:48,2020-08-12 22:49:25,931,751,Won,Hot,0.9,Ruchita Patil
+483,LI-7801-27,OPP-1764-74,Sirius,RP-5772142,pmiskindf@yahoo.com,2019-11-28 10:26:54,2019-12-03 20:34:17,1164,941,Won,Hot,0.95,Ruchita Patil
+484,LI-3244-99,OPP-4501-98,Kits Dragon,RP-4411800,schestersdg@taobao.com,2020-04-03 12:39:24,2020-04-09 01:07:35,1057,1235,Lost,Cold,0.0,Ruchita Patil
+485,LI-6020-09,OPP-6011-77,Proxima-C,RP-6443105,pgavigandh@un.org,2020-07-01 09:09:35,2020-07-07 19:17:36,870,997,Lost,Cold,0.05,Ruchita Patil
+486,LI-1617-88,OPP-7449-50,Aurora,RP-3332434,jwarnockdi@tamu.edu,2020-09-12 02:53:42,2020-09-22 04:57:54,1207,1115,Won,Hot,0.9,Ruchita Patil
+487,LI-2609-52,OPP-4966-73,Aurora,RP-5681211,tairdsdj@uol.com.br,2020-02-10 04:44:28,2020-02-18 17:20:02,1113,1256,Won,Hot,0.95,Ruchita Patil
+488,LI-2126-01,OPP-3333-38,Kits Dragon,BM-1693345,ddryburghdk@dyndns.org,2020-07-05 20:05:39,2020-07-14 23:40:49,1580,1337,Open,Warm,0.45,Jaswinder Singh
+489,LI-8058-67,OPP-0792-07,Proxima-C,RP-3126983,fpresnaildl@virginia.edu,2020-08-22 05:20:21,2020-09-01 14:55:48,833,850,Won,Hot,0.85,Ruchita Patil
+490,LI-3423-81,OPP-8946-54,Aurora,HC-9562557,ddeverickdm@live.com,2020-06-08 12:20:36,2020-06-18 19:21:39,635,676,Won,Hot,0.8,Heena Chopra
+491,LI-6151-02,OPP-6793-53,Kits Dragon,JS-9850967,zyuledn@cnn.com,2019-11-25 20:17:26,2019-12-04 20:18:30,1351,955,Won,Hot,0.9,Ruchita Patil
+492,LI-2062-09,OPP-4138-30,Proxima-C,HC-3026753,gravensheardo@bizjournals.com,2019-11-25 08:42:14,2019-12-01 17:53:14,1124,1026,Won,Hot,0.95,Heena Chopra
+493,LI-7700-00,OPP-8479-13,Proxima-C,BM-0983092,jguernerdp@yandex.ru,2020-05-15 12:33:15,2020-05-25 19:53:54,795,828,Lost,Cold,0.0,Heena Chopra
+494,LI-4384-06,OPP-9912-33,Kits Dragon,JS-6508691,atierydq@accuweather.com,2020-01-30 07:39:15,2020-02-05 12:20:24,955,846,Won,Hot,0.85,Ruchita Patil
+495,LI-3500-98,OPP-3493-24,Kits Dragon,BM-7024752,rmeakdr@godaddy.com,2019-12-25 16:42:02,2020-01-04 03:08:57,999,737,Won,Hot,0.95,Ruchita Patil
+496,LI-7362-94,OPP-3157-43,Kits Dragon,HC-0627981,upilbeamds@so-net.ne.jp,2020-07-06 11:24:43,2020-07-13 13:42:13,979,1017,Open,Warm,0.3,Ruchita Patil
+497,LI-0231-09,OPP-7875-81,Proxima-C,JS-5541444,egheorghedt@disqus.com,2020-04-13 18:32:57,2020-04-23 04:13:21,669,720,Lost,Cold,0.05,Ruchita Patil
+498,LI-2407-50,OPP-4824-26,Kits Dragon,RP-3218421,plashforddu@alibaba.com,2019-12-11 15:26:53,2019-12-17 23:47:53,589,689,Won,Hot,0.9,Ruchita Patil
+499,LI-2941-78,OPP-9730-80,Kits Dragon,RP-1826002,kleiledv@skyrock.com,2020-06-12 23:50:33,2020-06-21 12:38:23,1610,1110,Won,Hot,0.95,Ruchita Patil
+500,LI-5249-53,OPP-6911-90,Kits Dragon,BM-6021963,frentallldw@tinyurl.com,2020-10-07 22:20:21,2020-10-18 06:09:10,1104,944,Won,Hot,0.85,Heena Chopra
+501,LI-8697-45,OPP-3331-28,Kits Dragon,HC-5067500,bhebburndx@un.org,2020-10-01 02:13:59,2020-10-11 04:25:37,1252,1295,Won,Hot,0.95,Heena Chopra
+502,LI-1959-06,OPP-3579-73,Kits Dragon,RP-7888351,wbarnbydy@comcast.net,2019-12-05 02:03:22,2019-12-14 10:07:13,1267,1455,Won,Hot,0.95,Belal Farooqui
+503,LI-6351-66,OPP-7568-87,Kits Dragon,JS-7047617,rcarslakedz@devhub.com,2020-09-25 13:55:17,2020-10-01 13:58:06,931,1055,Lost,Cold,0.0,Heena Chopra
+504,LI-9917-83,OPP-4316-13,Kits Dragon,RP-9276247,jprigmoree0@wsj.com,2020-09-25 07:37:35,2020-10-03 15:09:04,1583,1114,Won,Hot,0.9,Ruchita Patil
+505,LI-3359-70,OPP-1490-55,Kits Dragon,JS-4785958,htolertone1@ask.com,2020-08-29 10:11:16,2020-09-05 21:44:30,968,984,Lost,Cold,0.0,Ruchita Patil
+506,LI-6426-90,OPP-6043-06,Kits Dragon,RP-0668985,fmacoune2@miibeian.gov.cn,2020-05-01 12:32:12,2020-05-09 20:42:13,1426,1002,Open,Warm,0.35,Ruchita Patil
+507,LI-5127-09,OPP-2598-54,Kits Dragon,BM-4309099,dbarnishe3@stumbleupon.com,2020-05-05 01:03:07,2020-05-13 07:27:11,832,825,Won,Hot,0.9,Heena Chopra
+508,LI-5687-77,OPP-7264-65,Kits Dragon,HC-5822562,oratnagee4@nps.gov,2019-12-16 14:59:29,2019-12-27 00:25:35,557,659,Won,Hot,0.95,Ruchita Patil
+509,LI-1103-11,OPP-2447-77,Proxima-C,JS-8162825,yfalke5@vk.com,2020-11-02 17:45:41,2020-11-11 21:54:13,899,938,Lost,Cold,0.0,Jaswinder Singh
+510,LI-8386-50,OPP-9620-20,Kits Dragon,RP-3838196,gocarrole6@vimeo.com,2020-01-18 07:50:49,2020-01-27 13:05:17,1098,1360,Lost,Cold,0.05,Jaswinder Singh
+511,LI-9178-50,OPP-1497-07,Kits Dragon,RP-1646489,wmarchie7@google.com,2020-03-16 23:19:51,2020-03-24 11:01:17,557,710,Won,Hot,0.8,Belal Farooqui
+512,LI-9614-70,OPP-7693-34,Kits Dragon,BM-0494050,wsheasbye8@scribd.com,2020-06-15 12:10:11,2020-06-22 14:52:27,1339,1129,Won,Hot,0.9,Belal Farooqui
+513,LI-9588-65,OPP-7005-70,Proxima-C,RP-5848147,adee9@myspace.com,2020-02-08 14:55:28,2020-02-14 02:41:22,1536,1488,Won,Hot,0.8,Ruchita Patil
+514,LI-1826-83,OPP-4927-26,Sirius,BM-5091132,lmcconachieea@csmonitor.com,2020-10-06 08:33:36,2020-10-12 15:28:36,1308,1218,Lost,Cold,0.0,Belal Farooqui
+515,LI-7837-29,OPP-5775-73,Kits Dragon,RP-0923037,igerlereb@wikispaces.com,2020-06-18 10:46:49,2020-06-28 12:35:33,709,713,Lost,Cold,0.0,Belal Farooqui
+516,LI-1854-52,OPP-1187-57,Sirius,RP-6091700,brubbertsec@exblog.jp,2020-03-17 08:23:12,2020-03-27 11:54:08,815,978,Won,Hot,0.9,Ruchita Patil
+517,LI-2893-00,OPP-0554-63,Kits Dragon,JS-5458040,jsnawdened@youtube.com,2019-12-14 20:06:34,2019-12-19 20:21:06,1535,1039,Lost,Cold,0.0,Belal Farooqui
+518,LI-3350-39,OPP-7612-27,Kits Dragon,RP-6346965,mcoultassee@hao123.com,2020-04-13 19:49:17,2020-04-20 05:12:32,981,1225,Won,Hot,0.95,Ruchita Patil
+519,LI-3256-37,OPP-0461-86,Kits Dragon,RP-7535263,rstearnef@whitehouse.gov,2020-07-17 01:10:03,2020-07-24 09:18:34,851,1006,Open,Warm,0.3,Ruchita Patil
+520,LI-8856-36,OPP-7727-17,Kits Dragon,RP-6194468,eslippereg@domainmarket.com,2020-04-27 14:51:43,2020-05-05 22:15:38,845,1041,Lost,Cold,0.05,Ruchita Patil
+521,LI-8909-86,OPP-4499-31,Kits Dragon,RP-0560250,bbolvereh@nature.com,2020-04-08 19:09:40,2020-04-18 04:14:03,1884,1477,Won,Hot,0.9,Ruchita Patil
+522,LI-4188-55,OPP-2203-33,Kits Dragon,HC-6622677,fbattlesonei@eepurl.com,2019-11-25 11:59:00,2019-11-30 21:48:33,828,646,Won,Hot,0.95,Jaswinder Singh
+523,LI-9547-08,OPP-5258-23,Proxima-C,HC-4277206,cvasyukovej@noaa.gov,2020-07-04 08:02:45,2020-07-10 09:05:52,598,650,Won,Hot,0.9,Heena Chopra
+524,LI-0407-33,OPP-7821-20,Kits Dragon,RP-1157310,lpontefractek@state.tx.us,2019-12-29 22:16:42,2020-01-06 10:40:30,1011,948,Open,Warm,0.35,Heena Chopra
+525,LI-0184-23,OPP-7427-07,Kits Dragon,JS-1218793,ppeizerel@yahoo.com,2020-06-05 07:50:28,2020-06-10 09:27:08,1299,974,Won,Hot,0.8,Ruchita Patil
+526,LI-3600-28,OPP-1616-10,Kits Dragon,JS-8653461,hmitchardem@msn.com,2020-09-02 17:38:35,2020-09-11 20:23:21,1170,1085,Lost,Cold,0.0,Jaswinder Singh
+527,LI-6273-00,OPP-6859-88,Proxima-C,RP-0052194,bpawlynen@mashable.com,2020-04-30 15:23:05,2020-05-07 03:33:25,559,665,Won,Hot,0.95,Heena Chopra
+528,LI-3988-81,OPP-3443-47,Kits Dragon,RP-4767182,tevenseo@tripod.com,2020-04-03 09:16:55,2020-04-11 11:00:38,853,1063,Won,Hot,0.9,Ruchita Patil
+529,LI-0188-97,OPP-0315-08,Sirius,RP-6386313,gdallimoreep@dailymail.co.uk,2020-03-24 13:17:08,2020-03-30 17:44:05,682,835,Lost,Cold,0.0,Ruchita Patil
+530,LI-5805-15,OPP-8212-34,Proxima-C,RP-0244067,kwhorltoneq@deliciousdays.com,2020-09-15 06:04:01,2020-09-25 10:29:45,1580,1227,Won,Hot,0.85,Jaswinder Singh
+531,LI-6809-71,OPP-7176-51,Kits Dragon,RP-6316091,jstarlinger@globo.com,2019-12-01 08:43:32,2019-12-11 18:45:54,1900,1315,Lost,Cold,0.0,Heena Chopra
+532,LI-9892-60,OPP-3791-84,Proxima-C,RP-3122692,lkiddes@dagondesign.com,2020-05-07 10:58:19,2020-05-13 12:18:27,1496,1045,Lost,Cold,0.0,Ruchita Patil
+533,LI-9011-10,OPP-1925-67,Kits Dragon,RP-1606022,cgurget@elegantthemes.com,2020-02-27 22:41:52,2020-03-06 11:04:48,697,475,Open,Warm,0.4,Ruchita Patil
+534,LI-7664-13,OPP-8457-83,Apollo,JS-5097233,ndystereu@instagram.com,2020-08-19 19:35:39,2020-08-29 00:01:47,698,815,Open,Warm,0.4,Heena Chopra
+535,LI-1230-36,OPP-9489-11,Agyrap-S,HC-9525734,rbodyev@webs.com,2020-03-17 11:32:29,2020-03-27 22:48:55,1382,1249,Won,Hot,0.8,Heena Chopra
+536,LI-5195-74,OPP-1804-68,Kits Dragon,HC-4538741,rgraverew@scientificamerican.com,2020-02-13 18:52:09,2020-02-20 05:26:03,1246,1415,Lost,Cold,0.05,Heena Chopra
+537,LI-2556-47,OPP-0581-82,Kits Dragon,RP-2321587,ddumbletonex@hao123.com,2020-04-19 22:15:29,2020-04-27 00:25:05,926,1085,Won,Hot,0.8,Belal Farooqui
+538,LI-0037-35,OPP-5181-35,Proxima-C,HC-0804550,ppettipherey@ehow.com,2020-11-08 22:32:53,2020-11-16 23:01:41,1642,1232,Won,Hot,0.85,Ruchita Patil
+539,LI-2235-50,OPP-2777-74,Kits Dragon,RP-5363595,tslaneyez@eepurl.com,2020-01-01 09:39:56,2020-01-09 22:40:06,1261,913,Open,Warm,0.4,Ruchita Patil
+540,LI-9157-75,OPP-5722-42,Kits Dragon,RP-1994161,phunnaballf0@noaa.gov,2020-06-07 18:10:39,2020-06-14 05:12:26,753,569,Lost,Cold,0.05,Ruchita Patil
+541,LI-7019-27,OPP-7353-47,Kits Dragon,BM-9082580,msomerlief1@fda.gov,2019-11-17 18:02:45,2019-11-23 00:22:40,1462,1284,Lost,Cold,0.05,Belal Farooqui
+542,LI-7074-74,OPP-1043-97,Kits Dragon,HC-5654203,erenef2@cnn.com,2020-03-29 07:29:00,2020-04-03 16:45:16,1101,1070,Won,Hot,0.85,Belal Farooqui
+543,LI-7778-77,OPP-6190-37,Kits Dragon,RP-4571994,ailchenkof3@symantec.com,2020-06-13 21:34:01,2020-06-20 06:07:37,797,816,Won,Hot,0.9,Ruchita Patil
+544,LI-2975-75,OPP-0710-56,Sirius,HC-1524902,flarkingf4@odnoklassniki.ru,2019-12-09 01:57:49,2019-12-18 14:29:43,1247,868,Won,Hot,0.8,Belal Farooqui
+545,LI-4454-59,OPP-1222-62,Kits Dragon,BM-5236160,dgreddenf5@cafepress.com,2020-07-04 15:42:38,2020-07-13 18:51:33,1161,1424,Won,Hot,0.85,Belal Farooqui
+546,LI-9875-83,OPP-4621-79,Aurora,RP-4563971,vwoodesf6@arizona.edu,2020-08-19 00:47:02,2020-08-25 10:54:05,370,385,Won,Hot,0.85,Heena Chopra
+547,LI-2518-03,OPP-6788-65,Kits Dragon,HC-8788604,kpietrowiczf7@yelp.com,2020-08-08 12:48:41,2020-08-15 00:31:06,1266,905,Won,Hot,0.95,Ruchita Patil
+548,LI-1651-11,OPP-4169-95,Sirius,RP-4677981,lwardingtonf8@cdbaby.com,2020-07-02 06:15:50,2020-07-08 15:15:43,1269,1030,Lost,Cold,0.05,Heena Chopra
+549,LI-0568-89,OPP-1080-87,Proxima-C,HC-8857147,jguarinf9@bravesites.com,2020-04-19 17:46:57,2020-04-26 00:17:07,711,620,Won,Hot,0.9,Ruchita Patil
+550,LI-1806-26,OPP-0578-43,Kits Dragon,JS-5528756,sdoomanfa@webmd.com,2020-08-03 01:54:32,2020-08-08 04:36:21,1433,993,Won,Hot,0.8,Ruchita Patil
+551,LI-3692-66,OPP-9063-74,Kits Dragon,BM-5429691,atolomeifb@msu.edu,2020-07-05 11:32:08,2020-07-13 20:47:44,2139,1442,Lost,Cold,0.05,Belal Farooqui
+552,LI-9940-22,OPP-7966-92,Kits Dragon,RP-1052835,vnormavillefc@google.com,2020-07-20 02:49:16,2020-07-27 06:14:32,932,959,Won,Hot,0.8,Jaswinder Singh
+553,LI-3649-38,OPP-9957-26,Kits Dragon,JS-6969436,dsabertonfd@umich.edu,2020-02-25 14:50:14,2020-03-06 17:50:20,927,1116,Open,Warm,0.3,Belal Farooqui
+554,LI-9730-18,OPP-9122-91,Kits Dragon,RP-0366304,hphizackleafe@infoseek.co.jp,2020-10-16 01:46:08,2020-10-26 03:55:24,1818,1285,Won,Hot,0.85,Ruchita Patil
+555,LI-4876-60,OPP-0169-63,Kits Dragon,RP-1281346,elistff@indiegogo.com,2019-12-07 23:42:48,2019-12-16 03:28:09,608,428,Won,Hot,0.95,Ruchita Patil
+556,LI-0063-74,OPP-8534-98,Sirius,HC-6663565,kvaseyfg@ezinearticles.com,2020-04-28 10:32:10,2020-05-03 20:32:46,1384,1089,Won,Hot,0.85,Ruchita Patil
+557,LI-9652-05,OPP-2398-39,Kits Dragon,BM-2351752,gmcevillyfh@shinystat.com,2020-08-20 21:57:10,2020-08-29 03:31:27,790,551,Lost,Cold,0.0,Belal Farooqui
+558,LI-6434-40,OPP-6111-35,Sirius,JS-1381192,khamsharfi@hugedomains.com,2019-12-27 19:17:04,2020-01-06 00:32:54,914,815,Won,Hot,0.85,Ruchita Patil
+559,LI-2885-25,OPP-9866-37,Kits Dragon,JS-3638220,aeakefj@webeden.co.uk,2020-02-26 12:35:28,2020-03-06 00:32:47,396,484,Lost,Cold,0.05,Ruchita Patil
+560,LI-4474-12,OPP-6675-60,Apollo,HC-2451058,amorsonfk@smugmug.com,2020-10-16 10:37:30,2020-10-26 14:59:30,582,666,Open,Warm,0.45,Belal Farooqui
+561,LI-7289-70,OPP-7026-02,Sirius,HC-1672951,dtoveyfl@state.gov,2019-11-18 06:08:22,2019-11-27 11:52:44,512,540,Won,Hot,0.9,Belal Farooqui
+562,LI-7217-43,OPP-5278-92,Proxima-C,RP-6942483,oscholeyfm@hostgator.com,2020-05-08 16:02:01,2020-05-18 01:11:35,1419,1096,Won,Hot,0.8,Ruchita Patil
+563,LI-8075-49,OPP-2446-44,Proxima-C,HC-2982866,bclissellfn@opensource.org,2020-04-15 10:42:05,2020-04-22 22:42:13,1589,1169,Lost,Cold,0.0,Ruchita Patil
+564,LI-5051-98,OPP-8857-72,Proxima-C,RP-9258832,wheymannfo@1und1.de,2020-10-20 20:48:04,2020-10-26 23:17:32,1019,856,Won,Hot,0.9,Ruchita Patil
+565,LI-1515-11,OPP-8917-48,Apollo,BM-6459583,yaynscombefp@ezinearticles.com,2020-02-12 12:10:06,2020-02-20 17:50:24,1301,1080,Won,Hot,0.85,Ruchita Patil
+566,LI-4352-16,OPP-2463-53,Kits Dragon,HC-5481302,eledamunfq@discuz.net,2020-05-16 08:08:09,2020-05-21 15:07:02,1345,1009,Lost,Cold,0.05,Jaswinder Singh
+567,LI-1882-03,OPP-4194-35,Kits Dragon,HC-5180977,psymonfr@comcast.net,2019-11-20 15:28:17,2019-11-25 19:15:46,607,677,Lost,Cold,0.05,Ruchita Patil
+568,LI-5783-19,OPP-8997-22,Sirius,RP-4347101,lmerittfs@hao123.com,2020-06-27 23:40:19,2020-07-06 06:11:31,671,846,Lost,Cold,0.05,Ruchita Patil
+569,LI-2762-88,OPP-2828-62,Apollo,RP-3425979,dwickwarft@ask.com,2020-08-09 08:24:52,2020-08-15 20:50:59,776,648,Open,Warm,0.3,Ruchita Patil
+570,LI-6379-16,OPP-0856-71,Kits Dragon,RP-0858609,hkleinermanfu@tiny.cc,2020-07-19 22:07:29,2020-07-29 10:23:05,1695,1260,Open,Warm,0.45,Jaswinder Singh
+571,LI-1268-96,OPP-3562-40,Proxima-C,HC-0277995,evolksfv@vimeo.com,2020-01-06 03:02:44,2020-01-14 15:13:48,959,697,Open,Warm,0.3,Jaswinder Singh
+572,LI-2181-10,OPP-6032-31,Proxima-C,RP-7248977,jbrearleyfw@timesonline.co.uk,2020-06-02 16:42:44,2020-06-13 02:47:47,660,647,Won,Hot,0.85,Belal Farooqui
+573,LI-7481-53,OPP-0242-77,Proxima-C,HC-4420227,cbottrillfx@china.com.cn,2020-09-18 07:37:01,2020-09-24 09:28:53,855,985,Won,Hot,0.8,Ruchita Patil
+574,LI-0484-89,OPP-3157-43,Apollo,JS-9076622,lcranglefy@constantcontact.com,2020-07-15 03:12:07,2020-07-25 11:33:50,562,738,Lost,Cold,0.0,Ruchita Patil
+575,LI-9194-51,OPP-1158-39,Kits Dragon,BM-7909045,swornhamfz@shop-pro.jp,2020-04-22 23:29:42,2020-04-30 11:29:26,1362,1031,Won,Hot,0.8,Jaswinder Singh
+576,LI-6551-48,OPP-5685-81,Sirius,RP-0947270,dpirrieg0@photobucket.com,2020-07-02 19:38:07,2020-07-08 07:16:32,1332,951,Won,Hot,0.95,Ruchita Patil
+577,LI-7868-58,OPP-4902-19,Kits Dragon,HC-1982257,sgateleyg1@oakley.com,2020-10-03 05:52:41,2020-10-08 08:39:12,770,950,Open,Warm,0.4,Ruchita Patil
+578,LI-0879-08,OPP-6153-66,Sirius,HC-4503470,mlutwycheg2@blogger.com,2020-04-14 10:35:48,2020-04-24 15:21:59,1742,1169,Won,Hot,0.8,Ruchita Patil
+579,LI-9054-39,OPP-2134-71,Kits Dragon,JS-1908066,kbarkasg3@webeden.co.uk,2020-03-04 21:40:00,2020-03-10 05:07:14,1405,1449,Won,Hot,0.8,Ruchita Patil
+580,LI-7295-43,OPP-1226-08,Proxima-C,HC-2670263,noshaughnessyg4@narod.ru,2020-10-12 17:19:11,2020-10-20 04:28:07,1914,1544,Won,Hot,0.8,Belal Farooqui
+581,LI-7478-71,OPP-2959-90,Proxima-C,RP-6432817,smallordg5@yale.edu,2020-02-17 13:21:25,2020-02-25 20:50:11,752,776,Won,Hot,0.95,Belal Farooqui
+582,LI-6301-80,OPP-2602-44,Phoenix,RP-5037043,mleebetterg6@bizjournals.com,2020-07-27 18:12:20,2020-08-01 22:46:44,978,691,Won,Hot,0.85,Ruchita Patil
+583,LI-0037-56,OPP-7727-82,Aurora,RP-7760698,aschulerg7@com.com,2020-02-02 06:18:57,2020-02-08 12:29:38,709,613,Won,Hot,0.95,Heena Chopra
+584,LI-1382-60,OPP-0950-41,Kits Dragon,JS-5599724,mmaphamg8@netscape.com,2020-06-29 17:34:06,2020-07-09 02:29:33,1046,1191,Won,Hot,0.8,Ruchita Patil
+585,LI-8283-49,OPP-3923-94,Kits Dragon,JS-7109386,wpoytressg9@nydailynews.com,2020-04-29 20:52:16,2020-05-06 08:27:47,1003,740,Won,Hot,0.95,Heena Chopra
+586,LI-4134-47,OPP-0920-66,Kits Dragon,HC-2398744,bbreachga@wufoo.com,2020-08-01 04:45:16,2020-08-06 06:36:37,1095,1092,Lost,Cold,0.0,Ruchita Patil
+587,LI-5000-32,OPP-2880-58,Kits Dragon,RP-2703326,omacparlandgb@spotify.com,2020-05-10 13:16:21,2020-05-17 18:49:00,1663,1190,Open,Warm,0.3,Jaswinder Singh
+588,LI-9805-32,OPP-8619-90,Kits Dragon,HC-7729723,mlowgc@washington.edu,2020-07-04 22:44:48,2020-07-12 08:29:13,1317,990,Open,Warm,0.3,Jaswinder Singh
+589,LI-1566-72,OPP-3574-54,Proxima-C,JS-6339642,smackibbongd@sfgate.com,2019-11-19 04:20:03,2019-11-27 11:31:27,1106,995,Open,Warm,0.4,Heena Chopra
+590,LI-3836-12,OPP-7808-23,Proxima-C,HC-2094188,cchalkege@purevolume.com,2019-11-25 16:51:05,2019-12-05 03:26:50,852,652,Lost,Cold,0.0,Belal Farooqui
+591,LI-5213-95,OPP-3898-07,Proxima-C,RP-3110115,mchallisgf@skyrock.com,2020-08-24 19:28:55,2020-09-04 04:19:17,868,935,Won,Hot,0.85,Belal Farooqui
+592,LI-5166-60,OPP-0336-86,Proxima-C,HC-1789627,nbromellgg@soundcloud.com,2020-02-20 05:33:42,2020-03-01 07:48:27,536,540,Lost,Cold,0.05,Ruchita Patil
+593,LI-7559-71,OPP-9723-34,Agyrap-S,RP-9514676,rgresswellgh@gravatar.com,2019-12-24 23:40:44,2020-01-03 12:40:07,993,1225,Won,Hot,0.85,Heena Chopra
+594,LI-3859-52,OPP-2144-60,Kits Dragon,BM-2525343,wmorlandgi@bloglovin.com,2020-04-05 10:53:13,2020-04-10 13:16:31,1291,1147,Open,Warm,0.4,Jaswinder Singh
+595,LI-2140-87,OPP-9437-85,Kits Dragon,BM-1327582,amcanellyegj@tamu.edu,2019-12-30 05:40:51,2020-01-08 14:52:59,1097,776,Lost,Cold,0.05,Heena Chopra
+596,LI-5958-58,OPP-2634-55,Kits Dragon,RP-5279866,lgilmartingk@oracle.com,2019-11-15 04:42:24,2019-11-24 05:50:34,686,550,Won,Hot,0.85,Belal Farooqui
+597,LI-4906-79,OPP-9029-08,Phoenix,RP-9017892,twarmingtongl@hud.gov,2020-01-12 16:05:03,2020-01-21 00:43:02,593,568,Open,Warm,0.4,Ruchita Patil
+598,LI-0201-56,OPP-5888-53,Sirius,RP-3233132,icritchergm@google.com.br,2020-03-27 17:19:42,2020-04-03 01:16:26,1088,979,Lost,Cold,0.0,Ruchita Patil
+599,LI-5308-01,OPP-1277-68,Proxima-C,BM-4074560,moffellgn@twitter.com,2020-05-09 05:56:37,2020-05-17 12:46:29,1611,1318,Open,Warm,0.3,Belal Farooqui
+600,LI-6242-70,OPP-7587-43,Proxima-C,HC-2394671,ppenhalego@list-manage.com,2020-09-21 07:57:00,2020-09-29 12:53:07,1242,893,Won,Hot,0.8,Belal Farooqui
+601,LI-6189-04,OPP-1612-31,Kits Dragon,JS-5212431,jhockeygp@ibm.com,2020-10-27 07:13:55,2020-11-01 20:09:07,1035,1195,Lost,Cold,0.05,Ruchita Patil
+602,LI-4158-70,OPP-3348-30,Sirius,HC-8300957,ngaudengq@npr.org,2020-03-02 05:38:40,2020-03-12 18:34:12,1243,1390,Lost,Cold,0.0,Ruchita Patil
+603,LI-2283-97,OPP-2531-79,Kits Dragon,RP-3601325,acamellgr@cnet.com,2020-06-14 00:08:25,2020-06-22 09:50:38,1325,1127,Lost,Cold,0.05,Ruchita Patil
+604,LI-0515-52,OPP-2754-01,Sirius,HC-8567703,khearsumgs@pbs.org,2020-06-01 05:26:46,2020-06-06 12:05:26,1584,1179,Lost,Cold,0.0,Belal Farooqui
+605,LI-5647-11,OPP-4441-94,Agyrap-S,JS-8547574,etornsgt@tiny.cc,2020-01-17 19:41:55,2020-01-25 05:22:15,1452,1185,Open,Warm,0.3,Belal Farooqui
+606,LI-4556-76,OPP-6559-78,Proxima-C,HC-1577127,pcromartygu@altervista.org,2020-09-15 12:30:05,2020-09-25 23:51:19,961,938,Won,Hot,0.9,Ruchita Patil
+607,LI-9656-42,OPP-9613-51,Proxima-C,BM-2383788,fkobpalgv@t.co,2020-05-22 02:01:51,2020-05-28 10:47:12,764,525,Open,Warm,0.45,Heena Chopra
+608,LI-3563-56,OPP-7242-60,Proxima-C,RP-9504855,emcveightygw@over-blog.com,2020-05-24 03:18:22,2020-05-29 14:22:38,1797,1409,Won,Hot,0.85,Belal Farooqui
+609,LI-4378-69,OPP-7363-90,Kits Dragon,RP-5928353,fleucharsgx@boston.com,2020-07-03 04:17:13,2020-07-08 17:11:34,1229,1053,Open,Warm,0.35,Ruchita Patil
+610,LI-4551-58,OPP-7246-07,Sirius,HC-5084155,gboyatgy@psu.edu,2020-03-07 05:10:06,2020-03-12 11:11:03,821,977,Open,Warm,0.4,Belal Farooqui
+611,LI-6586-83,OPP-0067-81,Phoenix,JS-6320221,ybramegz@so-net.ne.jp,2020-03-02 09:27:14,2020-03-10 11:47:41,798,908,Open,Warm,0.35,Ruchita Patil
+612,LI-7471-29,OPP-5011-99,Aurora,RP-8214498,clabroueh0@oracle.com,2020-10-27 08:07:24,2020-11-03 13:12:27,1125,878,Won,Hot,0.95,Ruchita Patil
+613,LI-9079-63,OPP-5692-68,Kits Dragon,RP-5782441,mwoodrooffeh1@freewebs.com,2020-05-12 04:18:37,2020-05-19 16:34:32,965,1220,Won,Hot,0.95,Ruchita Patil
+614,LI-5609-36,OPP-2943-64,Kits Dragon,RP-2534208,fchableh2@cyberchimps.com,2020-07-14 01:24:37,2020-07-22 08:37:40,1099,865,Won,Hot,0.9,Ruchita Patil
+615,LI-0198-59,OPP-9072-70,Proxima-C,HC-1587001,mwilkowskih3@homestead.com,2020-06-09 23:03:26,2020-06-19 23:53:30,1441,1372,Open,Warm,0.45,Jaswinder Singh
+616,LI-7827-06,OPP-8233-99,Proxima-C,RP-7375341,sstalleyh4@amazon.de,2020-06-06 16:49:22,2020-06-16 21:59:40,648,722,Open,Warm,0.35,Jaswinder Singh
+617,LI-5485-34,OPP-2769-32,Kits Dragon,RP-7063807,wsilbersakh5@google.com,2019-11-30 03:45:42,2019-12-05 10:55:38,1503,1281,Won,Hot,0.9,Heena Chopra
+618,LI-5716-67,OPP-6935-96,Agyrap-S,HC-9967116,abartolh6@reverbnation.com,2020-05-05 15:28:44,2020-05-12 16:42:27,778,675,Won,Hot,0.9,Ruchita Patil
+619,LI-1637-92,OPP-9341-65,Kits Dragon,RP-0110908,hjosth7@netlog.com,2020-04-04 20:58:59,2020-04-09 21:45:38,640,639,Lost,Cold,0.05,Ruchita Patil
+620,LI-7876-48,OPP-0997-79,Kits Dragon,JS-9739308,kpiddleh8@oakley.com,2020-05-13 02:29:53,2020-05-19 14:11:28,867,955,Lost,Cold,0.0,Heena Chopra
+621,LI-7384-27,OPP-7721-34,Kits Dragon,RP-9481724,vgumbyh9@ebay.co.uk,2020-01-19 23:49:24,2020-01-28 12:11:16,1333,1149,Open,Warm,0.4,Jaswinder Singh
+622,LI-2876-19,OPP-9845-26,Kits Dragon,HC-6914247,bwarbysha@phoca.cz,2020-03-02 08:00:47,2020-03-10 19:44:32,1040,1262,Open,Warm,0.35,Belal Farooqui
+623,LI-8291-02,OPP-8647-96,Agyrap-S,RP-6807089,aetchellhb@fc2.com,2020-04-23 08:29:52,2020-04-29 16:35:28,1268,1145,Lost,Cold,0.0,Jaswinder Singh
+624,LI-0452-62,OPP-5945-33,Proxima-C,RP-3715344,rdowyerhc@wunderground.com,2020-11-01 13:04:18,2020-11-08 16:43:30,1558,1289,Open,Warm,0.45,Ruchita Patil
+625,LI-5998-04,OPP-2083-50,Kits Dragon,RP-6063361,gbenzieshd@patch.com,2020-11-09 14:00:31,2020-11-16 15:42:21,700,480,Open,Warm,0.35,Ruchita Patil
+626,LI-4269-74,OPP-8294-45,Kits Dragon,BM-6350788,jburgeshe@blinklist.com,2020-05-05 03:04:19,2020-05-11 14:37:51,1227,881,Lost,Cold,0.05,Belal Farooqui
+627,LI-6915-91,OPP-6035-68,Kits Dragon,RP-4033804,hblackiehf@artisteer.com,2020-01-11 17:11:49,2020-01-19 02:58:36,827,820,Won,Hot,0.95,Ruchita Patil
+628,LI-8352-50,OPP-1671-22,Aurora,BM-7679709,abedburrowhg@upenn.edu,2020-08-12 17:02:15,2020-08-17 19:17:21,1616,1095,Lost,Cold,0.0,Belal Farooqui
+629,LI-4161-07,OPP-1822-31,Kits Dragon,RP-8815101,ebusekhh@bluehost.com,2020-04-08 09:41:13,2020-04-15 18:45:59,859,1119,Won,Hot,0.95,Ruchita Patil
+630,LI-9057-69,OPP-6672-75,Kits Dragon,JS-4301455,twensleyhi@hexun.com,2020-02-04 13:24:10,2020-02-15 00:48:33,1142,845,Open,Warm,0.45,Ruchita Patil
+631,LI-7003-30,OPP-9708-68,Proxima-C,JS-5076276,getcheshj@meetup.com,2020-10-15 13:22:14,2020-10-23 22:39:42,764,1007,Won,Hot,0.95,Jaswinder Singh
+632,LI-2005-79,OPP-6725-12,Proxima-C,BM-7530450,kgillatthk@ebay.com,2020-07-14 14:20:58,2020-07-22 18:35:26,1619,1590,Lost,Cold,0.05,Belal Farooqui
+633,LI-8363-38,OPP-3176-42,Kits Dragon,RP-3200230,ttallethl@seesaa.net,2020-07-30 14:32:42,2020-08-10 00:21:36,1647,1200,Won,Hot,0.9,Ruchita Patil
+634,LI-2059-80,OPP-7389-33,Kits Dragon,RP-1782928,lcapehm@tinypic.com,2020-06-11 23:29:17,2020-06-18 09:15:17,752,845,Open,Warm,0.3,Heena Chopra
+635,LI-2888-26,OPP-7250-43,Proxima-C,HC-0194723,rbernaerthn@dropbox.com,2020-08-09 16:11:14,2020-08-17 20:17:34,999,813,Open,Warm,0.4,Belal Farooqui
+636,LI-1570-33,OPP-9693-96,Kits Dragon,HC-5247365,ejoiceyho@nifty.com,2019-12-26 12:21:32,2020-01-01 01:16:25,590,670,Open,Warm,0.45,Belal Farooqui
+637,LI-0993-39,OPP-9222-42,Kits Dragon,JS-1992633,lbosleyhp@istockphoto.com,2020-05-20 10:33:02,2020-05-29 17:25:57,748,840,Won,Hot,0.95,Ruchita Patil
+638,LI-6605-33,OPP-1156-40,Aurora,HC-6898160,flehq@ask.com,2020-03-18 19:27:45,2020-03-27 04:22:29,880,1116,Won,Hot,0.85,Heena Chopra
+639,LI-5873-22,OPP-0184-71,Kits Dragon,HC-2179700,tranaldhr@home.pl,2020-07-29 22:06:19,2020-08-05 23:39:57,1501,1142,Won,Hot,0.95,Ruchita Patil
+640,LI-6536-40,OPP-9806-79,Proxima-C,BM-2276470,lrohlfshs@drupal.org,2020-11-02 15:45:34,2020-11-11 18:24:16,1044,740,Won,Hot,0.9,Ruchita Patil
+641,LI-6532-66,OPP-6393-53,Proxima-C,RP-7652182,fwinsborrowht@multiply.com,2020-10-15 10:05:10,2020-10-20 13:32:11,1574,1074,Lost,Cold,0.05,Belal Farooqui
+642,LI-0507-72,OPP-2012-70,Aurora,JS-8506830,rarendshu@google.co.uk,2020-09-13 03:24:30,2020-09-18 14:39:17,787,992,Lost,Cold,0.05,Jaswinder Singh
+643,LI-7777-52,OPP-0593-27,Sirius,JS-1718377,rchenghv@live.com,2020-04-06 19:05:56,2020-04-11 23:40:13,975,971,Open,Warm,0.45,Ruchita Patil
+644,LI-7692-54,OPP-1292-18,Proxima-C,RP-0190936,soverilhw@privacy.gov.au,2020-09-28 22:39:51,2020-10-09 10:51:39,781,872,Won,Hot,0.8,Ruchita Patil
+645,LI-0029-13,OPP-3350-62,Kits Dragon,JS-0841972,syglesiashx@skype.com,2020-04-25 14:04:32,2020-05-05 23:28:36,1120,867,Won,Hot,0.9,Ruchita Patil
+646,LI-0021-71,OPP-5843-42,Kits Dragon,RP-2370408,emithunhy@indiegogo.com,2020-09-08 12:14:31,2020-09-16 13:09:29,1246,865,Won,Hot,0.95,Heena Chopra
+647,LI-7168-18,OPP-5436-59,Proxima-C,BM-0263470,cbraundshz@bbb.org,2020-05-16 23:14:08,2020-05-27 00:15:51,833,735,Lost,Cold,0.0,Ruchita Patil
+648,LI-7779-57,OPP-9927-12,Kits Dragon,JS-0584014,jlangrani0@fema.gov,2020-06-27 06:16:00,2020-07-06 19:02:08,1190,1015,Won,Hot,0.9,Ruchita Patil
+649,LI-8767-75,OPP-5433-96,Proxima-C,HC-4028529,dstotherfieldi1@furl.net,2020-07-03 12:50:25,2020-07-12 15:16:10,751,925,Won,Hot,0.95,Ruchita Patil
+650,LI-8610-55,OPP-1496-47,Proxima-C,HC-7416717,spoupardi2@auda.org.au,2019-12-19 06:01:33,2019-12-26 08:02:15,1122,907,Open,Warm,0.4,Heena Chopra
+651,LI-3548-02,OPP-8660-19,Kits Dragon,HC-2343477,rduplocki3@newsvine.com,2020-06-08 11:39:21,2020-06-15 18:31:00,1012,880,Won,Hot,0.9,Belal Farooqui
+652,LI-2666-31,OPP-5577-06,Kits Dragon,HC-4343195,avallisi4@yandex.ru,2019-12-26 22:49:09,2020-01-02 06:13:41,773,902,Open,Warm,0.45,Ruchita Patil
+653,LI-8032-86,OPP-5292-03,Phoenix,RP-3511755,klethemi5@dot.gov,2020-03-12 06:46:10,2020-03-20 10:34:27,1316,993,Open,Warm,0.3,Ruchita Patil
+654,LI-9289-11,OPP-6377-87,Kits Dragon,RP-2205338,gricardoni6@gravatar.com,2020-03-24 00:15:14,2020-04-03 00:51:06,1415,996,Won,Hot,0.95,Ruchita Patil
+655,LI-0784-30,OPP-2934-01,Proxima-C,BM-7332268,amcanei7@house.gov,2020-07-19 21:55:18,2020-07-24 22:55:32,1592,1414,Won,Hot,0.9,Belal Farooqui
+656,LI-2086-63,OPP-8001-78,Phoenix,BM-4603964,utenderi8@github.io,2020-01-01 02:21:11,2020-01-09 08:27:45,1714,1262,Lost,Cold,0.05,Belal Farooqui
+657,LI-3110-87,OPP-9842-11,Proxima-C,RP-8595868,etulletti9@exblog.jp,2019-12-05 04:41:25,2019-12-10 14:42:23,1031,1037,Won,Hot,0.95,Belal Farooqui
+658,LI-1376-20,OPP-0950-19,Proxima-C,RP-0806331,rcradockia@elpais.com,2019-11-18 20:12:11,2019-11-27 08:07:42,1588,1442,Won,Hot,0.8,Jaswinder Singh
+659,LI-4532-26,OPP-0106-39,Proxima-C,RP-3598509,tdavittiib@blogs.com,2020-04-22 23:41:58,2020-05-01 11:04:08,1265,1330,Lost,Cold,0.05,Belal Farooqui
+660,LI-5180-26,OPP-4043-54,Kits Dragon,JS-8420897,aingryic@hostgator.com,2020-09-30 09:51:59,2020-10-06 22:11:28,428,403,Open,Warm,0.35,Belal Farooqui
+661,LI-7286-91,OPP-8885-44,Kits Dragon,RP-3288134,epriestmanid@geocities.jp,2020-09-25 08:38:28,2020-10-02 15:28:51,1394,1120,Lost,Cold,0.0,Belal Farooqui
+662,LI-1030-05,OPP-7119-60,Proxima-C,HC-5791837,nvanie@sbwire.com,2020-03-01 14:37:15,2020-03-11 16:25:04,1568,1257,Won,Hot,0.8,Ruchita Patil
+663,LI-4063-29,OPP-9209-19,Kits Dragon,HC-7296336,rgibkeif@cdbaby.com,2020-07-10 01:33:21,2020-07-17 11:52:13,1191,1298,Open,Warm,0.35,Belal Farooqui
+664,LI-1794-33,OPP-3108-91,Proxima-C,HC-0070454,klynessig@nature.com,2020-04-12 22:36:26,2020-04-21 07:53:50,1293,963,Won,Hot,0.9,Ruchita Patil
+665,LI-3293-23,OPP-3099-97,Kits Dragon,RP-3467985,mseagoodih@de.vu,2020-07-15 04:52:42,2020-07-23 16:27:46,1693,1457,Open,Warm,0.3,Ruchita Patil
+666,LI-2283-56,OPP-8215-88,Aurora,HC-3725215,chandii@thetimes.co.uk,2020-05-09 03:13:55,2020-05-14 04:24:08,919,747,Won,Hot,0.8,Belal Farooqui
+667,LI-0785-90,OPP-5965-46,Kits Dragon,RP-2884839,cmcij@booking.com,2019-12-20 00:52:01,2019-12-27 13:27:59,867,979,Open,Warm,0.4,Ruchita Patil
+668,LI-0264-23,OPP-4698-42,Proxima-C,HC-6977049,aboshersik@woothemes.com,2020-05-17 08:11:40,2020-05-26 10:14:31,1954,1377,Won,Hot,0.9,Belal Farooqui
+669,LI-5869-65,OPP-1596-31,Kits Dragon,HC-7235362,pgrubbeil@tamu.edu,2020-06-13 23:22:25,2020-06-19 08:14:56,676,638,Won,Hot,0.85,Belal Farooqui
+670,LI-3898-77,OPP-8481-02,Proxima-C,RP-5397925,eguisoim@odnoklassniki.ru,2020-06-08 07:59:51,2020-06-14 17:12:14,648,815,Won,Hot,0.85,Heena Chopra
+671,LI-1454-30,OPP-4475-52,Proxima-C,BM-6913310,vshelpin@privacy.gov.au,2020-09-27 14:27:48,2020-10-04 00:51:27,1685,1605,Open,Warm,0.3,Jaswinder Singh
+672,LI-5691-11,OPP-6524-74,Aurora,RP-7176640,clunnonio@etsy.com,2020-05-05 06:27:48,2020-05-12 18:55:17,1352,1101,Open,Warm,0.45,Ruchita Patil
+673,LI-6843-44,OPP-9614-83,Kits Dragon,RP-7164527,nmeereip@goodreads.com,2020-10-15 15:23:49,2020-10-23 04:01:47,1435,1139,Won,Hot,0.8,Ruchita Patil
+674,LI-2826-87,OPP-1734-84,Aurora,HC-6432122,iwalneiq@washingtonpost.com,2020-10-11 18:30:36,2020-10-18 21:44:06,1202,998,Won,Hot,0.85,Belal Farooqui
+675,LI-6359-08,OPP-9899-54,Kits Dragon,BM-8960350,sluesleyir@si.edu,2020-03-18 14:23:40,2020-03-24 15:22:11,1407,1043,Open,Warm,0.45,Jaswinder Singh
+676,LI-3409-07,OPP-7261-15,Proxima-C,RP-9150301,jvermeris@chicagotribune.com,2020-08-07 20:40:11,2020-08-13 00:39:06,1220,1062,Open,Warm,0.3,Ruchita Patil
+677,LI-3120-29,OPP-2290-12,Kits Dragon,RP-0253391,qduffilit@rakuten.co.jp,2020-08-08 04:56:56,2020-08-15 08:28:56,1369,1306,Won,Hot,0.9,Ruchita Patil
+678,LI-0990-32,OPP-0804-51,Apollo,RP-1859267,esargantiu@cpanel.net,2020-09-13 22:09:56,2020-09-21 03:46:02,1080,1000,Lost,Cold,0.05,Ruchita Patil
+679,LI-0165-04,OPP-2647-84,Proxima-C,RP-2636133,showeiv@1688.com,2020-03-24 23:09:28,2020-04-04 03:09:47,612,505,Open,Warm,0.4,Ruchita Patil
+680,LI-4478-09,OPP-4869-18,Kits Dragon,RP-5248300,mcopcottiw@csmonitor.com,2020-02-05 08:05:45,2020-02-12 17:33:22,1143,895,Lost,Cold,0.0,Ruchita Patil
+681,LI-3059-95,OPP-1788-46,Kits Dragon,RP-1041252,babendrothix@fda.gov,2020-05-11 17:04:03,2020-05-19 17:06:42,1441,1166,Won,Hot,0.95,Ruchita Patil
+682,LI-3545-16,OPP-8599-41,Kits Dragon,RP-2775006,gstuffinsiy@parallels.com,2020-09-01 20:32:54,2020-09-11 22:07:38,1228,984,Won,Hot,0.8,Ruchita Patil
+683,LI-1285-72,OPP-9359-98,Kits Dragon,RP-0926178,crawlliz@earthlink.net,2020-04-15 03:31:51,2020-04-23 05:33:28,1279,919,Won,Hot,0.9,Belal Farooqui
+684,LI-3322-37,OPP-0576-55,Proxima-C,BM-0490986,jchineryj0@wisc.edu,2020-01-07 22:20:18,2020-01-14 04:02:20,832,810,Open,Warm,0.3,Heena Chopra
+685,LI-9845-68,OPP-6885-28,Aurora,RP-6293498,ttowellj1@tinypic.com,2019-11-27 09:15:07,2019-12-07 21:54:37,727,509,Won,Hot,0.85,Ruchita Patil
+686,LI-7893-12,OPP-4517-23,Proxima-C,RP-1059670,acammellj2@reference.com,2019-12-24 03:05:03,2020-01-02 08:35:46,941,751,Won,Hot,0.95,Ruchita Patil
+687,LI-6074-20,OPP-0435-84,Sirius,HC-6627754,ahobblej3@stumbleupon.com,2020-05-08 17:45:03,2020-05-15 01:09:09,903,1204,Open,Warm,0.45,Belal Farooqui
+688,LI-1101-68,OPP-2575-12,Sirius,HC-1661265,wweedallj4@myspace.com,2019-11-11 15:50:15,2019-11-17 03:36:45,1194,1101,Open,Warm,0.35,Ruchita Patil
+689,LI-2154-49,OPP-9716-28,Kits Dragon,RP-7577502,mvanj5@wunderground.com,2020-09-19 16:42:21,2020-09-25 00:55:21,685,825,Won,Hot,0.8,Jaswinder Singh
+690,LI-0270-28,OPP-9779-03,Proxima-C,JS-8463422,lmordecaij6@topsy.com,2019-11-30 11:48:05,2019-12-07 22:45:00,1138,969,Won,Hot,0.8,Ruchita Patil
+691,LI-5677-34,OPP-8679-96,Proxima-C,RP-3882710,rtrowillj7@hc360.com,2019-11-27 01:40:40,2019-12-07 11:53:33,1195,897,Won,Hot,0.85,Ruchita Patil
+692,LI-7086-58,OPP-7509-47,Kits Dragon,RP-6909939,stopazj8@trellian.com,2020-10-14 21:35:25,2020-10-20 10:12:29,1085,815,Open,Warm,0.35,Ruchita Patil
+693,LI-7986-91,OPP-0938-83,Kits Dragon,RP-6497378,aghilardinij9@mit.edu,2020-01-12 21:51:27,2020-01-21 01:52:12,881,845,Won,Hot,0.95,Ruchita Patil
+694,LI-6358-48,OPP-5996-39,Kits Dragon,JS-6652153,rlinsteadja@washingtonpost.com,2020-11-09 06:24:03,2020-11-15 19:13:40,1130,1091,Won,Hot,0.85,Ruchita Patil
+695,LI-4322-93,OPP-1761-95,Proxima-C,RP-2258657,amcorkilljb@youtu.be,2020-10-24 11:21:45,2020-11-01 15:42:30,1038,805,Open,Warm,0.35,Ruchita Patil
+696,LI-2462-17,OPP-7770-10,Kits Dragon,BM-2007837,ramphlettjc@deliciousdays.com,2020-11-01 17:44:08,2020-11-08 04:24:25,1211,1060,Lost,Cold,0.0,Belal Farooqui
+697,LI-5372-60,OPP-0663-80,Sirius,JS-2308875,echadneyjd@prnewswire.com,2020-07-19 18:52:57,2020-07-29 00:45:35,1487,1124,Open,Warm,0.4,Jaswinder Singh
+698,LI-5719-13,OPP-3425-12,Proxima-C,HC-1440151,crobyje@soundcloud.com,2020-06-07 11:01:42,2020-06-14 18:15:51,1286,944,Won,Hot,0.85,Belal Farooqui
+699,LI-7385-40,OPP-2301-73,Kits Dragon,JS-5618705,askipseajf@chicagotribune.com,2019-12-04 23:36:07,2019-12-13 00:36:24,1060,873,Won,Hot,0.8,Belal Farooqui
+700,LI-9182-70,OPP-0687-27,Kits Dragon,RP-9454246,aschenfischjg@drupal.org,2020-04-10 18:18:14,2020-04-18 19:47:18,669,839,Open,Warm,0.4,Ruchita Patil
+701,LI-6578-56,OPP-2201-93,Kits Dragon,RP-7815497,sperrinchiefjh@yandex.ru,2020-03-07 21:07:48,2020-03-15 22:04:32,920,1043,Open,Warm,0.35,Heena Chopra
+702,LI-4080-08,OPP-0786-32,Proxima-C,BM-0231519,afranciottiji@narod.ru,2020-10-31 13:59:30,2020-11-07 22:45:46,1187,1145,Open,Warm,0.35,Belal Farooqui
+703,LI-9689-47,OPP-6689-15,Kits Dragon,JS-6250194,amatousekjj@cbslocal.com,2020-01-14 14:31:28,2020-01-23 19:38:02,827,610,Won,Hot,0.95,Belal Farooqui
+704,LI-9978-63,OPP-6074-93,Kits Dragon,JS-1023763,nsatterlyjk@ocn.ne.jp,2020-08-19 09:34:34,2020-08-25 20:01:22,1029,1005,Won,Hot,0.85,Heena Chopra
+705,LI-9831-34,OPP-5555-73,Proxima-C,HC-5212035,ekobierajl@whitehouse.gov,2020-02-14 23:06:43,2020-02-25 02:12:33,2077,1417,Lost,Cold,0.05,Ruchita Patil
+706,LI-7799-14,OPP-6903-27,Kits Dragon,RP-3792999,ljenninsjm@jiathis.com,2020-04-18 07:31:00,2020-04-23 18:00:46,1416,1077,Open,Warm,0.35,Jaswinder Singh
+707,LI-9285-51,OPP-0812-73,Kits Dragon,HC-4076511,lknellenjn@tuttocitta.it,2020-08-08 23:11:15,2020-08-16 04:16:07,1176,972,Lost,Cold,0.0,Ruchita Patil
+708,LI-4029-20,OPP-2263-36,Kits Dragon,HC-2596928,tkubujo@slashdot.org,2020-09-16 00:28:01,2020-09-22 08:28:47,632,578,Lost,Cold,0.05,Ruchita Patil
+709,LI-3975-46,OPP-5214-31,Kits Dragon,HC-5174743,btoraldjp@storify.com,2020-07-14 20:42:13,2020-07-24 07:44:46,578,601,Won,Hot,0.8,Ruchita Patil
+710,LI-6585-73,OPP-9138-48,Kits Dragon,HC-3636726,kplummerjq@archive.org,2020-06-23 15:27:42,2020-07-01 03:08:00,933,830,Open,Warm,0.3,Ruchita Patil
+711,LI-6769-30,OPP-4994-82,Kits Dragon,BM-0008316,gliverjr@auda.org.au,2020-02-08 23:02:41,2020-02-17 04:24:45,1770,1341,Lost,Cold,0.0,Heena Chopra
+712,LI-6366-80,OPP-5490-75,Aurora,JS-5111057,mdobrovskyjs@toplist.cz,2020-08-03 02:07:39,2020-08-08 08:11:24,700,783,Open,Warm,0.45,Ruchita Patil
+713,LI-2698-90,OPP-0604-87,Kits Dragon,HC-1774882,mhasnipjt@cnet.com,2020-07-24 15:26:43,2020-08-02 01:28:22,1357,1144,Open,Warm,0.45,Ruchita Patil
+714,LI-5230-12,OPP-4064-70,Anhee-C,JS-6176896,fweaferju@360.cn,2020-06-28 03:58:33,2020-07-06 08:19:38,774,996,Lost,Cold,0.0,Belal Farooqui
+715,LI-7255-88,OPP-8202-75,Proxima-C,RP-7018358,mgarnarjv@google.nl,2020-07-11 18:54:33,2020-07-17 05:02:04,985,1173,Won,Hot,0.9,Belal Farooqui
+716,LI-2655-19,OPP-9991-75,Sirius,JS-0963683,bmangenetjw@noaa.gov,2020-07-23 13:03:12,2020-07-28 20:32:02,706,633,Won,Hot,0.85,Ruchita Patil
+717,LI-8613-83,OPP-6666-58,Sirius,RP-6104989,htabourjx@smugmug.com,2020-08-29 08:41:06,2020-09-03 19:36:36,917,1132,Won,Hot,0.9,Ruchita Patil
+718,LI-0585-36,OPP-8537-69,Kits Dragon,RP-0002157,arickcordjy@marketwatch.com,2020-01-02 08:32:58,2020-01-08 19:46:16,1698,1540,Won,Hot,0.9,Heena Chopra
+719,LI-8307-59,OPP-1588-27,Kits Dragon,RP-3834434,emathiotjz@rediff.com,2020-09-26 17:18:07,2020-10-05 04:35:15,1009,742,Open,Warm,0.45,Jaswinder Singh
+720,LI-2756-86,OPP-6480-21,Kits Dragon,HC-6712276,chayek0@army.mil,2020-03-26 11:01:02,2020-04-02 17:45:18,1176,1219,Lost,Cold,0.05,Ruchita Patil
+721,LI-6733-99,OPP-3109-26,Kits Dragon,RP-4033281,pmcgettigank1@ifeng.com,2020-07-12 22:58:33,2020-07-22 06:10:40,855,832,Won,Hot,0.85,Belal Farooqui
+722,LI-5294-51,OPP-3155-29,Kits Dragon,RP-2344246,sbeekmannk2@prlog.org,2020-09-01 03:14:25,2020-09-08 14:54:34,570,618,Open,Warm,0.3,Jaswinder Singh
+723,LI-7556-32,OPP-3578-62,Proxima-C,HC-9501266,istiffk3@istockphoto.com,2020-05-27 12:57:28,2020-06-03 18:44:20,1916,1377,Won,Hot,0.85,Ruchita Patil
+724,LI-8310-56,OPP-1618-10,Proxima-C,JS-6356527,lkenrickk4@angelfire.com,2020-08-21 21:43:43,2020-08-27 05:04:39,789,839,Lost,Cold,0.05,Ruchita Patil
+725,LI-4876-74,OPP-8775-95,Aurora,JS-8633385,mpullk5@europa.eu,2019-12-29 18:08:29,2020-01-05 19:05:25,1166,951,Won,Hot,0.95,Heena Chopra
+726,LI-1151-39,OPP-2456-16,Proxima-C,HC-0269569,beaglestonek6@nyu.edu,2020-05-17 12:55:18,2020-05-27 01:25:13,1107,840,Open,Warm,0.4,Ruchita Patil
+727,LI-7288-51,OPP-1973-64,Sirius,RP-9956991,ndevitak7@patch.com,2020-07-21 02:57:12,2020-07-27 09:29:18,781,765,Open,Warm,0.3,Belal Farooqui
+728,LI-9286-10,OPP-2844-40,Proxima-C,HC-0530486,mgilek8@cocolog-nifty.com,2020-07-12 23:00:36,2020-07-22 06:15:55,608,721,Lost,Cold,0.0,Ruchita Patil
+729,LI-8899-22,OPP-8729-74,Proxima-C,BM-5989424,astockfordk9@japanpost.jp,2020-01-27 00:07:10,2020-02-02 04:33:02,1278,1190,Won,Hot,0.9,Heena Chopra
+730,LI-8644-69,OPP-7789-65,Kits Dragon,HC-0214879,jmcclunaghanka@i2i.jp,2020-08-26 23:40:36,2020-09-06 07:21:11,1241,1090,Open,Warm,0.35,Ruchita Patil
+731,LI-5612-04,OPP-1953-53,Sirius,RP-2641908,gcostenkb@ustream.tv,2020-03-25 15:56:38,2020-04-03 23:10:07,1279,1135,Open,Warm,0.45,Belal Farooqui
+732,LI-2860-21,OPP-4106-89,Anhee-C,HC-5056428,sdundendalekc@house.gov,2020-03-25 01:21:48,2020-03-31 07:38:38,1017,778,Won,Hot,0.85,Ruchita Patil
+733,LI-5637-25,OPP-0504-79,Proxima-C,JS-0344865,jmccrackenkd@bluehost.com,2020-10-14 21:56:22,2020-10-22 08:11:52,1332,1112,Won,Hot,0.85,Belal Farooqui
+734,LI-0862-03,OPP-5530-72,Aurora,BM-6016524,erozanskike@theatlantic.com,2020-09-05 00:16:43,2020-09-14 08:48:44,746,981,Lost,Cold,0.0,Heena Chopra
+735,LI-3075-08,OPP-0940-35,Apollo,BM-7178816,mhuskissonkf@wikimedia.org,2019-11-17 17:46:24,2019-11-28 03:18:39,753,990,Won,Hot,0.9,Ruchita Patil
+736,LI-9467-97,OPP-2042-65,Proxima-C,RP-6945461,cyakunchikovkg@spiegel.de,2020-01-12 22:03:19,2020-01-21 06:23:56,809,1038,Won,Hot,0.95,Ruchita Patil
+737,LI-4724-40,OPP-8101-50,Aurora,HC-3507062,growberrykh@cdbaby.com,2020-10-23 09:34:26,2020-10-30 17:01:30,1183,927,Won,Hot,0.8,Heena Chopra
+738,LI-4377-96,OPP-0884-05,Apollo,BM-3720400,gdeniski@webnode.com,2020-05-29 09:39:13,2020-06-06 17:57:23,1310,990,Won,Hot,0.95,Belal Farooqui
+739,LI-7006-06,OPP-4737-97,Agyrap-S,RP-1735780,rgervaisekj@netlog.com,2020-06-20 18:59:30,2020-06-30 23:22:45,1102,922,Won,Hot,0.9,Belal Farooqui
+740,LI-6889-29,OPP-7314-91,Kits Dragon,BM-1829512,mcattachkk@redcross.org,2020-09-25 02:06:40,2020-10-03 14:30:27,1494,1027,Open,Warm,0.45,Ruchita Patil
+741,LI-6303-78,OPP-0214-74,Anhee-C,RP-9506010,cvlasinkl@hostgator.com,2020-08-29 23:22:24,2020-09-07 01:06:14,935,1030,Won,Hot,0.8,Ruchita Patil
+742,LI-2743-72,OPP-8554-88,Proxima-C,BM-4758313,rdarnellkm@amazon.de,2019-12-26 02:24:53,2020-01-04 09:58:59,1064,1286,Won,Hot,0.95,Ruchita Patil
+743,LI-0460-43,OPP-1695-47,Proxima-C,RP-6594077,bmathelonkn@godaddy.com,2020-07-21 13:44:23,2020-07-29 18:19:30,1158,829,Lost,Cold,0.0,Ruchita Patil
+744,LI-1003-90,OPP-9360-57,Proxima-C,RP-2917187,ngurdenko@bluehost.com,2020-10-29 14:45:55,2020-11-05 00:24:45,1118,1136,Lost,Cold,0.0,Jaswinder Singh
+745,LI-4464-98,OPP-9599-42,Proxima-C,HC-4244560,ahumbeykp@mozilla.com,2020-02-12 06:41:47,2020-02-18 17:43:00,796,865,Open,Warm,0.45,Ruchita Patil
+746,LI-7323-55,OPP-4709-55,Proxima-C,BM-7938772,aboxellkq@ihg.com,2019-12-12 23:32:28,2019-12-18 08:07:36,1306,921,Won,Hot,0.95,Ruchita Patil
+747,LI-8012-80,OPP-3314-52,Sirius,RP-1266916,amccolgankr@tiny.cc,2019-12-19 14:07:32,2019-12-25 17:32:58,1828,1288,Lost,Cold,0.05,Ruchita Patil
+748,LI-7844-45,OPP-5661-03,Kits Dragon,RP-4030000,zpicotks@aol.com,2020-05-20 23:38:34,2020-05-26 10:10:11,948,633,Won,Hot,0.95,Ruchita Patil
+749,LI-2628-85,OPP-9654-16,Proxima-C,HC-9628442,epedderkt@dailymail.co.uk,2020-09-09 06:44:36,2020-09-18 07:30:17,1684,1305,Lost,Cold,0.0,Ruchita Patil
+750,LI-5392-83,OPP-1740-11,Kits Dragon,BM-5084793,sdowdallku@photobucket.com,2020-05-08 05:46:08,2020-05-15 16:54:52,1655,1135,Open,Warm,0.3,Ruchita Patil
+751,LI-0200-02,OPP-0444-24,Kits Dragon,RP-4532689,cgreenmankv@reddit.com,2019-12-14 04:24:10,2019-12-21 13:27:55,1298,882,Lost,Cold,0.05,Ruchita Patil
+752,LI-2936-77,OPP-1024-06,Proxima-C,RP-7910083,fhaulkhamkw@xing.com,2020-07-11 12:47:36,2020-07-20 12:54:43,997,1320,Lost,Cold,0.0,Ruchita Patil
+753,LI-2205-56,OPP-7849-15,Sirius,HC-0114410,esobtkakx@jugem.jp,2020-08-02 15:36:08,2020-08-12 04:16:56,806,546,Won,Hot,0.95,Ruchita Patil
+754,LI-8627-41,OPP-6473-64,Kits Dragon,RP-3467632,sclotherky@loc.gov,2019-12-29 08:46:51,2020-01-06 14:53:21,1062,847,Won,Hot,0.8,Ruchita Patil
+755,LI-2425-06,OPP-0103-10,Kits Dragon,RP-1977077,cbroscombekz@yahoo.co.jp,2020-10-27 18:07:48,2020-11-02 18:57:41,1541,1153,Won,Hot,0.95,Belal Farooqui
+756,LI-6139-05,OPP-3011-06,Sirius,RP-3934389,mdogertyl0@taobao.com,2020-04-30 06:00:32,2020-05-08 11:55:27,1641,1115,Won,Hot,0.8,Belal Farooqui
+757,LI-4114-32,OPP-4898-74,Phoenix,RP-9960413,eoverl1@ameblo.jp,2020-10-07 19:25:01,2020-10-15 05:10:22,1119,1275,Won,Hot,0.95,Ruchita Patil
+758,LI-2828-14,OPP-6637-31,Sirius,HC-1878415,ssearbyl2@europa.eu,2020-10-27 23:46:25,2020-11-07 08:51:04,670,667,Open,Warm,0.35,Ruchita Patil
+759,LI-5725-88,OPP-6797-38,Proxima-C,RP-6381482,mstandelll3@tinyurl.com,2020-07-19 02:08:58,2020-07-24 08:18:33,1281,959,Open,Warm,0.3,Heena Chopra
+760,LI-7585-81,OPP-0211-05,Sirius,RP-4067539,btargetterl4@earthlink.net,2020-07-13 21:33:27,2020-07-22 22:24:04,1020,905,Won,Hot,0.85,Jaswinder Singh
+761,LI-7537-14,OPP-4567-05,Kits Dragon,RP-6816346,bdulwichl5@nyu.edu,2020-10-14 18:05:40,2020-10-22 19:47:05,1477,1024,Won,Hot,0.95,Belal Farooqui
+762,LI-6528-54,OPP-8350-46,Kits Dragon,HC-0787184,ccockerhaml6@ask.com,2019-11-17 05:24:09,2019-11-25 08:40:11,650,865,Open,Warm,0.45,Ruchita Patil
+763,LI-8755-59,OPP-1708-01,Proxima-C,HC-2025798,edel7@com.com,2020-01-17 20:44:54,2020-01-23 01:24:59,816,986,Won,Hot,0.95,Ruchita Patil
+764,LI-1783-11,OPP-7975-12,Kits Dragon,RP-2722001,jhrinchishinl8@youtu.be,2020-04-18 11:46:20,2020-04-28 16:00:20,1679,1280,Won,Hot,0.8,Jaswinder Singh
+765,LI-5769-92,OPP-7520-28,Aurora,HC-5163411,wgoaleyl9@sitemeter.com,2020-09-16 04:02:28,2020-09-21 07:48:56,1192,1304,Won,Hot,0.9,Ruchita Patil
+766,LI-5636-37,OPP-2221-88,Proxima-C,RP-5074865,tborlandla@miibeian.gov.cn,2020-10-28 09:31:19,2020-11-03 19:10:57,1424,1108,Won,Hot,0.8,Belal Farooqui
+767,LI-2714-12,OPP-4087-09,Kits Dragon,RP-3409508,adullardlb@unesco.org,2020-06-24 06:40:39,2020-07-01 16:21:07,1205,846,Won,Hot,0.9,Ruchita Patil
+768,LI-1579-71,OPP-0168-01,Kits Dragon,BM-4242388,hvanyardlc@nba.com,2020-08-12 11:22:40,2020-08-18 18:32:37,975,823,Won,Hot,0.8,Ruchita Patil
+769,LI-9452-75,OPP-7563-06,Apollo,JS-6134317,mburehillld@smugmug.com,2020-05-14 06:56:52,2020-05-20 14:50:22,510,545,Open,Warm,0.3,Ruchita Patil
+770,LI-5721-85,OPP-5426-28,Kits Dragon,RP-7252824,ependerle@cornell.edu,2020-01-04 06:24:08,2020-01-09 14:20:30,1276,1070,Won,Hot,0.85,Belal Farooqui
+771,LI-8680-01,OPP-5437-45,Kits Dragon,RP-3288912,gczajkowskilf@ted.com,2020-09-24 18:35:23,2020-10-03 04:08:34,1325,1051,Won,Hot,0.8,Jaswinder Singh
+772,LI-4794-61,OPP-9191-06,Sirius,HC-4526050,malbertlg@un.org,2020-02-16 12:54:23,2020-02-23 20:03:57,1464,995,Lost,Cold,0.0,Jaswinder Singh
+773,LI-4884-57,OPP-6889-30,Kits Dragon,BM-4382237,saggiolh@aboutads.info,2020-08-17 04:24:55,2020-08-25 15:04:32,1527,1043,Open,Warm,0.35,Ruchita Patil
+774,LI-4923-95,OPP-2511-43,Aurora,BM-4092983,spetrakovli@eventbrite.com,2020-09-02 12:47:33,2020-09-09 20:51:01,1004,1173,Won,Hot,0.95,Ruchita Patil
+775,LI-2691-79,OPP-9826-04,Sirius,BM-4899510,tclewettlj@wikispaces.com,2020-02-01 10:31:37,2020-02-11 14:10:25,1167,1139,Won,Hot,0.9,Ruchita Patil
+776,LI-8019-60,OPP-7952-85,Kits Dragon,JS-5506219,iralphlk@netlog.com,2020-05-02 02:35:50,2020-05-11 06:28:34,1609,1840,Open,Warm,0.3,Ruchita Patil
+777,LI-6117-29,OPP-2851-35,Proxima-C,RP-8248663,cmansionll@cbslocal.com,2020-02-25 04:16:02,2020-03-03 07:56:56,1337,1350,Lost,Cold,0.0,Ruchita Patil
+778,LI-0480-54,OPP-8826-77,Kits Dragon,BM-3452056,smanilovelm@ft.com,2020-08-19 04:36:56,2020-08-24 12:59:03,990,1053,Won,Hot,0.9,Heena Chopra
+779,LI-8673-40,OPP-3145-16,Sirius,RP-9772657,fdonativoln@ft.com,2020-08-12 03:37:53,2020-08-19 14:22:58,817,630,Won,Hot,0.9,Belal Farooqui
+780,LI-6905-66,OPP-8043-55,Kits Dragon,RP-2192062,rluterlo@intel.com,2020-04-09 11:28:43,2020-04-14 23:32:57,987,717,Won,Hot,0.85,Jaswinder Singh
+781,LI-5979-65,OPP-9108-87,Kits Dragon,HC-4750931,lshrimplinglp@acquirethisname.com,2020-06-18 15:59:38,2020-06-25 03:19:56,1000,708,Open,Warm,0.35,Ruchita Patil
+782,LI-0871-42,OPP-3609-14,Sirius,RP-6598592,klelq@youtu.be,2020-04-23 12:27:11,2020-04-29 16:02:15,1381,1195,Won,Hot,0.9,Ruchita Patil
+783,LI-9445-74,OPP-7006-49,Proxima-C,RP-7176068,dpourvoieurlr@google.com.au,2019-11-12 03:16:27,2019-11-18 07:30:52,1343,1046,Won,Hot,0.8,Ruchita Patil
+784,LI-3236-81,OPP-2333-80,Kits Dragon,BM-6301594,lbonnetls@indiatimes.com,2020-10-16 05:12:22,2020-10-23 12:42:35,1262,1109,Open,Warm,0.3,Ruchita Patil
+785,LI-5941-02,OPP-8552-25,Kits Dragon,BM-7358016,rgoefflt@dedecms.com,2020-04-12 05:13:24,2020-04-21 15:06:40,1663,1306,Won,Hot,0.9,Belal Farooqui
+786,LI-1388-10,OPP-8033-66,Kits Dragon,RP-0211234,ihearthfieldlu@ox.ac.uk,2020-04-23 03:12:28,2020-05-01 14:34:38,924,1208,Won,Hot,0.95,Heena Chopra
+787,LI-6551-83,OPP-8736-50,Sirius,HC-5617245,jcoulbecklv@chronoengine.com,2020-08-21 20:56:22,2020-08-29 21:09:42,741,570,Won,Hot,0.8,Belal Farooqui
+788,LI-8517-46,OPP-9739-78,Kits Dragon,RP-3240298,ashoresonlw@vinaora.com,2020-03-09 03:06:06,2020-03-15 09:57:25,1698,1227,Lost,Cold,0.0,Ruchita Patil
+789,LI-2728-13,OPP-5234-51,Kits Dragon,RP-0856214,jplayerlx@lycos.com,2020-02-18 02:39:26,2020-02-25 10:55:56,1387,1685,Lost,Cold,0.05,Ruchita Patil
+790,LI-4728-20,OPP-2220-60,Proxima-C,RP-1105240,hcoytely@paypal.com,2020-09-03 12:28:35,2020-09-13 16:13:56,954,1077,Won,Hot,0.85,Ruchita Patil
+791,LI-6226-40,OPP-9151-36,Sirius,HC-6864818,tzorzinilz@paypal.com,2020-06-08 16:59:38,2020-06-14 04:54:39,1086,732,Lost,Cold,0.0,Ruchita Patil
+792,LI-4119-93,OPP-5862-20,Kits Dragon,HC-6633902,jolenikovm0@ebay.com,2020-07-31 18:36:11,2020-08-11 02:36:50,1609,1234,Open,Warm,0.4,Ruchita Patil
+793,LI-7883-70,OPP-2264-96,Apollo,RP-6062142,apinnockm1@cbslocal.com,2019-12-04 21:17:18,2019-12-11 03:54:10,1139,803,Won,Hot,0.9,Jaswinder Singh
+794,LI-0625-82,OPP-8990-74,Proxima-C,BM-6689883,fmccallionm2@unesco.org,2020-11-02 13:37:10,2020-11-10 16:06:17,1100,1049,Won,Hot,0.85,Ruchita Patil
+795,LI-5691-91,OPP-7247-35,Kits Dragon,RP-3592389,cwooffm3@house.gov,2019-11-29 20:03:26,2019-12-09 05:36:30,1003,1215,Won,Hot,0.9,Heena Chopra
+796,LI-9094-71,OPP-1208-17,Sirius,RP-8619689,bharbackm4@lulu.com,2020-03-22 12:27:15,2020-03-31 19:39:57,1439,1116,Won,Hot,0.8,Ruchita Patil
+797,LI-2574-28,OPP-8732-39,Agyrap-S,BM-7000602,ttatemm5@w3.org,2020-08-09 20:19:58,2020-08-16 07:31:48,1593,1340,Lost,Cold,0.0,Belal Farooqui
+798,LI-8985-76,OPP-8055-06,Kits Dragon,RP-3031837,sgarleym6@bandcamp.com,2020-01-17 11:40:08,2020-01-26 14:22:49,752,694,Won,Hot,0.85,Ruchita Patil
+799,LI-2997-66,OPP-1150-29,Apollo,RP-6147346,mharcourtm7@wikipedia.org,2020-07-12 07:07:46,2020-07-22 18:59:01,819,761,Won,Hot,0.95,Ruchita Patil
+800,LI-6851-35,OPP-4389-86,Kits Dragon,RP-8286331,apurdomm8@geocities.com,2020-01-26 01:58:57,2020-01-31 14:49:25,794,569,Won,Hot,0.9,Belal Farooqui
+801,LI-6313-94,OPP-7807-11,Sirius,RP-3212837,tthurberm9@about.com,2020-03-19 03:33:32,2020-03-29 06:53:43,1196,1088,Open,Warm,0.3,Ruchita Patil
+802,LI-2153-32,OPP-7647-86,Kits Dragon,HC-4222026,ehazleyma@who.int,2020-05-07 10:52:06,2020-05-16 16:40:22,1131,1440,Won,Hot,0.95,Ruchita Patil
+803,LI-0512-01,OPP-1446-47,Proxima-C,RP-4509066,umcneicemb@comsenz.com,2019-11-29 22:09:43,2019-12-05 00:20:34,565,726,Open,Warm,0.45,Belal Farooqui
+804,LI-3709-56,OPP-6144-57,Kits Dragon,RP-5781054,cwalteringmc@toplist.cz,2019-12-20 16:50:30,2019-12-30 22:36:54,823,905,Lost,Cold,0.05,Ruchita Patil
+805,LI-2268-10,OPP-1661-11,Kits Dragon,RP-7365916,mmericmd@mashable.com,2020-01-03 15:19:58,2020-01-12 16:42:51,1288,1050,Won,Hot,0.85,Ruchita Patil
+806,LI-4888-01,OPP-2854-89,Kits Dragon,JS-0911201,jcosinsme@wix.com,2020-09-19 13:41:29,2020-09-25 14:53:34,1280,1044,Won,Hot,0.8,Heena Chopra
+807,LI-3430-21,OPP-6920-63,Kits Dragon,RP-0201677,ltweedmf@geocities.com,2020-04-05 09:06:31,2020-04-14 18:57:03,336,415,Open,Warm,0.4,Belal Farooqui
+808,LI-4552-80,OPP-8061-29,Kits Dragon,BM-5611439,achesshyremg@pinterest.com,2020-02-22 01:53:52,2020-02-28 09:52:15,734,924,Won,Hot,0.85,Ruchita Patil
+809,LI-7156-82,OPP-3482-88,Kits Dragon,RP-3127104,aackeroydmh@answers.com,2020-08-02 23:24:00,2020-08-12 10:06:12,926,1000,Lost,Cold,0.05,Ruchita Patil
+810,LI-5656-00,OPP-5660-33,Kits Dragon,HC-0977615,lpalatinimi@amazonaws.com,2020-03-23 15:10:01,2020-04-02 00:52:22,1004,1221,Open,Warm,0.35,Belal Farooqui
+811,LI-7011-39,OPP-5596-22,Kits Dragon,HC-0979945,cwarnmj@un.org,2019-12-15 10:24:58,2019-12-21 16:00:08,2052,1590,Open,Warm,0.35,Jaswinder Singh
+812,LI-4652-51,OPP-8459-41,Kits Dragon,RP-9161610,imichallatmk@com.com,2020-06-10 11:32:23,2020-06-17 12:04:48,849,917,Won,Hot,0.9,Jaswinder Singh
+813,LI-7451-64,OPP-9768-99,Aurora,RP-7444539,favramovskyml@google.co.jp,2020-03-21 04:15:05,2020-03-29 09:00:06,1509,1311,Open,Warm,0.4,Ruchita Patil
+814,LI-8434-81,OPP-6454-37,Kits Dragon,HC-8116578,nbispomm@ocn.ne.jp,2020-01-10 05:50:27,2020-01-19 15:56:17,1545,1041,Won,Hot,0.9,Heena Chopra
+815,LI-9528-54,OPP-5336-27,Proxima-C,BM-9776053,bgoginmn@youtu.be,2020-04-05 19:53:45,2020-04-14 20:31:37,982,1267,Open,Warm,0.4,Ruchita Patil
+816,LI-3655-34,OPP-8702-48,Phoenix,HC-2396517,ckordovamo@creativecommons.org,2019-12-17 01:39:54,2019-12-23 02:23:57,604,745,Won,Hot,0.85,Heena Chopra
+817,LI-4713-65,OPP-8814-41,Proxima-C,RP-3851719,crouthmp@unblog.fr,2020-09-16 12:06:54,2020-09-23 18:55:45,875,1074,Won,Hot,0.95,Ruchita Patil
+818,LI-6986-46,OPP-4028-95,Proxima-C,RP-6538536,ccummingmq@irs.gov,2020-09-29 15:49:55,2020-10-05 02:42:45,1853,1450,Won,Hot,0.85,Ruchita Patil
+819,LI-4671-47,OPP-6583-04,Kits Dragon,RP-5028756,hyashanovmr@disqus.com,2020-03-12 22:50:54,2020-03-23 03:44:07,1042,810,Won,Hot,0.95,Heena Chopra
+820,LI-5735-16,OPP-9153-90,Kits Dragon,RP-1623211,dputleyms@twitter.com,2020-04-19 19:29:16,2020-04-27 08:08:04,1470,1015,Won,Hot,0.95,Belal Farooqui
+821,LI-3941-25,OPP-2419-67,Kits Dragon,RP-5124779,krichardsmt@studiopress.com,2020-11-05 00:53:44,2020-11-12 01:37:33,1036,1140,Won,Hot,0.8,Ruchita Patil
+822,LI-5744-43,OPP-9645-87,Kits Dragon,RP-0020843,ariddichmu@wisc.edu,2020-06-16 10:00:50,2020-06-22 20:36:53,1390,1130,Open,Warm,0.3,Belal Farooqui
+823,LI-2570-15,OPP-6632-13,Proxima-C,RP-4635128,jingemv@forbes.com,2020-01-08 02:38:36,2020-01-15 15:15:09,1337,1490,Won,Hot,0.9,Jaswinder Singh
+824,LI-6448-55,OPP-9393-45,Kits Dragon,RP-9330170,rfishlymw@seattletimes.com,2020-06-01 07:51:21,2020-06-08 12:00:16,564,681,Won,Hot,0.95,Ruchita Patil
+825,LI-7167-79,OPP-1370-39,Kits Dragon,JS-7240692,mtrewarthamx@bing.com,2020-07-27 16:28:51,2020-08-02 19:45:19,913,1075,Won,Hot,0.85,Belal Farooqui
+826,LI-9400-22,OPP-3992-73,Kits Dragon,RP-0809560,ibonaviamy@myspace.com,2020-10-22 00:26:22,2020-10-29 11:56:23,935,1190,Lost,Cold,0.05,Jaswinder Singh
+827,LI-3785-15,OPP-5590-32,Kits Dragon,JS-0777304,ajohantgesmz@skyrock.com,2020-01-03 06:24:20,2020-01-08 12:36:12,2025,1395,Lost,Cold,0.0,Ruchita Patil
+828,LI-6632-43,OPP-6683-88,Kits Dragon,RP-7063837,stoffetton0@sogou.com,2020-02-08 03:29:47,2020-02-14 05:23:10,1213,838,Lost,Cold,0.05,Belal Farooqui
+829,LI-6247-19,OPP-1529-09,Kits Dragon,RP-5577860,agallopn1@jalbum.net,2020-07-07 09:18:49,2020-07-15 13:35:57,924,1118,Lost,Cold,0.0,Belal Farooqui
+830,LI-6489-10,OPP-8879-61,Kits Dragon,HC-2614452,kbroschn2@squarespace.com,2020-08-01 08:20:00,2020-08-06 20:15:40,1614,1495,Won,Hot,0.8,Ruchita Patil
+831,LI-4580-85,OPP-2673-08,Sirius,RP-8759221,izapatern3@studiopress.com,2020-03-10 07:49:16,2020-03-16 11:55:54,1571,1073,Lost,Cold,0.0,Belal Farooqui
+832,LI-9057-01,OPP-7345-82,Kits Dragon,BM-8772981,tpothergilln4@4shared.com,2020-02-04 11:22:40,2020-02-12 13:50:02,1163,966,Lost,Cold,0.0,Belal Farooqui
+833,LI-5903-13,OPP-1653-39,Proxima-C,RP-6307520,sribbonn5@thetimes.co.uk,2020-05-03 04:51:10,2020-05-08 17:04:00,1047,1227,Open,Warm,0.4,Ruchita Patil
+834,LI-3386-10,OPP-1443-83,Aurora,HC-1644663,ccloaken6@woothemes.com,2020-07-12 12:19:49,2020-07-18 13:04:39,667,861,Lost,Cold,0.05,Heena Chopra
+835,LI-1504-04,OPP-0814-19,Kits Dragon,RP-6993366,cglencrossn7@github.com,2019-12-27 21:27:17,2020-01-06 07:12:15,870,1070,Lost,Cold,0.0,Heena Chopra
+836,LI-2829-25,OPP-7113-55,Kits Dragon,BM-5376467,abengoechean8@telegraph.co.uk,2020-03-21 17:46:42,2020-03-29 00:26:48,658,770,Lost,Cold,0.05,Ruchita Patil
+837,LI-9253-64,OPP-2851-58,Sirius,JS-1638845,cheimesn9@chicagotribune.com,2020-07-09 06:45:18,2020-07-19 12:39:33,829,561,Open,Warm,0.4,Belal Farooqui
+838,LI-1439-63,OPP-1477-56,Proxima-C,HC-9499749,sschraderna@bravesites.com,2020-03-08 22:46:49,2020-03-17 23:13:19,613,734,Lost,Cold,0.0,Ruchita Patil
+839,LI-9659-23,OPP-4834-94,Kits Dragon,JS-4337284,wnottnb@seesaa.net,2020-04-03 01:12:26,2020-04-11 06:46:12,1651,1392,Lost,Cold,0.05,Ruchita Patil
+840,LI-2207-48,OPP-2714-96,Kits Dragon,HC-5197315,wrustnc@instagram.com,2020-11-19 19:20:05,2020-11-28 22:57:26,1191,1011,Won,Hot,0.95,Ruchita Patil
+841,LI-1887-34,OPP-9656-58,Aurora,JS-3579957,tberchernd@cyberchimps.com,2020-08-02 14:33:31,2020-08-11 15:37:26,1136,1216,Won,Hot,0.85,Ruchita Patil
+842,LI-9398-74,OPP-2006-92,Kits Dragon,RP-7561997,etatene@slashdot.org,2020-11-08 10:17:44,2020-11-17 14:05:46,1071,1142,Lost,Cold,0.05,Jaswinder Singh
+843,LI-4852-93,OPP-7737-93,Sirius,HC-4326799,usmileynf@wikipedia.org,2020-01-15 13:12:59,2020-01-25 16:10:18,940,720,Won,Hot,0.85,Ruchita Patil
+844,LI-8318-54,OPP-5440-05,Kits Dragon,RP-5959250,mdowgillng@wired.com,2020-06-08 17:46:05,2020-06-16 23:37:52,1195,1133,Open,Warm,0.3,Heena Chopra
+845,LI-0931-94,OPP-8377-03,Proxima-C,HC-3402280,edelacourtnh@etsy.com,2020-09-28 23:00:49,2020-10-06 04:03:33,917,968,Won,Hot,0.95,Jaswinder Singh
+846,LI-2364-47,OPP-7590-87,Kits Dragon,RP-3154362,aswaneni@opensource.org,2020-04-21 08:17:44,2020-04-26 18:19:32,873,939,Open,Warm,0.45,Ruchita Patil
+847,LI-8729-58,OPP-4980-08,Kits Dragon,BM-7438262,hbartholomieunj@cdc.gov,2019-11-28 16:27:07,2019-12-06 21:05:24,1100,1076,Lost,Cold,0.05,Ruchita Patil
+848,LI-6224-78,OPP-0473-76,Proxima-C,RP-2163754,wmaughannk@jimdo.com,2020-09-03 13:06:08,2020-09-13 18:09:32,906,756,Won,Hot,0.85,Ruchita Patil
+849,LI-3434-19,OPP-8229-05,Proxima-C,RP-2959952,cdugannl@linkedin.com,2020-01-04 05:34:11,2020-01-13 16:01:42,666,555,Won,Hot,0.95,Ruchita Patil
+850,LI-9070-71,OPP-3820-44,Apollo,RP-1458908,jducenm@1688.com,2020-08-07 13:40:24,2020-08-14 18:28:54,1373,1179,Open,Warm,0.4,Ruchita Patil
+851,LI-2677-69,OPP-8721-76,Kits Dragon,BM-0958494,ukarolowskinn@yandex.ru,2020-02-16 22:48:28,2020-02-24 23:38:54,1319,1156,Won,Hot,0.8,Ruchita Patil
+852,LI-4888-25,OPP-2113-49,Kits Dragon,RP-4618920,bgeillierno@bravesites.com,2020-07-15 09:48:23,2020-07-21 17:29:08,1422,1495,Won,Hot,0.85,Belal Farooqui
+853,LI-7681-00,OPP-0778-43,Proxima-C,RP-8563222,bwhytemannp@ebay.com,2020-06-11 10:40:02,2020-06-18 11:32:55,1599,1182,Lost,Cold,0.0,Ruchita Patil
+854,LI-3393-76,OPP-1489-45,Aurora,RP-4828798,mjiruseknq@feedburner.com,2020-07-02 22:43:39,2020-07-11 07:09:18,811,756,Won,Hot,0.9,Belal Farooqui
+855,LI-6142-29,OPP-3869-63,Proxima-C,HC-6560400,alafrentznr@indiegogo.com,2020-05-20 08:27:25,2020-05-25 19:19:06,1021,807,Open,Warm,0.35,Ruchita Patil
+856,LI-5694-59,OPP-3406-77,Sirius,RP-1442130,micetonns@wordpress.com,2020-10-31 01:08:51,2020-11-06 04:11:52,1257,863,Open,Warm,0.4,Ruchita Patil
+857,LI-0376-99,OPP-7613-68,Kits Dragon,RP-5000117,jduesternt@ifeng.com,2020-04-19 00:12:39,2020-04-26 09:15:41,1394,1445,Lost,Cold,0.0,Belal Farooqui
+858,LI-1862-86,OPP-4552-68,Proxima-C,RP-5282786,pmottleynu@webnode.com,2020-03-04 17:29:58,2020-03-15 02:25:43,385,503,Open,Warm,0.3,Heena Chopra
+859,LI-1217-39,OPP-7117-44,Kits Dragon,BM-0806871,mpurveynv@ox.ac.uk,2020-08-13 21:10:50,2020-08-24 09:23:21,1170,950,Won,Hot,0.9,Heena Chopra
+860,LI-1776-65,OPP-9099-98,Kits Dragon,RP-4706653,rferonw@ifeng.com,2020-09-13 05:26:12,2020-09-20 10:46:12,1024,1302,Open,Warm,0.35,Ruchita Patil
+861,LI-9216-28,OPP-1248-30,Kits Dragon,RP-4627699,cwhinneynx@foxnews.com,2020-02-29 21:41:30,2020-03-09 23:57:56,960,775,Won,Hot,0.85,Ruchita Patil
+862,LI-1184-01,OPP-8794-18,Proxima-C,BM-6502421,jhaxbyny@qq.com,2020-02-16 03:19:08,2020-02-23 12:27:13,457,598,Won,Hot,0.8,Ruchita Patil
+863,LI-3987-89,OPP-9861-23,Agyrap-S,RP-7217304,nmalafenz@mysql.com,2020-08-30 23:52:15,2020-09-10 06:27:58,1038,697,Open,Warm,0.3,Jaswinder Singh
+864,LI-1394-84,OPP-3542-10,Proxima-C,HC-5825333,bpiscopelloo0@github.io,2020-09-14 14:17:08,2020-09-21 18:38:44,896,810,Won,Hot,0.9,Ruchita Patil
+865,LI-1012-10,OPP-5923-21,Kits Dragon,RP-1241385,hminchintono1@360.cn,2020-04-19 11:07:06,2020-04-26 22:55:01,970,663,Won,Hot,0.8,Ruchita Patil
+866,LI-7211-85,OPP-4352-47,Sirius,BM-8319861,nlutzo2@deviantart.com,2020-05-19 11:39:04,2020-05-27 18:04:11,1719,1223,Open,Warm,0.45,Ruchita Patil
+867,LI-1531-88,OPP-2505-28,Kits Dragon,RP-3622496,bbalkeo3@webeden.co.uk,2020-04-20 10:51:04,2020-04-30 15:59:43,793,638,Won,Hot,0.85,Ruchita Patil
+868,LI-5384-91,OPP-8416-30,Sirius,HC-7448341,wbaeldeo4@wikia.com,2020-10-24 16:13:43,2020-11-02 01:35:24,689,748,Lost,Cold,0.05,Ruchita Patil
+869,LI-9456-93,OPP-9792-50,Apollo,RP-6947238,ccaunceo5@house.gov,2020-03-07 11:20:21,2020-03-12 13:54:24,813,836,Lost,Cold,0.0,Jaswinder Singh
+870,LI-3470-88,OPP-3187-73,Aurora,RP-0634414,mwarbeyo6@weather.com,2020-03-27 01:53:31,2020-04-02 14:17:35,1161,1196,Lost,Cold,0.05,Ruchita Patil
+871,LI-5401-57,OPP-6623-43,Kits Dragon,HC-7830460,arawstorneo7@mac.com,2020-08-02 08:30:36,2020-08-09 21:00:18,706,765,Open,Warm,0.35,Belal Farooqui
+872,LI-5688-25,OPP-4713-49,Proxima-C,RP-4318550,ohatricko8@dmoz.org,2020-03-07 21:24:53,2020-03-13 10:20:12,905,976,Lost,Cold,0.0,Ruchita Patil
+873,LI-7709-23,OPP-6142-13,Kits Dragon,RP-9868972,lcocklando9@weather.com,2020-08-31 16:07:52,2020-09-09 21:17:43,909,1141,Won,Hot,0.95,Ruchita Patil
+874,LI-4429-49,OPP-2847-45,Kits Dragon,RP-4483450,hstaplefordoa@webmd.com,2020-11-05 23:16:30,2020-11-11 04:55:10,795,1037,Won,Hot,0.8,Ruchita Patil
+875,LI-8463-73,OPP-4378-44,Aurora,HC-1462297,rgoodsirob@mapy.cz,2020-07-15 11:12:19,2020-07-24 14:18:44,1578,1296,Won,Hot,0.95,Jaswinder Singh
+876,LI-2167-74,OPP-7149-37,Kits Dragon,RP-9354103,lposenoc@hibu.com,2020-07-20 03:00:25,2020-07-25 04:14:37,787,866,Lost,Cold,0.0,Belal Farooqui
+877,LI-1933-61,OPP-5809-58,Kits Dragon,RP-6582018,gmatteood@dell.com,2020-01-31 08:41:44,2020-02-05 12:19:42,1202,1262,Lost,Cold,0.05,Ruchita Patil
+878,LI-0810-10,OPP-3589-75,Proxima-C,HC-5006791,dnolteoe@hubpages.com,2020-05-14 07:27:18,2020-05-21 14:14:24,1260,1079,Open,Warm,0.4,Heena Chopra
+879,LI-4944-54,OPP-7834-16,Aurora,RP-2807792,dinderwickof@patch.com,2020-02-04 21:17:55,2020-02-13 06:28:31,1855,1885,Won,Hot,0.85,Ruchita Patil
+880,LI-9321-88,OPP-2866-91,Proxima-C,JS-0755545,sbindingog@gov.uk,2019-12-01 10:47:22,2019-12-11 22:26:29,965,731,Open,Warm,0.45,Ruchita Patil
+881,LI-3010-61,OPP-0759-67,Kits Dragon,BM-1240810,jbeddalloh@bloglovin.com,2020-09-12 05:55:46,2020-09-21 05:56:29,516,580,Won,Hot,0.95,Jaswinder Singh
+882,LI-5550-07,OPP-3972-44,Kits Dragon,RP-1403762,mleupoldoi@nsw.gov.au,2020-10-27 14:13:36,2020-11-05 16:19:54,1043,1275,Open,Warm,0.4,Belal Farooqui
+883,LI-3628-09,OPP-0923-80,Aurora,RP-5343753,fmattholieoj@mit.edu,2020-09-22 21:46:43,2020-10-03 05:12:50,1957,1450,Open,Warm,0.3,Ruchita Patil
+884,LI-2536-30,OPP-9199-39,Kits Dragon,JS-3387686,istockingsok@nature.com,2019-12-01 13:20:39,2019-12-10 00:48:38,1173,1002,Lost,Cold,0.0,Ruchita Patil
+885,LI-4271-33,OPP-3244-31,Proxima-C,HC-1534614,apimerol@amazon.co.uk,2020-09-16 00:46:25,2020-09-26 12:22:27,1181,1071,Won,Hot,0.9,Belal Farooqui
+886,LI-3438-98,OPP-5427-09,Proxima-C,RP-6531080,fbeardsdaleom@feedburner.com,2019-12-04 18:13:35,2019-12-09 23:37:07,616,762,Open,Warm,0.4,Ruchita Patil
+887,LI-3200-47,OPP-7984-29,Proxima-C,RP-7999734,rhullson@bluehost.com,2020-10-30 06:53:42,2020-11-04 12:30:19,1208,832,Won,Hot,0.9,Heena Chopra
+888,LI-7016-48,OPP-0985-27,Proxima-C,RP-2926306,asieveoo@cnbc.com,2020-02-02 08:09:12,2020-02-12 16:07:53,1244,1298,Won,Hot,0.95,Jaswinder Singh
+889,LI-5674-77,OPP-5643-90,Proxima-C,JS-5418852,tdoogueop@reverbnation.com,2020-02-19 00:10:49,2020-02-29 11:52:36,1208,1055,Won,Hot,0.85,Heena Chopra
+890,LI-5314-35,OPP-2171-44,Apollo,RP-9444384,pstoaksoq@odnoklassniki.ru,2020-04-21 22:35:41,2020-04-30 05:43:41,1196,1015,Won,Hot,0.9,Ruchita Patil
+891,LI-6718-93,OPP-0034-84,Proxima-C,HC-2141295,rottosenor@telegraph.co.uk,2020-03-01 19:12:55,2020-03-11 06:08:59,827,658,Won,Hot,0.8,Ruchita Patil
+892,LI-7534-63,OPP-7049-89,Proxima-C,RP-9676416,chansteros@oaic.gov.au,2020-06-09 23:41:53,2020-06-15 11:40:10,1178,1160,Won,Hot,0.85,Heena Chopra
+893,LI-4647-39,OPP-9286-61,Kits Dragon,HC-6482980,kettritchot@ehow.com,2020-02-20 10:54:38,2020-02-29 22:15:56,794,985,Lost,Cold,0.0,Ruchita Patil
+894,LI-1008-44,OPP-8934-41,Apollo,RP-7341387,restabrookou@nature.com,2020-03-28 04:06:31,2020-04-02 11:30:21,1112,1431,Open,Warm,0.3,Jaswinder Singh
+895,LI-7540-00,OPP-2659-17,Proxima-C,RP-7697824,atabbov@dedecms.com,2020-08-10 20:48:47,2020-08-17 08:02:18,1191,1006,Lost,Cold,0.0,Belal Farooqui
+896,LI-4140-05,OPP-8063-29,Proxima-C,HC-0625772,tchesserow@nbcnews.com,2020-03-05 22:48:54,2020-03-13 23:35:25,294,376,Won,Hot,0.85,Belal Farooqui
+897,LI-1416-88,OPP-6482-09,Kits Dragon,BM-3517252,asloranceox@dmoz.org,2020-06-05 01:54:32,2020-06-12 11:15:05,1255,953,Lost,Cold,0.0,Belal Farooqui
+898,LI-9502-47,OPP-3119-92,Proxima-C,HC-3034488,rdresseoy@bloglines.com,2020-06-20 20:22:25,2020-06-26 09:15:19,1293,903,Lost,Cold,0.05,Jaswinder Singh
+899,LI-9751-26,OPP-1314-63,Kits Dragon,RP-4040224,tgerbloz@miitbeian.gov.cn,2020-06-19 00:38:48,2020-06-26 07:09:52,1569,1332,Lost,Cold,0.05,Belal Farooqui
+900,LI-6114-42,OPP-9665-30,Proxima-C,RP-4158175,swythep0@hostgator.com,2020-06-12 07:40:52,2020-06-22 11:57:52,922,697,Won,Hot,0.95,Jaswinder Singh
+901,LI-6133-26,OPP-9079-31,Kits Dragon,HC-7752361,gspurrp1@ihg.com,2020-03-21 04:15:11,2020-03-27 11:35:33,1015,817,Won,Hot,0.8,Belal Farooqui
+902,LI-3655-19,OPP-8838-98,Kits Dragon,BM-7513969,asambathp2@flickr.com,2020-04-10 22:29:40,2020-04-19 00:38:24,1604,1169,Lost,Cold,0.0,Belal Farooqui
+903,LI-3466-81,OPP-9240-47,Proxima-C,BM-7307864,hcasemorep3@walmart.com,2020-04-18 11:27:42,2020-04-24 16:08:23,817,934,Open,Warm,0.45,Ruchita Patil
+904,LI-2777-43,OPP-9925-92,Kits Dragon,HC-1229059,npuzeyp4@taobao.com,2020-05-10 01:43:37,2020-05-16 08:48:32,582,637,Won,Hot,0.9,Heena Chopra
+905,LI-0998-73,OPP-9058-04,Kits Dragon,RP-2222524,ewelbeckp5@amazonaws.com,2020-08-11 22:08:57,2020-08-21 23:36:57,895,985,Lost,Cold,0.0,Ruchita Patil
+906,LI-3204-22,OPP-2340-01,Apollo,BM-5613835,cgrattanp6@slate.com,2020-01-25 05:07:50,2020-02-04 15:48:00,655,625,Open,Warm,0.4,Ruchita Patil
+907,LI-3993-84,OPP-1968-58,Apollo,RP-2285687,bphilipsp7@angelfire.com,2020-02-10 06:15:42,2020-02-18 09:02:34,948,881,Lost,Cold,0.0,Heena Chopra
+908,LI-4457-85,OPP-2594-73,Kits Dragon,BM-1553137,morrinp8@cloudflare.com,2020-06-07 11:49:54,2020-06-17 19:08:14,679,799,Open,Warm,0.45,Ruchita Patil
+909,LI-7779-92,OPP-4619-34,Kits Dragon,RP-2560085,ehefferp9@simplemachines.org,2020-03-13 22:01:35,2020-03-20 09:31:35,749,854,Open,Warm,0.35,Belal Farooqui
+910,LI-3828-31,OPP-4570-09,Aurora,RP-9008046,dmaryanpa@rambler.ru,2020-01-25 17:44:23,2020-02-02 05:18:46,1011,686,Won,Hot,0.85,Ruchita Patil
+911,LI-5113-90,OPP-3229-73,Kits Dragon,RP-7883780,wsuttabypb@technorati.com,2020-02-09 03:20:28,2020-02-17 06:52:32,911,655,Won,Hot,0.85,Heena Chopra
+912,LI-9076-29,OPP-0312-54,Aurora,HC-6640241,cmackpc@aol.com,2020-07-10 12:23:56,2020-07-15 15:05:27,835,738,Lost,Cold,0.05,Ruchita Patil
+913,LI-5281-98,OPP-8614-45,Proxima-C,HC-3437407,bmorrillpd@sourceforge.net,2020-01-03 18:54:40,2020-01-10 05:54:49,1098,815,Won,Hot,0.8,Heena Chopra
+914,LI-7954-72,OPP-3908-10,Proxima-C,RP-9154637,aphebeype@about.com,2019-12-04 14:28:54,2019-12-09 21:48:14,2127,1520,Open,Warm,0.3,Belal Farooqui
+915,LI-4714-05,OPP-3840-26,Proxima-C,BM-8228806,dscreatonpf@netscape.com,2020-06-28 11:14:49,2020-07-06 19:46:44,824,1085,Won,Hot,0.95,Ruchita Patil
+916,LI-3540-16,OPP-1039-22,Proxima-C,JS-3388585,tjanczakpg@squidoo.com,2020-10-13 01:34:04,2020-10-18 09:47:36,1402,1528,Won,Hot,0.95,Ruchita Patil
+917,LI-3018-91,OPP-2230-11,Kits Dragon,RP-2518464,uspawtonph@cmu.edu,2020-05-21 06:33:52,2020-05-28 07:31:06,1484,997,Won,Hot,0.9,Ruchita Patil
+918,LI-4310-33,OPP-3999-70,Kits Dragon,RP-7736159,agaitonepi@sciencedirect.com,2020-07-21 04:13:01,2020-07-30 12:16:20,1429,1000,Won,Hot,0.85,Jaswinder Singh
+919,LI-9963-74,OPP-3791-30,Kits Dragon,HC-7787124,rwhittleseepj@indiatimes.com,2020-01-18 20:12:14,2020-01-26 20:55:50,734,778,Won,Hot,0.8,Belal Farooqui
+920,LI-1532-25,OPP-9996-13,Proxima-C,RP-7932658,nvennartpk@free.fr,2020-05-24 23:25:46,2020-06-03 04:02:27,1031,1238,Won,Hot,0.9,Belal Farooqui
+921,LI-0804-63,OPP-5976-16,Proxima-C,HC-9908064,tflancinbaumpl@dedecms.com,2020-10-22 03:12:11,2020-10-30 06:14:23,1169,972,Lost,Cold,0.0,Belal Farooqui
+922,LI-7574-82,OPP-9794-34,Kits Dragon,HC-0259029,rjosefowiczpm@msn.com,2020-03-01 18:00:17,2020-03-10 00:19:24,979,718,Won,Hot,0.85,Belal Farooqui
+923,LI-4592-61,OPP-2256-13,Kits Dragon,RP-3377153,mnickolespn@telegraph.co.uk,2020-08-22 21:03:22,2020-08-29 09:15:08,874,926,Won,Hot,0.9,Belal Farooqui
+924,LI-3255-13,OPP-8251-36,Kits Dragon,RP-4882375,jbransdenpo@dion.ne.jp,2020-03-30 13:57:56,2020-04-08 14:56:53,2053,1459,Open,Warm,0.3,Ruchita Patil
+925,LI-1212-82,OPP-2303-31,Proxima-C,RP-6999637,chawneypp@mysql.com,2020-02-01 10:34:01,2020-02-10 20:36:11,1584,1237,Won,Hot,0.9,Ruchita Patil
+926,LI-8572-66,OPP-7444-88,Proxima-C,RP-6788085,skerbypq@senate.gov,2020-03-23 19:21:16,2020-03-31 01:28:38,989,1024,Open,Warm,0.35,Heena Chopra
+927,LI-7570-17,OPP-4831-65,Sirius,RP-4651437,cphairpr@gov.uk,2020-06-29 08:17:34,2020-07-09 17:34:53,1193,880,Won,Hot,0.85,Belal Farooqui
+928,LI-7321-69,OPP-5241-08,Anhee-C,HC-5192208,fbennsps@unicef.org,2020-08-15 07:54:38,2020-08-20 15:15:40,1035,834,Lost,Cold,0.05,Belal Farooqui
+929,LI-6048-89,OPP-6193-54,Proxima-C,RP-4241873,cboakept@ifeng.com,2020-02-08 02:42:53,2020-02-16 14:50:25,814,795,Open,Warm,0.4,Belal Farooqui
+930,LI-5829-80,OPP-0190-60,Kits Dragon,RP-7041110,mkettoepu@tumblr.com,2020-05-26 02:53:53,2020-06-02 06:01:19,560,579,Open,Warm,0.3,Belal Farooqui
+931,LI-8963-08,OPP-1038-92,Sirius,BM-8639932,gmeaseypv@google.ru,2020-07-16 17:11:55,2020-07-27 04:48:53,489,583,Won,Hot,0.85,Jaswinder Singh
+932,LI-5007-37,OPP-0606-81,Kits Dragon,JS-1525456,barchdecknepw@icq.com,2020-10-04 07:53:38,2020-10-11 18:45:58,1182,853,Lost,Cold,0.05,Ruchita Patil
+933,LI-3748-69,OPP-9847-58,Kits Dragon,RP-3693886,mcrumppx@princeton.edu,2020-06-25 04:54:57,2020-07-01 11:18:59,901,840,Won,Hot,0.85,Ruchita Patil
+934,LI-8833-81,OPP-3037-78,Kits Dragon,RP-8645007,rhynardpy@tamu.edu,2020-07-09 23:35:13,2020-07-17 03:30:43,1096,910,Won,Hot,0.9,Heena Chopra
+935,LI-2346-73,OPP-0777-90,Kits Dragon,RP-8332638,proypz@smh.com.au,2020-01-18 18:59:31,2020-01-26 20:11:58,802,826,Won,Hot,0.8,Heena Chopra
+936,LI-8961-75,OPP-1450-57,Kits Dragon,RP-5267291,jcairneyq0@1und1.de,2020-05-23 03:53:23,2020-06-01 10:44:28,1465,1109,Won,Hot,0.85,Ruchita Patil
+937,LI-7174-57,OPP-2194-95,Sirius,BM-5724440,rmacuraq1@usgs.gov,2020-07-30 09:46:36,2020-08-07 12:34:15,1097,1114,Open,Warm,0.4,Heena Chopra
+938,LI-8392-94,OPP-9340-65,Sirius,RP-9805160,pnairyq2@myspace.com,2020-02-14 08:57:22,2020-02-20 10:09:53,1185,1005,Won,Hot,0.8,Heena Chopra
+939,LI-7360-33,OPP-3081-37,Kits Dragon,JS-7295850,dlabbeyq3@phpbb.com,2020-09-23 12:17:46,2020-10-03 15:29:30,1411,978,Lost,Cold,0.0,Ruchita Patil
+940,LI-3599-27,OPP-8840-73,Kits Dragon,RP-9833485,sduddingq4@baidu.com,2020-10-11 00:04:26,2020-10-19 02:26:07,692,854,Won,Hot,0.8,Ruchita Patil
+941,LI-8306-31,OPP-9379-81,Proxima-C,JS-1222978,dlinnitq5@bing.com,2020-11-11 09:51:31,2020-11-19 19:08:12,1244,1018,Open,Warm,0.45,Jaswinder Singh
+942,LI-6460-08,OPP-7439-30,Kits Dragon,RP-0184452,ffyshq6@marketwatch.com,2020-08-04 14:41:59,2020-08-13 02:58:43,1483,1106,Lost,Cold,0.05,Ruchita Patil
+943,LI-0302-93,OPP-7746-69,Proxima-C,RP-0239526,egorhamq7@chron.com,2020-10-30 05:18:12,2020-11-06 06:41:38,558,720,Won,Hot,0.9,Belal Farooqui
+944,LI-9449-35,OPP-2608-22,Apollo,RP-2887520,ritzkowiczq8@multiply.com,2020-05-13 07:33:47,2020-05-23 15:52:54,1424,1095,Won,Hot,0.95,Ruchita Patil
+945,LI-6556-50,OPP-5347-59,Kits Dragon,HC-3915883,hscholigq9@google.ca,2020-05-01 08:30:24,2020-05-10 09:16:41,999,1131,Lost,Cold,0.05,Heena Chopra
+946,LI-0863-74,OPP-7841-71,Kits Dragon,HC-3092624,czottoqa@myspace.com,2020-09-22 19:25:02,2020-10-01 22:50:34,766,855,Won,Hot,0.85,Jaswinder Singh
+947,LI-8795-56,OPP-8231-97,Kits Dragon,RP-2311893,bgortonqb@msn.com,2019-12-05 09:31:28,2019-12-11 09:36:40,1769,1310,Lost,Cold,0.05,Ruchita Patil
+948,LI-3864-59,OPP-2580-46,Kits Dragon,RP-6756805,jbirtwistleqc@xrea.com,2020-03-19 12:30:08,2020-03-27 14:46:47,822,969,Won,Hot,0.9,Belal Farooqui
+949,LI-9765-91,OPP-2278-46,Kits Dragon,RP-1461400,rarrowsmithqd@phoca.cz,2020-02-20 07:03:17,2020-02-27 10:54:08,851,1074,Lost,Cold,0.0,Jaswinder Singh
+950,LI-3425-93,OPP-5239-05,Proxima-C,HC-4930944,dgreenhoughqe@rakuten.co.jp,2020-08-06 16:34:30,2020-08-15 20:35:38,328,408,Won,Hot,0.9,Ruchita Patil
+951,LI-2255-25,OPP-2968-81,Kits Dragon,HC-2810126,dhallowsqf@simplemachines.org,2020-09-20 12:21:59,2020-09-26 13:44:46,1036,805,Open,Warm,0.3,Heena Chopra
+952,LI-4236-52,OPP-4196-37,Kits Dragon,RP-7507762,ecaskieqg@comsenz.com,2020-11-01 10:30:09,2020-11-07 19:14:33,1906,1325,Won,Hot,0.95,Ruchita Patil
+953,LI-7360-77,OPP-7334-06,Kits Dragon,HC-0633160,abartunekqh@prweb.com,2020-02-03 14:57:47,2020-02-10 17:48:18,1364,964,Won,Hot,0.85,Jaswinder Singh
+954,LI-4596-35,OPP-8680-76,Kits Dragon,RP-4689921,ncurroqi@google.ca,2020-04-20 19:19:11,2020-04-30 02:39:58,1049,1022,Won,Hot,0.9,Jaswinder Singh
+955,LI-1758-54,OPP-0444-31,Proxima-C,JS-7471854,tmcorkilqj@cbslocal.com,2020-08-11 01:39:25,2020-08-18 08:51:17,675,809,Won,Hot,0.8,Ruchita Patil
+956,LI-8484-49,OPP-6416-26,Kits Dragon,RP-0657638,karmingerqk@tamu.edu,2019-11-28 21:10:50,2019-12-05 05:55:12,954,912,Won,Hot,0.95,Ruchita Patil
+957,LI-0939-70,OPP-8340-40,Sirius,RP-5809239,nalloisiql@amazon.co.jp,2020-09-18 15:42:54,2020-09-24 02:20:58,958,899,Open,Warm,0.35,Ruchita Patil
+958,LI-5109-10,OPP-2191-01,Proxima-C,HC-3242929,bcorckqm@guardian.co.uk,2020-04-10 04:28:03,2020-04-19 06:13:33,1126,1164,Open,Warm,0.3,Ruchita Patil
+959,LI-1854-49,OPP-5203-44,Proxima-C,JS-5854504,yhackinqn@linkedin.com,2020-02-21 01:52:33,2020-02-28 12:56:33,1414,1127,Won,Hot,0.8,Belal Farooqui
+960,LI-7127-70,OPP-2610-03,Kits Dragon,RP-8333654,obeswickqo@163.com,2020-01-31 01:30:28,2020-02-05 13:49:43,1026,896,Won,Hot,0.8,Ruchita Patil
+961,LI-7532-80,OPP-0787-55,Kits Dragon,RP-0485920,wellicockqp@xrea.com,2019-11-23 19:41:21,2019-12-01 06:19:04,980,982,Won,Hot,0.9,Belal Farooqui
+962,LI-6706-24,OPP-1086-29,Proxima-C,BM-6128007,oclaughtonqq@tinyurl.com,2019-12-25 03:04:18,2020-01-03 04:40:16,1009,863,Lost,Cold,0.05,Heena Chopra
+963,LI-5441-91,OPP-4626-16,Aurora,HC-6293350,dmartlewqr@dion.ne.jp,2020-09-20 18:22:23,2020-09-25 19:40:25,449,395,Won,Hot,0.8,Ruchita Patil
+964,LI-9359-83,OPP-3599-65,Kits Dragon,BM-0070194,alamminqs@homestead.com,2019-11-15 08:26:24,2019-11-23 20:42:27,1480,1164,Won,Hot,0.85,Ruchita Patil
+965,LI-3047-35,OPP-1099-94,Kits Dragon,RP-2899505,ljestqt@simplemachines.org,2019-11-19 21:10:05,2019-11-28 08:02:13,1462,1322,Won,Hot,0.9,Jaswinder Singh
+966,LI-7223-64,OPP-4069-02,Aurora,RP-8232116,agirardetqu@wufoo.com,2020-02-01 00:38:32,2020-02-06 06:33:48,1002,1294,Open,Warm,0.4,Jaswinder Singh
+967,LI-8101-33,OPP-2306-73,Kits Dragon,RP-2296044,ddergesqv@flavors.me,2020-06-17 00:43:33,2020-06-27 13:09:04,1585,1170,Open,Warm,0.4,Ruchita Patil
+968,LI-1113-67,OPP-3546-47,Kits Dragon,JS-1016746,btenantqw@cnet.com,2020-05-06 18:36:52,2020-05-14 02:06:08,726,645,Won,Hot,0.8,Belal Farooqui
+969,LI-1982-58,OPP-6806-38,Proxima-C,JS-6505187,dstrongitharmqx@miibeian.gov.cn,2020-08-26 21:49:45,2020-09-04 03:27:57,1105,1314,Lost,Cold,0.0,Ruchita Patil
+970,LI-6764-13,OPP-7845-44,Kits Dragon,BM-2044517,glaysonqy@bloglovin.com,2019-12-07 16:58:55,2019-12-12 18:09:43,869,598,Lost,Cold,0.0,Belal Farooqui
+971,LI-6572-27,OPP-3914-54,Proxima-C,HC-9133344,cedbrookeqz@wired.com,2020-04-02 19:35:45,2020-04-12 05:23:41,1140,770,Won,Hot,0.85,Ruchita Patil
+972,LI-3724-12,OPP-7316-69,Proxima-C,RP-6882689,sleatr0@va.gov,2019-11-25 12:52:55,2019-12-01 17:43:37,1115,1037,Won,Hot,0.8,Ruchita Patil
+973,LI-0164-49,OPP-3823-02,Kits Dragon,HC-3682597,kmcr1@cisco.com,2019-12-30 23:47:55,2020-01-07 05:45:47,1094,860,Open,Warm,0.45,Ruchita Patil
+974,LI-9060-09,OPP-7196-92,Aurora,BM-0178091,cemettr2@xing.com,2020-02-26 19:03:33,2020-03-03 03:22:36,1336,1259,Won,Hot,0.8,Heena Chopra
+975,LI-2058-68,OPP-8526-88,Sirius,JS-2384619,arohloffr3@jimdo.com,2020-03-02 06:09:18,2020-03-07 16:53:32,1164,970,Won,Hot,0.85,Ruchita Patil
+976,LI-6888-47,OPP-6126-03,Kits Dragon,HC-3820607,bwinridger4@bbc.co.uk,2020-07-08 03:32:13,2020-07-18 12:50:34,1226,1077,Lost,Cold,0.05,Ruchita Patil
+977,LI-0197-24,OPP-1743-51,Anhee-C,JS-6269756,dlebbonr5@google.ca,2020-08-28 05:11:59,2020-09-07 12:37:29,822,722,Open,Warm,0.4,Ruchita Patil
+978,LI-4110-13,OPP-0177-26,Sirius,RP-6352839,mknokr6@macromedia.com,2020-09-06 06:16:39,2020-09-12 08:17:52,1209,1507,Won,Hot,0.85,Ruchita Patil
+979,LI-9149-46,OPP-4816-15,Sirius,RP-2444887,smcgarryr7@diigo.com,2020-02-01 01:07:26,2020-02-08 06:52:29,1609,1170,Open,Warm,0.4,Ruchita Patil
+980,LI-5104-52,OPP-2685-63,Proxima-C,RP-2066095,mrosenstielr8@hp.com,2020-02-16 16:23:53,2020-02-23 03:45:12,935,810,Won,Hot,0.9,Belal Farooqui
+981,LI-7618-59,OPP-5283-63,Kits Dragon,RP-6542954,reatockr9@princeton.edu,2020-08-20 22:43:44,2020-08-29 07:56:26,1202,1140,Open,Warm,0.35,Ruchita Patil
+982,LI-4406-28,OPP-9587-72,Proxima-C,HC-8638924,zlindera@360.cn,2020-04-26 18:38:20,2020-05-04 01:43:55,1382,947,Won,Hot,0.9,Ruchita Patil
+983,LI-8770-29,OPP-2011-08,Kits Dragon,RP-4765184,ckeuningrb@php.net,2020-08-16 08:21:23,2020-08-21 08:49:18,962,857,Won,Hot,0.85,Ruchita Patil
+984,LI-5479-80,OPP-9017-29,Kits Dragon,RP-6864531,jcordeaurc@prlog.org,2020-01-04 21:52:46,2020-01-11 00:04:44,593,705,Won,Hot,0.95,Ruchita Patil
+985,LI-3599-02,OPP-9379-19,Proxima-C,RP-4999110,mtrenamrd@blog.com,2020-03-10 16:00:44,2020-03-21 00:39:45,1014,844,Won,Hot,0.85,Belal Farooqui
+986,LI-6777-77,OPP-4090-53,Sirius,HC-6542702,bscrivensre@jugem.jp,2020-08-16 12:58:18,2020-08-22 22:34:17,916,1044,Lost,Cold,0.0,Ruchita Patil
+987,LI-5075-13,OPP-9153-61,Kits Dragon,JS-5488476,lingsrf@pcworld.com,2020-05-07 11:29:18,2020-05-17 00:19:26,1010,725,Open,Warm,0.3,Heena Chopra
+988,LI-5657-81,OPP-7962-63,Kits Dragon,RP-2132310,gcroxleyrg@xinhuanet.com,2020-06-14 06:11:06,2020-06-21 15:31:52,655,854,Open,Warm,0.35,Jaswinder Singh
+989,LI-8749-12,OPP-0512-98,Aurora,HC-2453638,adominkarh@who.int,2020-05-04 05:07:32,2020-05-11 17:15:24,619,795,Open,Warm,0.45,Belal Farooqui
+990,LI-4091-32,OPP-6471-82,Aurora,HC-0196216,gshreeveri@omniture.com,2020-10-14 08:36:39,2020-10-22 11:17:30,545,727,Lost,Cold,0.0,Ruchita Patil
+991,LI-0942-55,OPP-6933-26,Sirius,HC-2106680,gfountainerj@bravesites.com,2020-11-07 13:00:23,2020-11-17 21:18:57,1383,1073,Open,Warm,0.4,Belal Farooqui
+992,LI-3052-65,OPP-6456-35,Proxima-C,JS-0261508,bdrinkwaterrk@seattletimes.com,2020-04-21 02:10:15,2020-04-26 06:22:29,1140,855,Won,Hot,0.95,Belal Farooqui
+993,LI-0040-76,OPP-6861-06,Kits Dragon,RP-3823182,lkyngerl@shutterfly.com,2020-10-29 13:49:11,2020-11-08 14:58:37,1439,1049,Won,Hot,0.85,Heena Chopra
+994,LI-3979-28,OPP-9473-61,Kits Dragon,BM-8485548,abailyrm@yolasite.com,2020-01-05 17:11:24,2020-01-11 21:11:42,930,635,Open,Warm,0.3,Ruchita Patil
+995,LI-1698-14,OPP-5899-31,Proxima-C,RP-9886307,tbrendrn@fda.gov,2020-01-21 05:51:00,2020-01-26 14:08:46,987,1315,Lost,Cold,0.05,Belal Farooqui
+996,LI-1159-32,OPP-1882-47,Proxima-C,BM-8238045,jrablenro@rambler.ru,2020-01-04 14:43:27,2020-01-12 22:13:50,1746,1194,Lost,Cold,0.05,Heena Chopra
+997,LI-0654-73,OPP-2881-48,Apollo,BM-8135782,drippinrp@posterous.com,2020-01-26 09:23:11,2020-01-31 16:39:47,749,557,Lost,Cold,0.05,Ruchita Patil
+998,LI-1056-21,OPP-9548-45,Kits Dragon,RP-5555131,mpostancerq@foxnews.com,2020-06-30 09:58:06,2020-07-10 21:43:28,2008,1625,Won,Hot,0.85,Ruchita Patil
+999,LI-5521-32,OPP-0931-94,Proxima-C,BM-8466337,dbingellrr@sfgate.com,2020-11-08 06:08:18,2020-11-17 16:47:42,802,968,Lost,Cold,0.05,Ruchita Patil
